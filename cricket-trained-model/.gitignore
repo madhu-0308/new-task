@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw_videos/
+data/clips/
+data/poses/
+runs/
+*.pt
+.DS_Store
+Thumbs.db
+*.avi
+*.rar

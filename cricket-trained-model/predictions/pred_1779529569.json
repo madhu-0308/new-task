@@ -1,0 +1,32 @@
+{
+  "predictions": [
+    {
+      "name": "Hook",
+      "prob": 0.8783450722694397
+    },
+    {
+      "name": "Pull",
+      "prob": 0.07468873262405396
+    },
+    {
+      "name": "Lofted Offside",
+      "prob": 0.0068578836508095264
+    }
+  ],
+  "feedback": {
+    "coach": "Coach: personalized",
+    "shot": "Hook",
+    "shot_confidence": 0.8783450722694397,
+    "issue": "Your upper body is leaning too much.",
+    "notes": "Drill: short-ball throwdowns to practise timing and compact bat path.",
+    "advice": "Keep your head steady during the shot. Keep your torso aligned and balanced over your base. Watch the short ball; rotate hips and keep eyes on the contact point.",
+    "corrections": "Head: reduce lateral movement; keep eyes on the ball. Torso: avoid excessive lean; balance over your base.",
+    "summary": "Shot detected: Hook. Confidence 0.88. Your upper body is leaning too much.",
+    "visible_ratio": 0.88,
+    "avg_confidence": 0.7763358354568481,
+    "head_stillness": 0.3981291949748993,
+    "wrist_motion": 0.23539189994335175,
+    "ankle_motion": 0.16020654141902924,
+    "torso_tilt": 0.3577124774456024
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "predictions": [
+    {
+      "name": "Straight Drive",
+      "prob": 0.6030850410461426
+    },
+    {
+      "name": "Lofted Legside",
+      "prob": 0.08853351324796677
+    },
+    {
+      "name": "Square Cut",
+      "prob": 0.06219463050365448
+    }
+  ],
+  "feedback": {
+    "coach": "Coach: personalized",
+    "shot": "Straight Drive",
+    "shot_confidence": 0.6030850410461426,
+    "issue": "Shot prediction is not confident.",
+    "notes": "The model is unsure of the exact shot type. Drill: shadow drives with a focus on chest-over-front-knee.",
+    "advice": "Keep your head steady during the shot. Keep your torso aligned and balanced over your base. Lean into the line and drive through the ball.",
+    "corrections": "Head: reduce lateral movement; keep eyes on the ball. Torso: avoid excessive lean; balance over your base.",
+    "summary": "Shot detected: Straight Drive. Confidence 0.60. Shot prediction is not confident.",
+    "visible_ratio": 1.0,
+    "avg_confidence": 0.9129834175109863,
+    "head_stillness": 0.3135761618614197,
+    "wrist_motion": 0.31466513872146606,
+    "ankle_motion": 0.12094517797231674,
+    "torso_tilt": 0.21641123294830322
+  }
+}

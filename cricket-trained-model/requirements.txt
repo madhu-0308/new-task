@@ -1,0 +1,23 @@
+# Step 2 — video download
+yt-dlp>=2024.10.7
+Flask>=2.2.0
+flask-cors>=3.0.10
+
+# Step 3 — clip segmentation
+ffmpeg-python>=0.2.0
+scenedetect[opencv]>=0.6.4
+
+# Step 5 — pose extraction
+ultralytics>=8.3.0          # YOLOv8/v11 + YOLO-Pose
+opencv-python>=4.10.0
+numpy>=1.26.0
+
+# Step 6 — splits
+scikit-learn>=1.5.0
+pyyaml>=6.0
+
+# Step 7 — training
+torch>=2.4.0
+torchvision>=0.19.0
+tqdm>=4.66.0
+tensorboard>=2.17.0

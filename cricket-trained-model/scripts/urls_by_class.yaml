@@ -1,0 +1,90 @@
+# Per-class YouTube URLs. The download script reads this and saves each video
+# into data/raw_videos/<class>/, so clips inherit the class automatically.
+
+drive:
+  urls:
+    - https://youtu.be/nPBgrDjRCcg
+    - https://youtu.be/5p82ZiV8x7g
+    - https://youtu.be/oruAq_GSLZ4
+    - https://youtu.be/Z2TMN715wmY
+
+cut:
+  urls:
+    - https://youtu.be/KBjsnhn6O2M
+    - https://youtu.be/woRWcqgxnkM
+    - https://youtu.be/MHXfJBF9b50
+    - https://youtu.be/LaeT_PTtdR4
+    - https://youtu.be/57VC_XG3CV8
+    - https://youtube.com/shorts/BmHPF5FBZ2Q
+    - https://youtube.com/shorts/KIIcmo33rkA
+    - https://youtube.com/shorts/jXbbcduGM3A
+    - https://youtube.com/shorts/t0FcKVcMbWM
+    - https://youtube.com/shorts/UA8OnOK2yhI
+    - https://youtube.com/shorts/VVohPxkUbTQ
+    - https://youtube.com/shorts/bKYOfYPI5_w
+
+pull_hook:
+  urls:
+    - https://youtu.be/NuhXrcjajaA
+    - https://youtu.be/Ood03gSwnH4
+    - https://youtu.be/B2OXTZlHyUw
+    - https://youtu.be/CUMiqWWtCZY
+    - https://youtube.com/shorts/A_73UB5aBzQ
+    - https://youtube.com/shorts/W27filBdIEc
+    - https://youtube.com/shorts/WtgHTWzM3JY
+    - https://youtube.com/shorts/4pwl3k9_Fcg
+    - https://youtube.com/shorts/pAsw8GLvm_s
+    - https://youtube.com/shorts/nU6nEmy7Iqw
+    - https://youtube.com/shorts/nx4W2VYBwqM
+    - https://youtube.com/shorts/-yKm6t5prvI
+    - https://youtube.com/shorts/GCIf1BnxkQo
+    - https://youtu.be/tQ6TDYtH8-U
+
+sweep:
+  urls:
+    - https://youtu.be/EzH1F4XWZlw
+    - https://youtu.be/57tCYf39gYY
+    - https://youtu.be/fpLAkPx3s4s
+    - https://youtube.com/shorts/njIyB--SHkQ
+    - https://youtube.com/shorts/PHfwNK-hux8
+    - https://youtube.com/shorts/1Rpovdn3sW0
+    - https://youtube.com/shorts/TMKCUGXo8yg
+    - https://youtube.com/shorts/RuGGRCSWc0E
+    - https://youtube.com/shorts/X1ueUnnhAv0
+    - https://youtube.com/shorts/qEpgkJdl6B4
+    - https://youtube.com/shorts/KtaIWlcQ068
+    - https://youtube.com/shorts/nPAIwTlao3w
+    - https://youtube.com/shorts/tJJBsEx-9oM
+    - https://youtube.com/shorts/3Lhmoq1_pWs
+
+defensive:
+  urls:
+    - https://youtu.be/XAvMBiE3vk4
+
+glance:
+  urls:
+    - https://youtube.com/shorts/o7GZOCroNks
+    - https://youtube.com/shorts/VEJljiJ0_ps
+    - https://youtube.com/shorts/tdK3Sa7zyGk
+    - https://youtube.com/shorts/LGO5p40-LG8
+    - https://youtube.com/shorts/O0xJ_bMWAD0
+    - https://youtube.com/shorts/utnTcV0oubk
+
+innovative:
+  urls:
+    - https://youtu.be/iWSOLsz8zgQ
+    - https://youtu.be/WFZerO-Se3I
+    - https://youtu.be/xSPhnvWQRjE
+    - https://youtu.be/yWZx0c45Yx8
+    - https://youtu.be/GjAoL-da7UU
+    - https://youtu.be/nGko70vxgLk
+    - https://youtu.be/FuhmIyKzG-4
+    - https://youtu.be/3-poARm43qU
+    - https://youtu.be/U7Op519aeD0
+    - https://youtu.be/o83vJITr0_Y
+    - https://youtu.be/RPdKNlfQ_7Y
+    - https://youtu.be/PiOnPQgF-FM
+    - https://youtu.be/hQZnqOc0s2I
+
+other:
+  urls: []

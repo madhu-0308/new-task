@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Cricket Coach</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1>Cricket Coach</h1>
+        <p class="tag">Upload a clip and get personalized shot feedback</p>
+      </div>
+    </header>
+
+    <main class="container main-grid">
+      <section class="card upload-card">
+        <h2>Upload Clip</h2>
+        <div id="drop-area" class="drop-area">
+          <p>Drag & drop video here, or</p>
+          <label class="btn">Choose file<input id="file-input" type="file" name="video" accept="video/*" hidden></label>
+        </div>
+        <div class="preview-wrap">
+          <video id="preview" controls muted playsinline></video>
+        </div>
+        <div class="controls">
+          <button id="upload-btn" class="btn primary">Analyze</button>
+          <div class="progress" id="progress" aria-hidden="true"><div id="progress-bar"></div></div>
+        </div>
+        <p class="small">Supported: mp4, mov, avi. Max upload depends on your server.</p>
+      </section>
+
+      <aside class="card result-card">
+        <h2>Coach Feedback</h2>
+        <div id="result-empty" class="placeholder">No analysis yet — upload a clip to begin.</div>
+        <div id="results" class="hidden">
+          <div class="summary">
+            <div class="shot"> <strong id="shot-name">—</strong> <span id="shot-prob">0%</span></div>
+            <div class="bar"><div id="shot-bar" class="meter"></div></div>
+          </div>
+
+          <div class="predictions">
+            <h3>Top Predictions</h3>
+            <ul id="pred-list"></ul>
+          </div>
+
+          <div class="feedback">
+            <h3>Notes</h3>
+            <p id="notes"></p>
+            <h3>Advice</h3>
+            <p id="advice"></p>
+            <h3>Corrections</h3>
+            <p id="corrections"></p>
+          </div>
+          <div class="meta"><small id="meta"></small></div>
+        </div>
+      </aside>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">Cricket Coach — Lightweight pose-based feedback</div>
+    </footer>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+  </body>
+</html>

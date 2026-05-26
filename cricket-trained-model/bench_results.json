@@ -1,0 +1,138 @@
+{
+  "video": "cover-drive .mp4",
+  "device": "cpu",
+  "runs": [
+    {
+      "video_meta": {
+        "w": 720,
+        "h": 1280,
+        "fps": 30.0,
+        "frames": 290
+      },
+      "pose_yolo_total_s": 12.248756099987077,
+      "frame_decode_total_s": 0.7518031000217889,
+      "batsman_select_total_s": 0.049986200046987506,
+      "frames_processed": 290,
+      "frames_missed": 0,
+      "per_frame_pose_ms": 42.23708999995544,
+      "per_frame_decode_ms": 2.5924244828337546,
+      "extract_open_to_close_s": 13.08794510000007,
+      "visible_fraction": 1.0,
+      "normalize_resample_s": 0.0004622000014933292,
+      "extract_total_s": 13.088469000002078,
+      "classifier_forward_s": 0.002494600001227809,
+      "coach_feedback_s": 0.0005087000026833266,
+      "top_class": "Cover Drive",
+      "top_prob": 0.6867927312850952
+    },
+    {
+      "video_meta": {
+        "w": 720,
+        "h": 1280,
+        "fps": 30.0,
+        "frames": 290
+      },
+      "pose_yolo_total_s": 12.664543500017317,
+      "frame_decode_total_s": 0.7878418000218517,
+      "batsman_select_total_s": 0.05372170000919141,
+      "frames_processed": 290,
+      "frames_missed": 0,
+      "per_frame_pose_ms": 43.67083965523213,
+      "per_frame_decode_ms": 2.716695862144316,
+      "extract_open_to_close_s": 13.541603300000133,
+      "visible_fraction": 1.0,
+      "normalize_resample_s": 0.0005423999973572791,
+      "extract_total_s": 13.542204800000036,
+      "classifier_forward_s": 0.001616099998500431,
+      "coach_feedback_s": 0.00039370000013150275,
+      "top_class": "Cover Drive",
+      "top_prob": 0.6867927312850952
+    },
+    {
+      "video_meta": {
+        "w": 720,
+        "h": 1280,
+        "fps": 30.0,
+        "frames": 290
+      },
+      "pose_yolo_total_s": 18.360827199980122,
+      "frame_decode_total_s": 1.1557422000005317,
+      "batsman_select_total_s": 0.07645569998931023,
+      "frames_processed": 290,
+      "frames_missed": 0,
+      "per_frame_pose_ms": 63.31319724131077,
+      "per_frame_decode_ms": 3.9853179310363163,
+      "extract_open_to_close_s": 19.64009470000019,
+      "visible_fraction": 1.0,
+      "normalize_resample_s": 0.0005649000013363548,
+      "extract_total_s": 19.640735299999506,
+      "classifier_forward_s": 0.0026001000005635433,
+      "coach_feedback_s": 0.000587200000154553,
+      "top_class": "Cover Drive",
+      "top_prob": 0.6867927312850952
+    }
+  ],
+  "summary": {
+    "extract_total_s": {
+      "mean": 15.423803033333874,
+      "std": 3.659010433202433,
+      "min": 13.088469000002078,
+      "max": 19.640735299999506
+    },
+    "pose_yolo_total_s": {
+      "mean": 14.424708933328171,
+      "std": 3.4151120109462503,
+      "min": 12.248756099987077,
+      "max": 18.360827199980122
+    },
+    "frame_decode_total_s": {
+      "mean": 0.8984623666813908,
+      "std": 0.2235383221037667,
+      "min": 0.7518031000217889,
+      "max": 1.1557422000005317
+    },
+    "batsman_select_total_s": {
+      "mean": 0.060054533348496385,
+      "std": 0.01432610171598384,
+      "min": 0.049986200046987506,
+      "max": 0.07645569998931023
+    },
+    "normalize_resample_s": {
+      "mean": 0.0005231666667289877,
+      "std": 5.39839165606965e-05,
+      "min": 0.0004622000014933292,
+      "max": 0.0005649000013363548
+    },
+    "classifier_forward_s": {
+      "mean": 0.0022369333334305943,
+      "std": 0.0005402389145418362,
+      "min": 0.001616099998500431,
+      "max": 0.0026001000005635433
+    },
+    "coach_feedback_s": {
+      "mean": 0.0004965333343231274,
+      "std": 9.732206001966056e-05,
+      "min": 0.00039370000013150275,
+      "max": 0.000587200000154553
+    },
+    "per_frame_pose_ms": {
+      "mean": 49.74037563216611,
+      "std": 11.776248313607761,
+      "min": 42.23708999995544,
+      "max": 63.31319724131077
+    },
+    "per_frame_decode_ms": {
+      "mean": 3.0981460920047956,
+      "std": 0.7708218003578162,
+      "min": 2.5924244828337546,
+      "max": 3.9853179310363163
+    }
+  },
+  "model": {
+    "yolo_load_s": 0.1558186999973259,
+    "classifier_load_s": 0.02351999999882537,
+    "classifier_params": 74959,
+    "classifier_ckpt_bytes": 308515,
+    "pose_model_bytes": 6832633
+  }
+}

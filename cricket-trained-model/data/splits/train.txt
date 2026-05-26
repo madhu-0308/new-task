@@ -1,0 +1,7065 @@
+Pull/vid91_30.npy	8
+Late Cut/vid479_7.npy	5
+Flick/vid302_7.npy	3
+Sweep/vid212_13.npy	13
+Lofted Offside/vid391_3.npy	7
+Lofted Offside/vid56_12.npy	7
+Defensive/vid312_38.npy	1
+Square Cut/vid527_72.npy	11
+Lofted Legside/vid486_5.npy	6
+Hook/vid527_31.npy	4
+Sweep/vid463_21.npy	13
+Upper Cut/vid499_9.npy	14
+Hook/vid104_7.npy	4
+Square Cut/vid56_25.npy	11
+Down The Wicket/vid243_1.npy	2
+Square Cut/vid384_0.npy	11
+Late Cut/vid48_19.npy	5
+Scoop/vid131_16.npy	10
+Straight Drive/vid222_37.npy	12
+Lofted Offside/vid443_29.npy	7
+Flick/vid377_18.npy	3
+Defensive/vid14_44.npy	1
+Defensive/vid294_19.npy	1
+Pull/vid112_12.npy	8
+Lofted Legside/vid449_34.npy	6
+Lofted Offside/vid320_22.npy	7
+Lofted Legside/vid368_54.npy	6
+Square Cut/vid227_34.npy	11
+Pull/vid114_23.npy	8
+Defensive/vid136_25.npy	1
+Sweep/vid482_61.npy	13
+Down The Wicket/vid181_3.npy	2
+Square Cut/vid247_33.npy	11
+Defensive/vid170_51.npy	1
+Sweep/vid422_24.npy	13
+Square Cut/vid40_1.npy	11
+Cover Drive/vid221_10.npy	0
+Cover Drive/vid92_20.npy	0
+Sweep/vid86_20.npy	13
+Lofted Offside/vid519_26.npy	7
+Lofted Legside/vid320_53.npy	6
+Cover Drive/vid2_21.npy	0
+Defensive/vid426_43.npy	1
+Down The Wicket/vid178_33.npy	2
+Lofted Legside/vid376_18.npy	6
+Defensive/vid251_4.npy	1
+Straight Drive/vid372_1.npy	12
+Sweep/vid72_7.npy	13
+Down The Wicket/vid13_36.npy	2
+Square Cut/vid380_26.npy	11
+Square Cut/vid275_11.npy	11
+Flick/vid136_12.npy	3
+Flick/vid55_51.npy	3
+Lofted Offside/vid393_31.npy	7
+Cover Drive/vid104_26.npy	0
+Lofted Offside/vid332_5.npy	7
+Flick/vid58_1.npy	3
+Hook/vid455_21.npy	4
+Scoop/vid126_9.npy	10
+Square Cut/vid99_46.npy	11
+Pull/vid387_26.npy	8
+Flick/vid294_20.npy	3
+Lofted Legside/vid179_9.npy	6
+Flick/vid137_32.npy	3
+Cover Drive/vid88_26.npy	0
+Scoop/vid494_20.npy	10
+Upper Cut/vid135_19.npy	14
+Lofted Offside/vid465_25.npy	7
+Reverse Sweep/vid16_33.npy	9
+Pull/vid80_35.npy	8
+Square Cut/vid320_15.npy	11
+Hook/vid385_39.npy	4
+Flick/vid100_7.npy	3
+Square Cut/vid123_1.npy	11
+Upper Cut/vid361_67.npy	14
+Defensive/vid149_1.npy	1
+Flick/vid247_11.npy	3
+Cover Drive/vid209_30.npy	0
+Pull/vid42_17.npy	8
+Flick/vid169_1.npy	3
+Flick/vid367_45.npy	3
+Lofted Legside/vid386_20.npy	6
+Flick/vid146_0.npy	3
+Flick/vid251_52.npy	3
+Cover Drive/vid113_7.npy	0
+Lofted Offside/vid63_7.npy	7
+Lofted Legside/vid326_13.npy	6
+Lofted Legside/vid141_30.npy	6
+Hook/vid230_1.npy	4
+Flick/vid76_6.npy	3
+Upper Cut/vid504_47.npy	14
+Cover Drive/vid517_53.npy	0
+Late Cut/vid525_32.npy	5
+Hook/vid83_41.npy	4
+Down The Wicket/vid157_12.npy	2
+Hook/vid56_13.npy	4
+Sweep/vid507_19.npy	13
+Cover Drive/vid457_30.npy	0
+Hook/vid350_13.npy	4
+Flick/vid436_1.npy	3
+Reverse Sweep/vid28_33.npy	9
+Flick/vid441_14.npy	3
+Pull/vid102_29.npy	8
+Lofted Offside/vid380_42.npy	7
+Straight Drive/vid509_42.npy	12
+Sweep/vid182_7.npy	13
+Sweep/vid212_32.npy	13
+Square Cut/vid233_4.npy	11
+Straight Drive/vid324_21.npy	12
+Down The Wicket/vid434_51.npy	2
+Straight Drive/vid313_18.npy	12
+Square Cut/vid225_13.npy	11
+Straight Drive/vid415_24.npy	12
+Straight Drive/vid505_33.npy	12
+Lofted Legside/vid114_11.npy	6
+Cover Drive/vid483_1.npy	0
+Lofted Offside/vid418_13.npy	7
+Lofted Legside/vid461_49.npy	6
+Down The Wicket/vid24_14.npy	2
+Upper Cut/vid366_13.npy	14
+Late Cut/vid248_20.npy	5
+Lofted Legside/vid77_37.npy	6
+Cover Drive/vid134_2.npy	0
+Down The Wicket/vid229_6.npy	2
+Pull/vid312_23.npy	8
+Flick/vid222_15.npy	3
+Cover Drive/vid31_2.npy	0
+Hook/vid37_5.npy	4
+Scoop/vid212_30.npy	10
+Sweep/vid115_31.npy	13
+Hook/vid402_21.npy	4
+Lofted Offside/vid379_24.npy	7
+Down The Wicket/vid451_34.npy	2
+Square Cut/vid522_51.npy	11
+Lofted Legside/vid424_26.npy	6
+Straight Drive/vid91_10.npy	12
+Upper Cut/vid501_21.npy	14
+Down The Wicket/vid384_12.npy	2
+Sweep/vid41_7.npy	13
+Lofted Legside/vid392_35.npy	6
+Lofted Offside/vid171_22.npy	7
+Sweep/vid367_22.npy	13
+Down The Wicket/vid434_69.npy	2
+Square Cut/vid529_45.npy	11
+Sweep/vid97_28.npy	13
+Pull/vid323_11.npy	8
+Flick/vid397_0.npy	3
+Cover Drive/vid443_14.npy	0
+Scoop/vid508_15.npy	10
+Scoop/vid458_15.npy	10
+Defensive/vid4_30.npy	1
+Hook/vid42_42.npy	4
+Lofted Offside/vid442_8.npy	7
+Down The Wicket/vid54_57.npy	2
+Defensive/vid134_9.npy	1
+Lofted Offside/vid330_11.npy	7
+Down The Wicket/vid23_29.npy	2
+Pull/vid427_23.npy	8
+Defensive/vid147_8.npy	1
+Defensive/vid295_20.npy	1
+Lofted Legside/vid455_48.npy	6
+Lofted Offside/vid5_3.npy	7
+Defensive/vid464_34.npy	1
+Pull/vid148_5.npy	8
+Flick/vid237_9.npy	3
+Lofted Offside/vid451_54.npy	7
+Lofted Offside/vid514_47.npy	7
+Lofted Legside/vid420_22.npy	6
+Lofted Legside/vid56_30.npy	6
+Lofted Legside/vid454_18.npy	6
+Lofted Offside/vid141_35.npy	7
+Sweep/vid359_9.npy	13
+Flick/vid506_26.npy	3
+Lofted Legside/vid160_46.npy	6
+Lofted Offside/vid211_29.npy	7
+Lofted Legside/vid187_14.npy	6
+Pull/vid14_60.npy	8
+Scoop/vid301_3.npy	10
+Sweep/vid174_23.npy	13
+Pull/vid526_10.npy	8
+Pull/vid81_9.npy	8
+Pull/vid2_28.npy	8
+Square Cut/vid377_8.npy	11
+Lofted Offside/vid369_65.npy	7
+Cover Drive/vid522_5.npy	0
+Sweep/vid122_11.npy	13
+Down The Wicket/vid300_30.npy	2
+Down The Wicket/vid118_6.npy	2
+Pull/vid449_38.npy	8
+Down The Wicket/vid265_3.npy	2
+Straight Drive/vid226_48.npy	12
+Square Cut/vid254_8.npy	11
+Cover Drive/vid4_23.npy	0
+Lofted Legside/vid21_20.npy	6
+Pull/vid344_25.npy	8
+Lofted Legside/vid486_52.npy	6
+Down The Wicket/vid84_28.npy	2
+Reverse Sweep/vid474_0.npy	9
+Lofted Legside/vid484_23.npy	6
+Lofted Offside/vid102_17.npy	7
+Lofted Legside/vid428_1.npy	6
+Flick/vid171_27.npy	3
+Defensive/vid223_6.npy	1
+Down The Wicket/vid510_4.npy	2
+Square Cut/vid69_11.npy	11
+Square Cut/vid479_11.npy	11
+Lofted Legside/vid518_24.npy	6
+Lofted Legside/vid332_12.npy	6
+Lofted Offside/vid513_41.npy	7
+Down The Wicket/vid120_15.npy	2
+Cover Drive/vid471_28.npy	0
+Lofted Offside/vid365_76.npy	7
+Late Cut/vid192_0.npy	5
+Cover Drive/vid358_27.npy	0
+Down The Wicket/vid67_7.npy	2
+Defensive/vid147_37.npy	1
+Defensive/vid304_23.npy	1
+Reverse Sweep/vid161_39.npy	9
+Cover Drive/vid135_0.npy	0
+Sweep/vid440_27.npy	13
+Sweep/vid200_13.npy	13
+Defensive/vid238_51.npy	1
+Hook/vid170_4.npy	4
+Cover Drive/vid109_3.npy	0
+Cover Drive/vid519_56.npy	0
+Upper Cut/vid357_80.npy	14
+Flick/vid508_28.npy	3
+Hook/vid215_37.npy	4
+Flick/vid406_2.npy	3
+Square Cut/vid216_17.npy	11
+Straight Drive/vid40_2.npy	12
+Hook/vid2_14.npy	4
+Flick/vid459_6.npy	3
+Flick/vid294_24.npy	3
+Down The Wicket/vid466_23.npy	2
+Down The Wicket/vid55_8.npy	2
+Square Cut/vid68_0.npy	11
+Lofted Legside/vid2_13.npy	6
+Sweep/vid157_6.npy	13
+Lofted Offside/vid324_40.npy	7
+Pull/vid413_11.npy	8
+Lofted Legside/vid377_10.npy	6
+Scoop/vid265_19.npy	10
+Lofted Legside/vid355_12.npy	6
+Lofted Legside/vid271_6.npy	6
+Cover Drive/vid170_5.npy	0
+Straight Drive/vid341_29.npy	12
+Lofted Legside/vid366_16.npy	6
+Hook/vid103_0.npy	4
+Pull/vid496_19.npy	8
+Defensive/vid525_13.npy	1
+Pull/vid356_51.npy	8
+Flick/vid482_27.npy	3
+Lofted Legside/vid369_30.npy	6
+Late Cut/vid450_54.npy	5
+Upper Cut/vid57_28.npy	14
+Lofted Offside/vid131_4.npy	7
+Hook/vid53_13.npy	4
+Scoop/vid498_26.npy	10
+Cover Drive/vid1_43.npy	0
+Reverse Sweep/vid282_14.npy	9
+Lofted Offside/vid24_18.npy	7
+Square Cut/vid119_21.npy	11
+Down The Wicket/vid125_25.npy	2
+Lofted Legside/vid25_20.npy	6
+Down The Wicket/vid70_15.npy	2
+Flick/vid318_5.npy	3
+Straight Drive/vid343_30.npy	12
+Lofted Legside/vid213_53.npy	6
+Hook/vid478_2.npy	4
+Pull/vid21_13.npy	8
+Sweep/vid323_34.npy	13
+Lofted Offside/vid474_9.npy	7
+Late Cut/vid467_4.npy	5
+Straight Drive/vid226_10.npy	12
+Pull/vid360_48.npy	8
+Pull/vid442_32.npy	8
+Sweep/vid483_4.npy	13
+Lofted Offside/vid406_42.npy	7
+Square Cut/vid460_41.npy	11
+Straight Drive/vid215_49.npy	12
+Lofted Offside/vid448_6.npy	7
+Pull/vid23_15.npy	8
+Down The Wicket/vid343_4.npy	2
+Upper Cut/vid104_18.npy	14
+Flick/vid507_38.npy	3
+Down The Wicket/vid355_47.npy	2
+Lofted Offside/vid401_16.npy	7
+Sweep/vid536_55.npy	13
+Pull/vid312_30.npy	8
+Cover Drive/vid41_15.npy	0
+Square Cut/vid373_35.npy	11
+Flick/vid513_5.npy	3
+Down The Wicket/vid150_23.npy	2
+Defensive/vid158_0.npy	1
+Lofted Legside/vid402_11.npy	6
+Sweep/vid451_14.npy	13
+Flick/vid238_30.npy	3
+Sweep/vid68_44.npy	13
+Flick/vid161_22.npy	3
+Square Cut/vid40_44.npy	11
+Pull/vid342_34.npy	8
+Hook/vid210_6.npy	4
+Down The Wicket/vid354_22.npy	2
+Late Cut/vid57_42.npy	5
+Flick/vid429_23.npy	3
+Flick/vid245_26.npy	3
+Lofted Legside/vid393_20.npy	6
+Pull/vid417_19.npy	8
+Sweep/vid438_42.npy	13
+Lofted Offside/vid363_23.npy	7
+Cover Drive/vid304_2.npy	0
+Lofted Legside/vid112_8.npy	6
+Late Cut/vid451_46.npy	5
+Lofted Legside/vid2_15.npy	6
+Lofted Legside/vid506_22.npy	6
+Sweep/vid50_24.npy	13
+Lofted Legside/vid443_63.npy	6
+Pull/vid356_25.npy	8
+Square Cut/vid523_27.npy	11
+Cover Drive/vid249_30.npy	0
+Late Cut/vid162_43.npy	5
+Cover Drive/vid367_41.npy	0
+Sweep/vid447_28.npy	13
+Late Cut/vid531_35.npy	5
+Sweep/vid85_8.npy	13
+Late Cut/vid177_6.npy	5
+Lofted Offside/vid477_12.npy	7
+Straight Drive/vid230_22.npy	12
+Flick/vid321_24.npy	3
+Defensive/vid256_23.npy	1
+Upper Cut/vid368_55.npy	14
+Reverse Sweep/vid380_18.npy	9
+Sweep/vid433_6.npy	13
+Sweep/vid126_15.npy	13
+Down The Wicket/vid202_10.npy	2
+Square Cut/vid102_4.npy	11
+Lofted Legside/vid361_71.npy	6
+Flick/vid469_30.npy	3
+Reverse Sweep/vid67_32.npy	9
+Square Cut/vid518_35.npy	11
+Sweep/vid465_9.npy	13
+Reverse Sweep/vid234_44.npy	9
+Cover Drive/vid313_22.npy	0
+Pull/vid502_23.npy	8
+Cover Drive/vid113_22.npy	0
+Defensive/vid240_49.npy	1
+Cover Drive/vid251_38.npy	0
+Flick/vid107_7.npy	3
+Pull/vid54_2.npy	8
+Pull/vid72_2.npy	8
+Straight Drive/vid138_19.npy	12
+Hook/vid84_29.npy	4
+Cover Drive/vid108_2.npy	0
+Square Cut/vid357_51.npy	11
+Square Cut/vid356_36.npy	11
+Square Cut/vid226_20.npy	11
+Square Cut/vid210_34.npy	11
+Scoop/vid385_16.npy	10
+Pull/vid466_20.npy	8
+Square Cut/vid21_1.npy	11
+Cover Drive/vid302_14.npy	0
+Flick/vid341_12.npy	3
+Straight Drive/vid254_4.npy	12
+Sweep/vid487_19.npy	13
+Hook/vid237_35.npy	4
+Defensive/vid161_2.npy	1
+Down The Wicket/vid454_39.npy	2
+Scoop/vid491_14.npy	10
+Down The Wicket/vid440_38.npy	2
+Sweep/vid43_61.npy	13
+Pull/vid506_32.npy	8
+Flick/vid122_15.npy	3
+Hook/vid522_12.npy	4
+Hook/vid166_28.npy	4
+Straight Drive/vid58_8.npy	12
+Lofted Legside/vid175_19.npy	6
+Late Cut/vid457_43.npy	5
+Defensive/vid236_3.npy	1
+Late Cut/vid481_27.npy	5
+Lofted Legside/vid37_21.npy	6
+Scoop/vid444_58.npy	10
+Upper Cut/vid338_15.npy	14
+Lofted Offside/vid176_18.npy	7
+Sweep/vid442_24.npy	13
+Square Cut/vid357_75.npy	11
+Cover Drive/vid406_30.npy	0
+Lofted Legside/vid135_20.npy	6
+Lofted Offside/vid532_36.npy	7
+Flick/vid210_1.npy	3
+Down The Wicket/vid124_28.npy	2
+Square Cut/vid438_23.npy	11
+Down The Wicket/vid500_24.npy	2
+Lofted Offside/vid50_36.npy	7
+Straight Drive/vid123_23.npy	12
+Pull/vid454_2.npy	8
+Defensive/vid309_8.npy	1
+Lofted Legside/vid393_5.npy	6
+Lofted Offside/vid380_46.npy	7
+Square Cut/vid533_52.npy	11
+Hook/vid154_35.npy	4
+Defensive/vid393_36.npy	1
+Pull/vid507_34.npy	8
+Down The Wicket/vid92_18.npy	2
+Sweep/vid530_7.npy	13
+Sweep/vid166_2.npy	13
+Lofted Legside/vid515_83.npy	6
+Scoop/vid363_27.npy	10
+Lofted Legside/vid466_33.npy	6
+Square Cut/vid458_26.npy	11
+Reverse Sweep/vid373_27.npy	9
+Straight Drive/vid12_4.npy	12
+Square Cut/vid510_23.npy	11
+Lofted Legside/vid49_16.npy	6
+Square Cut/vid8_17.npy	11
+Straight Drive/vid456_7.npy	12
+Cover Drive/vid175_15.npy	0
+Lofted Offside/vid371_14.npy	7
+Late Cut/vid30_26.npy	5
+Down The Wicket/vid232_10.npy	2
+Cover Drive/vid320_34.npy	0
+Lofted Legside/vid17_13.npy	6
+Reverse Sweep/vid163_8.npy	9
+Cover Drive/vid303_11.npy	0
+Flick/vid506_44.npy	3
+Square Cut/vid313_9.npy	11
+Down The Wicket/vid61_6.npy	2
+Square Cut/vid462_36.npy	11
+Hook/vid389_21.npy	4
+Down The Wicket/vid234_24.npy	2
+Down The Wicket/vid450_53.npy	2
+Down The Wicket/vid66_5.npy	2
+Pull/vid498_2.npy	8
+Flick/vid252_19.npy	3
+Square Cut/vid251_24.npy	11
+Flick/vid385_42.npy	3
+Sweep/vid413_20.npy	13
+Scoop/vid499_13.npy	10
+Lofted Offside/vid513_15.npy	7
+Lofted Offside/vid498_44.npy	7
+Flick/vid223_22.npy	3
+Upper Cut/vid383_38.npy	14
+Square Cut/vid447_29.npy	11
+Flick/vid516_12.npy	3
+Scoop/vid484_0.npy	10
+Sweep/vid40_31.npy	13
+Straight Drive/vid531_18.npy	12
+Lofted Legside/vid45_50.npy	6
+Upper Cut/vid375_17.npy	14
+Lofted Legside/vid489_29.npy	6
+Flick/vid1_23.npy	3
+Hook/vid366_35.npy	4
+Lofted Offside/vid120_4.npy	7
+Lofted Offside/vid210_46.npy	7
+Down The Wicket/vid452_35.npy	2
+Lofted Offside/vid378_38.npy	7
+Cover Drive/vid33_27.npy	0
+Square Cut/vid208_28.npy	11
+Down The Wicket/vid106_4.npy	2
+Square Cut/vid420_12.npy	11
+Down The Wicket/vid512_43.npy	2
+Cover Drive/vid147_2.npy	0
+Square Cut/vid74_28.npy	11
+Defensive/vid207_40.npy	1
+Cover Drive/vid312_35.npy	0
+Square Cut/vid460_1.npy	11
+Square Cut/vid54_55.npy	11
+Square Cut/vid356_42.npy	11
+Sweep/vid245_16.npy	13
+Hook/vid502_18.npy	4
+Lofted Offside/vid474_22.npy	7
+Late Cut/vid377_9.npy	5
+Down The Wicket/vid279_16.npy	2
+Square Cut/vid277_0.npy	11
+Sweep/vid526_5.npy	13
+Straight Drive/vid458_0.npy	12
+Lofted Legside/vid533_29.npy	6
+Late Cut/vid299_17.npy	5
+Cover Drive/vid242_34.npy	0
+Reverse Sweep/vid228_24.npy	9
+Lofted Legside/vid214_25.npy	6
+Flick/vid37_31.npy	3
+Square Cut/vid373_26.npy	11
+Square Cut/vid443_24.npy	11
+Square Cut/vid245_14.npy	11
+Defensive/vid236_35.npy	1
+Hook/vid104_31.npy	4
+Scoop/vid356_56.npy	10
+Square Cut/vid91_12.npy	11
+Down The Wicket/vid515_17.npy	2
+Down The Wicket/vid297_8.npy	2
+Sweep/vid358_36.npy	13
+Defensive/vid223_7.npy	1
+Cover Drive/vid533_0.npy	0
+Pull/vid387_5.npy	8
+Sweep/vid376_23.npy	13
+Pull/vid374_15.npy	8
+Lofted Offside/vid392_26.npy	7
+Pull/vid446_27.npy	8
+Down The Wicket/vid100_26.npy	2
+Pull/vid488_17.npy	8
+Sweep/vid394_3.npy	13
+Lofted Offside/vid361_12.npy	7
+Lofted Legside/vid24_10.npy	6
+Lofted Legside/vid526_13.npy	6
+Lofted Offside/vid257_14.npy	7
+Lofted Offside/vid514_31.npy	7
+Square Cut/vid16_17.npy	11
+Cover Drive/vid519_50.npy	0
+Late Cut/vid215_41.npy	5
+Lofted Legside/vid366_57.npy	6
+Upper Cut/vid117_3.npy	14
+Lofted Legside/vid486_7.npy	6
+Pull/vid54_5.npy	8
+Square Cut/vid378_22.npy	11
+Sweep/vid498_7.npy	13
+Late Cut/vid320_42.npy	5
+Lofted Offside/vid2_37.npy	7
+Down The Wicket/vid432_5.npy	2
+Down The Wicket/vid67_23.npy	2
+Flick/vid15_1.npy	3
+Flick/vid84_4.npy	3
+Lofted Legside/vid89_59.npy	6
+Sweep/vid48_1.npy	13
+Sweep/vid529_7.npy	13
+Pull/vid403_17.npy	8
+Lofted Legside/vid464_9.npy	6
+Lofted Offside/vid217_51.npy	7
+Sweep/vid365_72.npy	13
+Straight Drive/vid142_19.npy	12
+Flick/vid381_17.npy	3
+Upper Cut/vid326_17.npy	14
+Reverse Sweep/vid427_21.npy	9
+Hook/vid474_32.npy	4
+Pull/vid338_27.npy	8
+Flick/vid205_50.npy	3
+Pull/vid213_6.npy	8
+Down The Wicket/vid293_8.npy	2
+Square Cut/vid258_37.npy	11
+Hook/vid17_18.npy	4
+Sweep/vid459_24.npy	13
+Pull/vid51_53.npy	8
+Lofted Offside/vid433_28.npy	7
+Pull/vid143_29.npy	8
+Late Cut/vid137_16.npy	5
+Square Cut/vid277_11.npy	11
+Cover Drive/vid27_25.npy	0
+Lofted Offside/vid39_18.npy	7
+Hook/vid74_2.npy	4
+Lofted Offside/vid361_34.npy	7
+Sweep/vid2_31.npy	13
+Lofted Legside/vid505_7.npy	6
+Flick/vid208_4.npy	3
+Late Cut/vid416_9.npy	5
+Lofted Legside/vid331_52.npy	6
+Lofted Legside/vid387_54.npy	6
+Upper Cut/vid390_51.npy	14
+Hook/vid304_17.npy	4
+Late Cut/vid299_10.npy	5
+Flick/vid447_7.npy	3
+Defensive/vid238_60.npy	1
+Lofted Legside/vid473_15.npy	6
+Pull/vid410_20.npy	8
+Cover Drive/vid356_37.npy	0
+Defensive/vid140_28.npy	1
+Lofted Legside/vid530_24.npy	6
+Lofted Legside/vid466_15.npy	6
+Square Cut/vid451_31.npy	11
+Flick/vid218_31.npy	3
+Down The Wicket/vid289_3.npy	2
+Flick/vid16_4.npy	3
+Lofted Legside/vid476_32.npy	6
+Defensive/vid240_15.npy	1
+Lofted Legside/vid258_22.npy	6
+Hook/vid485_43.npy	4
+Square Cut/vid69_21.npy	11
+Sweep/vid391_44.npy	13
+Lofted Offside/vid437_39.npy	7
+Flick/vid516_47.npy	3
+Lofted Legside/vid468_6.npy	6
+Sweep/vid321_5.npy	13
+Pull/vid93_29.npy	8
+Square Cut/vid182_17.npy	11
+Square Cut/vid435_33.npy	11
+Square Cut/vid175_17.npy	11
+Straight Drive/vid299_34.npy	12
+Flick/vid397_15.npy	3
+Scoop/vid475_37.npy	10
+Flick/vid53_7.npy	3
+Square Cut/vid494_22.npy	11
+Cover Drive/vid244_1.npy	0
+Pull/vid240_6.npy	8
+Lofted Offside/vid45_16.npy	7
+Lofted Offside/vid279_9.npy	7
+Down The Wicket/vid466_12.npy	2
+Upper Cut/vid246_33.npy	14
+Lofted Offside/vid287_4.npy	7
+Square Cut/vid54_0.npy	11
+Lofted Legside/vid517_69.npy	6
+Lofted Offside/vid514_35.npy	7
+Cover Drive/vid16_5.npy	0
+Square Cut/vid530_51.npy	11
+Sweep/vid362_15.npy	13
+Flick/vid210_48.npy	3
+Lofted Legside/vid157_10.npy	6
+Hook/vid55_37.npy	4
+Down The Wicket/vid83_2.npy	2
+Square Cut/vid69_23.npy	11
+Lofted Legside/vid9_12.npy	6
+Straight Drive/vid100_45.npy	12
+Defensive/vid523_12.npy	1
+Cover Drive/vid521_73.npy	0
+Flick/vid240_46.npy	3
+Pull/vid11_28.npy	8
+Down The Wicket/vid439_44.npy	2
+Down The Wicket/vid53_9.npy	2
+Square Cut/vid28_21.npy	11
+Square Cut/vid377_4.npy	11
+Square Cut/vid122_26.npy	11
+Down The Wicket/vid286_14.npy	2
+Late Cut/vid292_14.npy	5
+Lofted Legside/vid341_26.npy	6
+Reverse Sweep/vid527_16.npy	9
+Square Cut/vid135_5.npy	11
+Upper Cut/vid232_3.npy	14
+Pull/vid501_2.npy	8
+Square Cut/vid390_42.npy	11
+Straight Drive/vid146_34.npy	12
+Lofted Legside/vid435_34.npy	6
+Flick/vid198_8.npy	3
+Down The Wicket/vid496_28.npy	2
+Lofted Offside/vid66_23.npy	7
+Sweep/vid444_16.npy	13
+Lofted Offside/vid90_40.npy	7
+Defensive/vid152_8.npy	1
+Straight Drive/vid167_4.npy	12
+Lofted Offside/vid362_59.npy	7
+Cover Drive/vid58_3.npy	0
+Square Cut/vid452_43.npy	11
+Pull/vid447_20.npy	8
+Cover Drive/vid362_44.npy	0
+Sweep/vid536_56.npy	13
+Lofted Legside/vid380_57.npy	6
+Defensive/vid513_27.npy	1
+Sweep/vid429_60.npy	13
+Scoop/vid436_29.npy	10
+Hook/vid366_49.npy	4
+Pull/vid472_19.npy	8
+Square Cut/vid107_1.npy	11
+Hook/vid482_24.npy	4
+Straight Drive/vid100_61.npy	12
+Sweep/vid210_36.npy	13
+Lofted Legside/vid432_31.npy	6
+Pull/vid116_19.npy	8
+Square Cut/vid225_0.npy	11
+Defensive/vid16_16.npy	1
+Pull/vid430_39.npy	8
+Flick/vid38_38.npy	3
+Square Cut/vid10_21.npy	11
+Defensive/vid206_57.npy	1
+Scoop/vid118_12.npy	10
+Cover Drive/vid455_47.npy	0
+Lofted Offside/vid530_5.npy	7
+Lofted Offside/vid379_33.npy	7
+Down The Wicket/vid521_11.npy	2
+Lofted Offside/vid365_66.npy	7
+Lofted Legside/vid83_44.npy	6
+Lofted Legside/vid259_42.npy	6
+Sweep/vid337_28.npy	13
+Cover Drive/vid309_4.npy	0
+Sweep/vid461_48.npy	13
+Down The Wicket/vid447_4.npy	2
+Hook/vid159_5.npy	4
+Hook/vid141_4.npy	4
+Lofted Offside/vid527_54.npy	7
+Down The Wicket/vid57_10.npy	2
+Defensive/vid229_0.npy	1
+Hook/vid366_27.npy	4
+Sweep/vid481_9.npy	13
+Square Cut/vid417_1.npy	11
+Hook/vid210_24.npy	4
+Lofted Offside/vid177_23.npy	7
+Square Cut/vid154_23.npy	11
+Late Cut/vid40_53.npy	5
+Square Cut/vid49_6.npy	11
+Flick/vid226_21.npy	3
+Down The Wicket/vid499_4.npy	2
+Defensive/vid238_58.npy	1
+Lofted Legside/vid191_9.npy	6
+Late Cut/vid487_43.npy	5
+Pull/vid514_24.npy	8
+Lofted Legside/vid161_40.npy	6
+Hook/vid80_4.npy	4
+Cover Drive/vid265_24.npy	0
+Flick/vid1_20.npy	3
+Pull/vid287_21.npy	8
+Hook/vid482_43.npy	4
+Hook/vid147_11.npy	4
+Upper Cut/vid373_44.npy	14
+Reverse Sweep/vid358_38.npy	9
+Lofted Legside/vid431_1.npy	6
+Hook/vid474_27.npy	4
+Pull/vid519_21.npy	8
+Cover Drive/vid295_17.npy	0
+Scoop/vid534_21.npy	10
+Square Cut/vid526_9.npy	11
+Sweep/vid390_4.npy	13
+Hook/vid107_3.npy	4
+Lofted Legside/vid146_31.npy	6
+Down The Wicket/vid515_57.npy	2
+Pull/vid455_36.npy	8
+Lofted Offside/vid162_26.npy	7
+Flick/vid218_15.npy	3
+Defensive/vid104_11.npy	1
+Lofted Legside/vid80_39.npy	6
+Down The Wicket/vid447_9.npy	2
+Straight Drive/vid496_15.npy	12
+Lofted Legside/vid71_4.npy	6
+Late Cut/vid68_36.npy	5
+Late Cut/vid473_39.npy	5
+Pull/vid442_41.npy	8
+Lofted Offside/vid444_34.npy	7
+Sweep/vid485_38.npy	13
+Down The Wicket/vid237_2.npy	2
+Lofted Legside/vid506_50.npy	6
+Flick/vid113_29.npy	3
+Straight Drive/vid31_7.npy	12
+Reverse Sweep/vid2_32.npy	9
+Cover Drive/vid175_37.npy	0
+Defensive/vid234_30.npy	1
+Lofted Offside/vid211_14.npy	7
+Hook/vid393_1.npy	4
+Lofted Legside/vid97_22.npy	6
+Lofted Legside/vid387_50.npy	6
+Down The Wicket/vid90_27.npy	2
+Flick/vid233_33.npy	3
+Lofted Offside/vid532_14.npy	7
+Square Cut/vid178_9.npy	11
+Flick/vid50_25.npy	3
+Flick/vid505_38.npy	3
+Down The Wicket/vid89_24.npy	2
+Cover Drive/vid296_7.npy	0
+Straight Drive/vid151_8.npy	12
+Reverse Sweep/vid180_25.npy	9
+Sweep/vid341_4.npy	13
+Lofted Offside/vid386_1.npy	7
+Flick/vid105_16.npy	3
+Lofted Offside/vid419_18.npy	7
+Down The Wicket/vid90_57.npy	2
+Lofted Offside/vid505_36.npy	7
+Cover Drive/vid227_0.npy	0
+Defensive/vid533_34.npy	1
+Pull/vid393_45.npy	8
+Sweep/vid79_5.npy	13
+Square Cut/vid39_48.npy	11
+Hook/vid255_37.npy	4
+Flick/vid295_24.npy	3
+Upper Cut/vid175_34.npy	14
+Pull/vid54_21.npy	8
+Lofted Legside/vid16_40.npy	6
+Lofted Offside/vid349_7.npy	7
+Pull/vid107_22.npy	8
+Pull/vid442_64.npy	8
+Flick/vid155_14.npy	3
+Down The Wicket/vid353_16.npy	2
+Defensive/vid115_40.npy	1
+Lofted Offside/vid211_30.npy	7
+Square Cut/vid208_35.npy	11
+Cover Drive/vid465_3.npy	0
+Flick/vid440_60.npy	3
+Lofted Legside/vid489_49.npy	6
+Lofted Legside/vid217_58.npy	6
+Flick/vid514_46.npy	3
+Flick/vid444_57.npy	3
+Flick/vid482_56.npy	3
+Straight Drive/vid232_15.npy	12
+Square Cut/vid535_4.npy	11
+Hook/vid302_11.npy	4
+Straight Drive/vid131_15.npy	12
+Straight Drive/vid52_0.npy	12
+Lofted Offside/vid151_38.npy	7
+Sweep/vid425_5.npy	13
+Lofted Legside/vid457_9.npy	6
+Square Cut/vid511_46.npy	11
+Cover Drive/vid447_34.npy	0
+Pull/vid498_13.npy	8
+Scoop/vid417_26.npy	10
+Lofted Offside/vid1_37.npy	7
+Flick/vid241_36.npy	3
+Down The Wicket/vid125_22.npy	2
+Defensive/vid311_1.npy	1
+Sweep/vid462_9.npy	13
+Hook/vid168_8.npy	4
+Hook/vid521_75.npy	4
+Pull/vid393_22.npy	8
+Cover Drive/vid488_50.npy	0
+Pull/vid503_9.npy	8
+Sweep/vid533_15.npy	13
+Scoop/vid374_33.npy	10
+Square Cut/vid323_16.npy	11
+Sweep/vid123_8.npy	13
+Upper Cut/vid320_55.npy	14
+Cover Drive/vid340_22.npy	0
+Pull/vid357_18.npy	8
+Sweep/vid444_15.npy	13
+Reverse Sweep/vid372_30.npy	9
+Cover Drive/vid349_6.npy	0
+Lofted Offside/vid513_31.npy	7
+Lofted Legside/vid473_50.npy	6
+Cover Drive/vid226_0.npy	0
+Cover Drive/vid1_0.npy	0
+Down The Wicket/vid358_60.npy	2
+Sweep/vid511_44.npy	13
+Upper Cut/vid23_22.npy	14
+Straight Drive/vid63_9.npy	12
+Lofted Offside/vid526_65.npy	7
+Lofted Legside/vid386_17.npy	6
+Flick/vid380_55.npy	3
+Late Cut/vid103_18.npy	5
+Square Cut/vid114_13.npy	11
+Sweep/vid291_14.npy	13
+Lofted Legside/vid366_28.npy	6
+Pull/vid364_6.npy	8
+Pull/vid63_19.npy	8
+Cover Drive/vid26_12.npy	0
+Pull/vid495_2.npy	8
+Lofted Legside/vid237_26.npy	6
+Hook/vid80_16.npy	4
+Square Cut/vid517_10.npy	11
+Lofted Offside/vid370_11.npy	7
+Lofted Legside/vid348_9.npy	6
+Square Cut/vid91_37.npy	11
+Pull/vid506_12.npy	8
+Sweep/vid486_41.npy	13
+Sweep/vid374_25.npy	13
+Reverse Sweep/vid459_16.npy	9
+Scoop/vid331_39.npy	10
+Hook/vid1_14.npy	4
+Lofted Offside/vid426_21.npy	7
+Lofted Offside/vid439_17.npy	7
+Lofted Legside/vid324_19.npy	6
+Sweep/vid50_14.npy	13
+Hook/vid374_9.npy	4
+Down The Wicket/vid521_19.npy	2
+Lofted Legside/vid214_40.npy	6
+Straight Drive/vid310_3.npy	12
+Defensive/vid471_1.npy	1
+Upper Cut/vid508_55.npy	14
+Cover Drive/vid460_39.npy	0
+Cover Drive/vid428_45.npy	0
+Lofted Legside/vid94_12.npy	6
+Sweep/vid135_8.npy	13
+Lofted Legside/vid530_23.npy	6
+Defensive/vid313_17.npy	1
+Reverse Sweep/vid259_35.npy	9
+Hook/vid164_11.npy	4
+Lofted Offside/vid424_18.npy	7
+Pull/vid232_36.npy	8
+Flick/vid121_40.npy	3
+Square Cut/vid140_27.npy	11
+Pull/vid172_9.npy	8
+Pull/vid492_10.npy	8
+Down The Wicket/vid446_2.npy	2
+Defensive/vid209_5.npy	1
+Lofted Legside/vid496_24.npy	6
+Cover Drive/vid244_23.npy	0
+Scoop/vid491_3.npy	10
+Flick/vid90_34.npy	3
+Pull/vid500_29.npy	8
+Square Cut/vid462_34.npy	11
+Lofted Offside/vid104_2.npy	7
+Flick/vid238_59.npy	3
+Down The Wicket/vid370_43.npy	2
+Lofted Offside/vid508_39.npy	7
+Defensive/vid38_2.npy	1
+Flick/vid478_1.npy	3
+Lofted Legside/vid40_70.npy	6
+Lofted Legside/vid60_53.npy	6
+Pull/vid454_24.npy	8
+Upper Cut/vid37_10.npy	14
+Flick/vid32_9.npy	3
+Reverse Sweep/vid524_8.npy	9
+Flick/vid379_34.npy	3
+Lofted Offside/vid413_27.npy	7
+Sweep/vid358_7.npy	13
+Lofted Offside/vid482_35.npy	7
+Lofted Offside/vid405_21.npy	7
+Sweep/vid527_2.npy	13
+Late Cut/vid131_13.npy	5
+Lofted Offside/vid45_19.npy	7
+Pull/vid34_32.npy	8
+Scoop/vid532_44.npy	10
+Cover Drive/vid205_3.npy	0
+Square Cut/vid91_27.npy	11
+Flick/vid145_8.npy	3
+Lofted Offside/vid368_36.npy	7
+Cover Drive/vid466_5.npy	0
+Lofted Offside/vid45_25.npy	7
+Lofted Legside/vid361_30.npy	6
+Pull/vid508_10.npy	8
+Hook/vid77_29.npy	4
+Scoop/vid100_50.npy	10
+Defensive/vid243_46.npy	1
+Square Cut/vid244_27.npy	11
+Defensive/vid235_40.npy	1
+Square Cut/vid53_33.npy	11
+Pull/vid382_34.npy	8
+Lofted Offside/vid9_23.npy	7
+Square Cut/vid400_13.npy	11
+Down The Wicket/vid492_8.npy	2
+Defensive/vid243_39.npy	1
+Reverse Sweep/vid536_6.npy	9
+Flick/vid366_44.npy	3
+Flick/vid141_5.npy	3
+Sweep/vid261_30.npy	13
+Square Cut/vid164_30.npy	11
+Square Cut/vid295_31.npy	11
+Flick/vid100_54.npy	3
+Square Cut/vid154_8.npy	11
+Cover Drive/vid459_39.npy	0
+Square Cut/vid26_31.npy	11
+Lofted Legside/vid499_16.npy	6
+Flick/vid299_29.npy	3
+Pull/vid55_79.npy	8
+Straight Drive/vid495_45.npy	12
+Hook/vid122_3.npy	4
+Lofted Legside/vid60_7.npy	6
+Flick/vid364_10.npy	3
+Cover Drive/vid248_23.npy	0
+Cover Drive/vid299_24.npy	0
+Reverse Sweep/vid203_54.npy	9
+Defensive/vid533_79.npy	1
+Down The Wicket/vid135_22.npy	2
+Down The Wicket/vid259_31.npy	2
+Flick/vid307_3.npy	3
+Square Cut/vid246_0.npy	11
+Lofted Legside/vid350_22.npy	6
+Cover Drive/vid262_19.npy	0
+Down The Wicket/vid434_13.npy	2
+Down The Wicket/vid485_50.npy	2
+Lofted Legside/vid487_9.npy	6
+Straight Drive/vid316_7.npy	12
+Sweep/vid325_10.npy	13
+Square Cut/vid304_7.npy	11
+Flick/vid217_0.npy	3
+Square Cut/vid266_2.npy	11
+Square Cut/vid338_1.npy	11
+Down The Wicket/vid470_24.npy	2
+Lofted Offside/vid427_4.npy	7
+Lofted Legside/vid435_22.npy	6
+Straight Drive/vid366_45.npy	12
+Pull/vid40_0.npy	8
+Cover Drive/vid463_25.npy	0
+Straight Drive/vid369_45.npy	12
+Defensive/vid460_25.npy	1
+Hook/vid466_22.npy	4
+Square Cut/vid139_4.npy	11
+Lofted Legside/vid335_15.npy	6
+Lofted Legside/vid320_23.npy	6
+Square Cut/vid516_11.npy	11
+Upper Cut/vid418_10.npy	14
+Defensive/vid319_1.npy	1
+Upper Cut/vid532_62.npy	14
+Pull/vid139_17.npy	8
+Defensive/vid113_0.npy	1
+Flick/vid125_8.npy	3
+Down The Wicket/vid79_30.npy	2
+Square Cut/vid419_1.npy	11
+Flick/vid433_33.npy	3
+Late Cut/vid56_58.npy	5
+Down The Wicket/vid439_2.npy	2
+Defensive/vid2_33.npy	1
+Lofted Legside/vid442_59.npy	6
+Lofted Legside/vid445_69.npy	6
+Scoop/vid312_5.npy	10
+Defensive/vid16_36.npy	1
+Defensive/vid235_25.npy	1
+Flick/vid67_31.npy	3
+Sweep/vid384_66.npy	13
+Flick/vid333_14.npy	3
+Pull/vid100_35.npy	8
+Hook/vid103_12.npy	4
+Lofted Legside/vid460_45.npy	6
+Lofted Offside/vid384_77.npy	7
+Scoop/vid313_12.npy	10
+Lofted Offside/vid406_17.npy	7
+Down The Wicket/vid77_12.npy	2
+Cover Drive/vid251_15.npy	0
+Down The Wicket/vid54_13.npy	2
+Cover Drive/vid453_13.npy	0
+Hook/vid341_47.npy	4
+Square Cut/vid232_38.npy	11
+Down The Wicket/vid77_35.npy	2
+Flick/vid381_31.npy	3
+Cover Drive/vid529_57.npy	0
+Lofted Legside/vid209_36.npy	6
+Scoop/vid387_7.npy	10
+Square Cut/vid238_12.npy	11
+Lofted Legside/vid393_29.npy	6
+Flick/vid529_67.npy	3
+Flick/vid240_40.npy	3
+Cover Drive/vid294_11.npy	0
+Square Cut/vid222_6.npy	11
+Sweep/vid442_49.npy	13
+Flick/vid28_14.npy	3
+Square Cut/vid531_7.npy	11
+Flick/vid337_42.npy	3
+Square Cut/vid518_48.npy	11
+Lofted Legside/vid392_19.npy	6
+Lofted Legside/vid263_21.npy	6
+Pull/vid234_18.npy	8
+Square Cut/vid125_4.npy	11
+Upper Cut/vid482_28.npy	14
+Down The Wicket/vid97_21.npy	2
+Hook/vid34_21.npy	4
+Flick/vid447_11.npy	3
+Upper Cut/vid298_14.npy	14
+Flick/vid214_6.npy	3
+Sweep/vid72_31.npy	13
+Lofted Offside/vid459_41.npy	7
+Upper Cut/vid103_2.npy	14
+Scoop/vid384_46.npy	10
+Lofted Legside/vid97_19.npy	6
+Lofted Legside/vid17_15.npy	6
+Lofted Offside/vid444_66.npy	7
+Flick/vid129_11.npy	3
+Down The Wicket/vid435_10.npy	2
+Lofted Offside/vid511_48.npy	7
+Cover Drive/vid232_9.npy	0
+Lofted Offside/vid515_4.npy	7
+Cover Drive/vid304_8.npy	0
+Sweep/vid182_0.npy	13
+Flick/vid497_22.npy	3
+Down The Wicket/vid331_19.npy	2
+Lofted Offside/vid393_0.npy	7
+Scoop/vid47_12.npy	10
+Flick/vid464_19.npy	3
+Defensive/vid142_9.npy	1
+Sweep/vid256_8.npy	13
+Flick/vid167_15.npy	3
+Defensive/vid507_10.npy	1
+Square Cut/vid472_25.npy	11
+Flick/vid374_2.npy	3
+Square Cut/vid380_40.npy	11
+Down The Wicket/vid387_40.npy	2
+Lofted Offside/vid509_46.npy	7
+Down The Wicket/vid72_9.npy	2
+Square Cut/vid531_34.npy	11
+Late Cut/vid436_37.npy	5
+Square Cut/vid462_17.npy	11
+Lofted Legside/vid323_4.npy	6
+Late Cut/vid364_29.npy	5
+Square Cut/vid424_17.npy	11
+Lofted Legside/vid335_29.npy	6
+Lofted Legside/vid248_41.npy	6
+Reverse Sweep/vid16_48.npy	9
+Upper Cut/vid37_20.npy	14
+Lofted Legside/vid130_35.npy	6
+Upper Cut/vid21_4.npy	14
+Lofted Legside/vid511_22.npy	6
+Defensive/vid28_18.npy	1
+Square Cut/vid167_30.npy	11
+Flick/vid126_0.npy	3
+Late Cut/vid387_48.npy	5
+Square Cut/vid150_19.npy	11
+Lofted Legside/vid530_58.npy	6
+Late Cut/vid387_16.npy	5
+Straight Drive/vid450_9.npy	12
+Pull/vid137_27.npy	8
+Sweep/vid502_6.npy	13
+Lofted Legside/vid321_26.npy	6
+Flick/vid85_2.npy	3
+Defensive/vid444_3.npy	1
+Sweep/vid45_35.npy	13
+Sweep/vid354_12.npy	13
+Lofted Legside/vid346_10.npy	6
+Flick/vid373_45.npy	3
+Sweep/vid445_23.npy	13
+Cover Drive/vid110_1.npy	0
+Sweep/vid486_6.npy	13
+Square Cut/vid277_21.npy	11
+Sweep/vid56_76.npy	13
+Sweep/vid51_61.npy	13
+Flick/vid300_31.npy	3
+Lofted Offside/vid490_39.npy	7
+Hook/vid178_18.npy	4
+Late Cut/vid82_8.npy	5
+Lofted Legside/vid370_4.npy	6
+Hook/vid108_31.npy	4
+Straight Drive/vid406_4.npy	12
+Scoop/vid430_41.npy	10
+Hook/vid89_3.npy	4
+Flick/vid476_2.npy	3
+Sweep/vid142_7.npy	13
+Hook/vid317_33.npy	4
+Straight Drive/vid481_8.npy	12
+Late Cut/vid60_100.npy	5
+Sweep/vid481_17.npy	13
+Lofted Offside/vid486_64.npy	7
+Sweep/vid14_30.npy	13
+Lofted Offside/vid506_37.npy	7
+Sweep/vid288_3.npy	13
+Sweep/vid98_41.npy	13
+Lofted Offside/vid121_7.npy	7
+Square Cut/vid53_39.npy	11
+Square Cut/vid501_30.npy	11
+Pull/vid364_20.npy	8
+Down The Wicket/vid53_30.npy	2
+Sweep/vid154_29.npy	13
+Sweep/vid89_48.npy	13
+Lofted Offside/vid361_29.npy	7
+Down The Wicket/vid442_10.npy	2
+Reverse Sweep/vid233_35.npy	9
+Upper Cut/vid483_29.npy	14
+Down The Wicket/vid146_22.npy	2
+Pull/vid214_9.npy	8
+Scoop/vid191_1.npy	10
+Hook/vid100_74.npy	4
+Defensive/vid536_29.npy	1
+Reverse Sweep/vid40_27.npy	9
+Reverse Sweep/vid340_2.npy	9
+Lofted Offside/vid163_14.npy	7
+Reverse Sweep/vid368_49.npy	9
+Square Cut/vid385_14.npy	11
+Down The Wicket/vid391_2.npy	2
+Straight Drive/vid314_15.npy	12
+Hook/vid382_10.npy	4
+Lofted Offside/vid391_52.npy	7
+Sweep/vid532_39.npy	13
+Pull/vid101_1.npy	8
+Flick/vid122_10.npy	3
+Lofted Legside/vid53_60.npy	6
+Square Cut/vid474_29.npy	11
+Sweep/vid99_21.npy	13
+Straight Drive/vid509_33.npy	12
+Lofted Legside/vid34_23.npy	6
+Hook/vid109_15.npy	4
+Down The Wicket/vid54_64.npy	2
+Lofted Legside/vid504_36.npy	6
+Lofted Offside/vid484_15.npy	7
+Pull/vid369_4.npy	8
+Upper Cut/vid389_22.npy	14
+Sweep/vid384_68.npy	13
+Hook/vid320_29.npy	4
+Late Cut/vid261_46.npy	5
+Flick/vid332_17.npy	3
+Square Cut/vid129_22.npy	11
+Lofted Legside/vid299_16.npy	6
+Defensive/vid231_23.npy	1
+Down The Wicket/vid168_16.npy	2
+Down The Wicket/vid459_8.npy	2
+Cover Drive/vid26_19.npy	0
+Square Cut/vid60_13.npy	11
+Flick/vid520_1.npy	3
+Late Cut/vid151_28.npy	5
+Sweep/vid437_27.npy	13
+Lofted Legside/vid79_17.npy	6
+Flick/vid431_30.npy	3
+Pull/vid234_12.npy	8
+Flick/vid436_56.npy	3
+Down The Wicket/vid448_51.npy	2
+Square Cut/vid441_12.npy	11
+Sweep/vid483_13.npy	13
+Pull/vid341_39.npy	8
+Hook/vid494_17.npy	4
+Late Cut/vid531_47.npy	5
+Lofted Offside/vid83_8.npy	7
+Lofted Offside/vid353_44.npy	7
+Lofted Legside/vid382_35.npy	6
+Pull/vid369_63.npy	8
+Lofted Legside/vid498_12.npy	6
+Defensive/vid240_13.npy	1
+Straight Drive/vid31_22.npy	12
+Sweep/vid51_73.npy	13
+Square Cut/vid298_10.npy	11
+Lofted Legside/vid516_30.npy	6
+Flick/vid298_4.npy	3
+Scoop/vid312_4.npy	10
+Square Cut/vid518_16.npy	11
+Down The Wicket/vid483_37.npy	2
+Sweep/vid18_15.npy	13
+Sweep/vid393_55.npy	13
+Lofted Legside/vid174_21.npy	6
+Flick/vid10_19.npy	3
+Lofted Legside/vid513_23.npy	6
+Pull/vid451_43.npy	8
+Flick/vid364_46.npy	3
+Lofted Offside/vid55_44.npy	7
+Down The Wicket/vid524_16.npy	2
+Pull/vid387_32.npy	8
+Pull/vid134_39.npy	8
+Flick/vid437_42.npy	3
+Defensive/vid148_35.npy	1
+Sweep/vid375_22.npy	13
+Hook/vid150_24.npy	4
+Lofted Offside/vid517_40.npy	7
+Lofted Offside/vid391_25.npy	7
+Lofted Offside/vid357_34.npy	7
+Lofted Legside/vid518_26.npy	6
+Lofted Offside/vid473_22.npy	7
+Flick/vid229_46.npy	3
+Hook/vid304_26.npy	4
+Flick/vid1_24.npy	3
+Sweep/vid40_60.npy	13
+Sweep/vid481_38.npy	13
+Cover Drive/vid209_6.npy	0
+Lofted Legside/vid519_58.npy	6
+Sweep/vid512_33.npy	13
+Hook/vid368_28.npy	4
+Lofted Legside/vid440_30.npy	6
+Lofted Offside/vid505_12.npy	7
+Scoop/vid437_14.npy	10
+Down The Wicket/vid71_18.npy	2
+Lofted Legside/vid390_41.npy	6
+Flick/vid387_34.npy	3
+Square Cut/vid491_12.npy	11
+Defensive/vid482_15.npy	1
+Down The Wicket/vid355_37.npy	2
+Straight Drive/vid180_4.npy	12
+Late Cut/vid450_31.npy	5
+Lofted Legside/vid115_35.npy	6
+Pull/vid8_18.npy	8
+Lofted Legside/vid480_52.npy	6
+Straight Drive/vid214_38.npy	12
+Scoop/vid431_15.npy	10
+Hook/vid214_7.npy	4
+Hook/vid300_24.npy	4
+Scoop/vid80_3.npy	10
+Down The Wicket/vid392_13.npy	2
+Down The Wicket/vid364_50.npy	2
+Defensive/vid325_11.npy	1
+Lofted Legside/vid471_2.npy	6
+Down The Wicket/vid198_5.npy	2
+Lofted Offside/vid155_23.npy	7
+Flick/vid224_1.npy	3
+Down The Wicket/vid478_3.npy	2
+Defensive/vid215_26.npy	1
+Flick/vid320_56.npy	3
+Straight Drive/vid294_5.npy	12
+Lofted Legside/vid441_52.npy	6
+Down The Wicket/vid89_1.npy	2
+Down The Wicket/vid450_41.npy	2
+Square Cut/vid241_17.npy	11
+Square Cut/vid85_13.npy	11
+Square Cut/vid435_44.npy	11
+Cover Drive/vid528_42.npy	0
+Down The Wicket/vid509_26.npy	2
+Flick/vid345_12.npy	3
+Defensive/vid513_28.npy	1
+Down The Wicket/vid444_52.npy	2
+Lofted Offside/vid449_3.npy	7
+Lofted Legside/vid4_40.npy	6
+Scoop/vid504_32.npy	10
+Lofted Offside/vid505_21.npy	7
+Square Cut/vid525_31.npy	11
+Lofted Legside/vid109_35.npy	6
+Hook/vid528_7.npy	4
+Down The Wicket/vid440_45.npy	2
+Upper Cut/vid512_1.npy	14
+Square Cut/vid221_15.npy	11
+Defensive/vid242_18.npy	1
+Defensive/vid221_13.npy	1
+Reverse Sweep/vid304_22.npy	9
+Straight Drive/vid533_48.npy	12
+Lofted Offside/vid533_36.npy	7
+Flick/vid122_0.npy	3
+Hook/vid305_18.npy	4
+Pull/vid48_25.npy	8
+Pull/vid492_3.npy	8
+Lofted Offside/vid533_25.npy	7
+Lofted Offside/vid40_4.npy	7
+Late Cut/vid144_7.npy	5
+Sweep/vid86_8.npy	13
+Lofted Legside/vid515_75.npy	6
+Flick/vid440_1.npy	3
+Lofted Legside/vid420_20.npy	6
+Defensive/vid300_21.npy	1
+Square Cut/vid69_20.npy	11
+Square Cut/vid70_36.npy	11
+Defensive/vid304_6.npy	1
+Square Cut/vid342_25.npy	11
+Square Cut/vid186_1.npy	11
+Square Cut/vid357_53.npy	11
+Flick/vid60_16.npy	3
+Lofted Legside/vid82_35.npy	6
+Lofted Offside/vid43_34.npy	7
+Scoop/vid437_53.npy	10
+Upper Cut/vid80_37.npy	14
+Lofted Offside/vid439_5.npy	7
+Flick/vid28_29.npy	3
+Lofted Offside/vid443_15.npy	7
+Upper Cut/vid364_1.npy	14
+Hook/vid395_9.npy	4
+Lofted Offside/vid389_46.npy	7
+Defensive/vid102_0.npy	1
+Lofted Offside/vid445_4.npy	7
+Square Cut/vid391_32.npy	11
+Reverse Sweep/vid13_18.npy	9
+Pull/vid440_55.npy	8
+Straight Drive/vid249_13.npy	12
+Square Cut/vid82_32.npy	11
+Cover Drive/vid46_6.npy	0
+Hook/vid438_44.npy	4
+Hook/vid49_20.npy	4
+Down The Wicket/vid72_11.npy	2
+Down The Wicket/vid39_42.npy	2
+Lofted Legside/vid380_44.npy	6
+Hook/vid265_23.npy	4
+Lofted Offside/vid377_7.npy	7
+Upper Cut/vid137_31.npy	14
+Lofted Legside/vid39_47.npy	6
+Lofted Offside/vid457_15.npy	7
+Lofted Legside/vid16_26.npy	6
+Scoop/vid428_58.npy	10
+Lofted Legside/vid480_51.npy	6
+Square Cut/vid361_59.npy	11
+Down The Wicket/vid466_3.npy	2
+Sweep/vid242_33.npy	13
+Flick/vid173_5.npy	3
+Square Cut/vid341_3.npy	11
+Flick/vid246_34.npy	3
+Lofted Offside/vid500_35.npy	7
+Straight Drive/vid306_22.npy	12
+Square Cut/vid490_18.npy	11
+Sweep/vid386_27.npy	13
+Hook/vid55_77.npy	4
+Square Cut/vid535_58.npy	11
+Flick/vid246_8.npy	3
+Cover Drive/vid238_9.npy	0
+Flick/vid225_27.npy	3
+Down The Wicket/vid381_34.npy	2
+Flick/vid382_14.npy	3
+Pull/vid399_0.npy	8
+Hook/vid162_42.npy	4
+Lofted Legside/vid452_12.npy	6
+Pull/vid438_22.npy	8
+Lofted Legside/vid445_19.npy	6
+Straight Drive/vid121_9.npy	12
+Flick/vid400_9.npy	3
+Lofted Legside/vid175_24.npy	6
+Lofted Offside/vid268_21.npy	7
+Down The Wicket/vid273_2.npy	2
+Pull/vid384_70.npy	8
+Lofted Offside/vid532_10.npy	7
+Lofted Legside/vid153_19.npy	6
+Sweep/vid433_26.npy	13
+Lofted Offside/vid522_32.npy	7
+Lofted Legside/vid529_69.npy	6
+Lofted Legside/vid37_47.npy	6
+Pull/vid277_4.npy	8
+Flick/vid400_12.npy	3
+Lofted Legside/vid89_7.npy	6
+Sweep/vid66_6.npy	13
+Flick/vid24_45.npy	3
+Lofted Legside/vid174_17.npy	6
+Straight Drive/vid471_16.npy	12
+Pull/vid470_27.npy	8
+Lofted Offside/vid462_24.npy	7
+Lofted Legside/vid355_17.npy	6
+Square Cut/vid444_26.npy	11
+Reverse Sweep/vid98_45.npy	9
+Reverse Sweep/vid488_47.npy	9
+Reverse Sweep/vid462_39.npy	9
+Sweep/vid337_40.npy	13
+Down The Wicket/vid470_2.npy	2
+Square Cut/vid346_15.npy	11
+Lofted Offside/vid500_3.npy	7
+Lofted Offside/vid474_31.npy	7
+Down The Wicket/vid78_14.npy	2
+Down The Wicket/vid439_57.npy	2
+Upper Cut/vid329_0.npy	14
+Late Cut/vid323_37.npy	5
+Sweep/vid303_21.npy	13
+Flick/vid99_7.npy	3
+Lofted Legside/vid168_17.npy	6
+Cover Drive/vid369_39.npy	0
+Lofted Offside/vid455_22.npy	7
+Straight Drive/vid108_20.npy	12
+Flick/vid507_18.npy	3
+Lofted Offside/vid365_58.npy	7
+Down The Wicket/vid455_12.npy	2
+Down The Wicket/vid226_11.npy	2
+Scoop/vid153_5.npy	10
+Cover Drive/vid388_33.npy	0
+Cover Drive/vid259_9.npy	0
+Square Cut/vid442_31.npy	11
+Scoop/vid430_49.npy	10
+Down The Wicket/vid490_12.npy	2
+Lofted Offside/vid465_6.npy	7
+Pull/vid249_39.npy	8
+Square Cut/vid128_20.npy	11
+Sweep/vid50_20.npy	13
+Square Cut/vid78_8.npy	11
+Straight Drive/vid131_5.npy	12
+Flick/vid305_15.npy	3
+Lofted Legside/vid336_10.npy	6
+Flick/vid235_9.npy	3
+Sweep/vid473_9.npy	13
+Down The Wicket/vid3_7.npy	2
+Pull/vid531_19.npy	8
+Square Cut/vid175_8.npy	11
+Cover Drive/vid528_15.npy	0
+Sweep/vid532_49.npy	13
+Defensive/vid82_21.npy	1
+Straight Drive/vid232_19.npy	12
+Late Cut/vid162_55.npy	5
+Hook/vid480_36.npy	4
+Straight Drive/vid489_6.npy	12
+Lofted Offside/vid355_28.npy	7
+Sweep/vid366_25.npy	13
+Pull/vid444_8.npy	8
+Lofted Offside/vid364_47.npy	7
+Lofted Offside/vid378_12.npy	7
+Down The Wicket/vid214_24.npy	2
+Down The Wicket/vid229_7.npy	2
+Flick/vid169_34.npy	3
+Lofted Legside/vid158_4.npy	6
+Lofted Offside/vid369_12.npy	7
+Sweep/vid461_55.npy	13
+Late Cut/vid336_20.npy	5
+Lofted Offside/vid305_20.npy	7
+Cover Drive/vid340_5.npy	0
+Lofted Offside/vid527_65.npy	7
+Defensive/vid314_25.npy	1
+Pull/vid100_39.npy	8
+Square Cut/vid531_51.npy	11
+Flick/vid99_1.npy	3
+Pull/vid100_34.npy	8
+Sweep/vid260_39.npy	13
+Down The Wicket/vid520_5.npy	2
+Lofted Legside/vid80_25.npy	6
+Lofted Offside/vid503_40.npy	7
+Flick/vid38_42.npy	3
+Square Cut/vid57_26.npy	11
+Lofted Offside/vid359_38.npy	7
+Defensive/vid313_0.npy	1
+Lofted Legside/vid488_18.npy	6
+Scoop/vid533_16.npy	10
+Lofted Legside/vid95_26.npy	6
+Straight Drive/vid25_5.npy	12
+Flick/vid329_20.npy	3
+Hook/vid220_9.npy	4
+Cover Drive/vid528_48.npy	0
+Lofted Legside/vid335_8.npy	6
+Square Cut/vid61_15.npy	11
+Lofted Offside/vid440_51.npy	7
+Lofted Legside/vid324_27.npy	6
+Pull/vid455_51.npy	8
+Lofted Offside/vid418_37.npy	7
+Lofted Offside/vid527_63.npy	7
+Sweep/vid354_2.npy	13
+Lofted Legside/vid121_51.npy	6
+Scoop/vid432_17.npy	10
+Straight Drive/vid167_5.npy	12
+Hook/vid524_7.npy	4
+Down The Wicket/vid372_6.npy	2
+Defensive/vid317_9.npy	1
+Late Cut/vid205_61.npy	5
+Cover Drive/vid455_43.npy	0
+Lofted Legside/vid383_0.npy	6
+Down The Wicket/vid49_13.npy	2
+Scoop/vid495_18.npy	10
+Sweep/vid251_37.npy	13
+Flick/vid451_52.npy	3
+Flick/vid22_4.npy	3
+Defensive/vid103_5.npy	1
+Lofted Offside/vid520_27.npy	7
+Pull/vid39_41.npy	8
+Defensive/vid269_5.npy	1
+Pull/vid377_0.npy	8
+Down The Wicket/vid23_14.npy	2
+Sweep/vid449_22.npy	13
+Lofted Offside/vid502_42.npy	7
+Lofted Offside/vid419_19.npy	7
+Pull/vid381_19.npy	8
+Lofted Offside/vid386_30.npy	7
+Sweep/vid53_46.npy	13
+Lofted Offside/vid398_17.npy	7
+Down The Wicket/vid279_3.npy	2
+Down The Wicket/vid70_38.npy	2
+Lofted Offside/vid268_16.npy	7
+Reverse Sweep/vid392_22.npy	9
+Square Cut/vid300_13.npy	11
+Flick/vid369_57.npy	3
+Late Cut/vid153_8.npy	5
+Cover Drive/vid325_1.npy	0
+Flick/vid300_3.npy	3
+Sweep/vid23_16.npy	13
+Flick/vid486_20.npy	3
+Pull/vid135_24.npy	8
+Defensive/vid385_11.npy	1
+Straight Drive/vid376_31.npy	12
+Hook/vid532_13.npy	4
+Square Cut/vid456_3.npy	11
+Defensive/vid345_16.npy	1
+Lofted Offside/vid376_3.npy	7
+Sweep/vid445_48.npy	13
+Flick/vid210_13.npy	3
+Down The Wicket/vid91_17.npy	2
+Down The Wicket/vid270_5.npy	2
+Defensive/vid319_2.npy	1
+Lofted Legside/vid435_36.npy	6
+Defensive/vid82_2.npy	1
+Down The Wicket/vid2_5.npy	2
+Hook/vid488_43.npy	4
+Sweep/vid65_35.npy	13
+Sweep/vid475_34.npy	13
+Sweep/vid471_36.npy	13
+Sweep/vid86_40.npy	13
+Flick/vid536_35.npy	3
+Down The Wicket/vid124_9.npy	2
+Square Cut/vid125_26.npy	11
+Lofted Offside/vid195_2.npy	7
+Upper Cut/vid78_2.npy	14
+Cover Drive/vid251_2.npy	0
+Lofted Offside/vid255_10.npy	7
+Lofted Legside/vid481_13.npy	6
+Pull/vid121_31.npy	8
+Lofted Legside/vid59_26.npy	6
+Lofted Offside/vid439_34.npy	7
+Cover Drive/vid233_45.npy	0
+Lofted Legside/vid94_44.npy	6
+Scoop/vid506_1.npy	10
+Sweep/vid96_39.npy	13
+Square Cut/vid460_2.npy	11
+Sweep/vid171_21.npy	13
+Flick/vid85_5.npy	3
+Pull/vid437_4.npy	8
+Late Cut/vid156_7.npy	5
+Defensive/vid64_26.npy	1
+Straight Drive/vid231_2.npy	12
+Flick/vid307_0.npy	3
+Upper Cut/vid516_70.npy	14
+Upper Cut/vid133_14.npy	14
+Upper Cut/vid162_27.npy	14
+Lofted Offside/vid46_79.npy	7
+Down The Wicket/vid469_23.npy	2
+Cover Drive/vid313_24.npy	0
+Flick/vid430_0.npy	3
+Lofted Legside/vid405_7.npy	6
+Cover Drive/vid50_57.npy	0
+Straight Drive/vid327_26.npy	12
+Down The Wicket/vid374_42.npy	2
+Defensive/vid294_18.npy	1
+Scoop/vid414_3.npy	10
+Down The Wicket/vid99_3.npy	2
+Hook/vid101_22.npy	4
+Hook/vid237_5.npy	4
+Straight Drive/vid231_0.npy	12
+Square Cut/vid178_28.npy	11
+Lofted Offside/vid344_50.npy	7
+Down The Wicket/vid216_37.npy	2
+Upper Cut/vid248_45.npy	14
+Sweep/vid518_45.npy	13
+Lofted Legside/vid481_52.npy	6
+Flick/vid504_6.npy	3
+Down The Wicket/vid282_7.npy	2
+Square Cut/vid434_38.npy	11
+Down The Wicket/vid431_42.npy	2
+Straight Drive/vid455_0.npy	12
+Flick/vid383_20.npy	3
+Square Cut/vid490_30.npy	11
+Square Cut/vid173_24.npy	11
+Cover Drive/vid46_54.npy	0
+Pull/vid510_16.npy	8
+Hook/vid380_35.npy	4
+Late Cut/vid206_63.npy	5
+Late Cut/vid487_2.npy	5
+Pull/vid65_43.npy	8
+Upper Cut/vid529_36.npy	14
+Sweep/vid415_32.npy	13
+Lofted Legside/vid506_28.npy	6
+Lofted Legside/vid394_25.npy	6
+Lofted Offside/vid416_11.npy	7
+Flick/vid238_29.npy	3
+Flick/vid19_2.npy	3
+Lofted Legside/vid461_38.npy	6
+Lofted Offside/vid449_55.npy	7
+Straight Drive/vid106_16.npy	12
+Square Cut/vid533_58.npy	11
+Pull/vid454_42.npy	8
+Down The Wicket/vid161_30.npy	2
+Lofted Offside/vid140_13.npy	7
+Flick/vid157_1.npy	3
+Lofted Legside/vid427_30.npy	6
+Pull/vid166_6.npy	8
+Lofted Offside/vid444_7.npy	7
+Square Cut/vid387_1.npy	11
+Sweep/vid534_25.npy	13
+Straight Drive/vid481_4.npy	12
+Defensive/vid157_23.npy	1
+Upper Cut/vid387_51.npy	14
+Lofted Offside/vid428_41.npy	7
+Lofted Legside/vid59_15.npy	6
+Down The Wicket/vid383_2.npy	2
+Sweep/vid444_23.npy	13
+Scoop/vid48_34.npy	10
+Cover Drive/vid445_28.npy	0
+Down The Wicket/vid56_55.npy	2
+Down The Wicket/vid40_85.npy	2
+Defensive/vid225_24.npy	1
+Defensive/vid2_23.npy	1
+Defensive/vid232_7.npy	1
+Straight Drive/vid162_13.npy	12
+Down The Wicket/vid368_29.npy	2
+Straight Drive/vid230_5.npy	12
+Cover Drive/vid319_15.npy	0
+Reverse Sweep/vid457_34.npy	9
+Scoop/vid12_6.npy	10
+Cover Drive/vid248_50.npy	0
+Hook/vid49_27.npy	4
+Scoop/vid15_28.npy	10
+Pull/vid521_33.npy	8
+Straight Drive/vid313_26.npy	12
+Lofted Offside/vid488_7.npy	7
+Down The Wicket/vid38_32.npy	2
+Lofted Offside/vid488_42.npy	7
+Sweep/vid529_27.npy	13
+Down The Wicket/vid132_3.npy	2
+Defensive/vid240_42.npy	1
+Late Cut/vid416_19.npy	5
+Down The Wicket/vid440_19.npy	2
+Reverse Sweep/vid203_11.npy	9
+Lofted Offside/vid260_36.npy	7
+Sweep/vid37_43.npy	13
+Upper Cut/vid528_45.npy	14
+Defensive/vid367_32.npy	1
+Upper Cut/vid16_14.npy	14
+Lofted Legside/vid422_16.npy	6
+Pull/vid443_23.npy	8
+Flick/vid302_3.npy	3
+Late Cut/vid315_31.npy	5
+Defensive/vid163_31.npy	1
+Down The Wicket/vid40_84.npy	2
+Sweep/vid64_17.npy	13
+Square Cut/vid45_10.npy	11
+Lofted Legside/vid485_14.npy	6
+Lofted Offside/vid516_62.npy	7
+Flick/vid426_0.npy	3
+Hook/vid21_17.npy	4
+Hook/vid103_16.npy	4
+Pull/vid395_1.npy	8
+Lofted Offside/vid100_71.npy	7
+Flick/vid531_2.npy	3
+Pull/vid516_31.npy	8
+Late Cut/vid63_25.npy	5
+Flick/vid214_3.npy	3
+Down The Wicket/vid128_10.npy	2
+Cover Drive/vid210_16.npy	0
+Hook/vid495_36.npy	4
+Defensive/vid514_52.npy	1
+Lofted Legside/vid317_30.npy	6
+Straight Drive/vid38_47.npy	12
+Lofted Offside/vid159_13.npy	7
+Lofted Offside/vid472_14.npy	7
+Square Cut/vid46_12.npy	11
+Lofted Offside/vid450_56.npy	7
+Lofted Legside/vid165_25.npy	6
+Cover Drive/vid304_3.npy	0
+Flick/vid85_24.npy	3
+Pull/vid422_9.npy	8
+Pull/vid390_33.npy	8
+Defensive/vid224_0.npy	1
+Cover Drive/vid502_2.npy	0
+Scoop/vid532_30.npy	10
+Cover Drive/vid238_38.npy	0
+Square Cut/vid526_24.npy	11
+Sweep/vid222_10.npy	13
+Square Cut/vid507_22.npy	11
+Straight Drive/vid433_56.npy	12
+Square Cut/vid152_17.npy	11
+Square Cut/vid86_5.npy	11
+Lofted Legside/vid467_2.npy	6
+Straight Drive/vid434_4.npy	12
+Lofted Legside/vid531_74.npy	6
+Lofted Legside/vid16_42.npy	6
+Defensive/vid492_12.npy	1
+Pull/vid128_3.npy	8
+Square Cut/vid55_49.npy	11
+Lofted Legside/vid428_57.npy	6
+Square Cut/vid390_38.npy	11
+Straight Drive/vid124_5.npy	12
+Sweep/vid94_62.npy	13
+Flick/vid475_23.npy	3
+Flick/vid320_2.npy	3
+Down The Wicket/vid270_3.npy	2
+Lofted Legside/vid536_14.npy	6
+Late Cut/vid252_18.npy	5
+Down The Wicket/vid528_20.npy	2
+Pull/vid474_19.npy	8
+Lofted Offside/vid529_28.npy	7
+Hook/vid367_59.npy	4
+Pull/vid385_41.npy	8
+Straight Drive/vid338_3.npy	12
+Defensive/vid461_57.npy	1
+Lofted Legside/vid527_46.npy	6
+Lofted Offside/vid138_29.npy	7
+Flick/vid111_3.npy	3
+Lofted Offside/vid500_9.npy	7
+Pull/vid434_20.npy	8
+Sweep/vid348_5.npy	13
+Late Cut/vid504_7.npy	5
+Sweep/vid530_35.npy	13
+Flick/vid240_45.npy	3
+Hook/vid83_28.npy	4
+Pull/vid433_43.npy	8
+Square Cut/vid489_31.npy	11
+Upper Cut/vid501_39.npy	14
+Square Cut/vid425_10.npy	11
+Sweep/vid471_40.npy	13
+Flick/vid366_3.npy	3
+Sweep/vid534_48.npy	13
+Square Cut/vid497_23.npy	11
+Lofted Offside/vid535_27.npy	7
+Hook/vid89_12.npy	4
+Lofted Legside/vid264_18.npy	6
+Lofted Legside/vid508_18.npy	6
+Square Cut/vid379_29.npy	11
+Sweep/vid504_27.npy	13
+Square Cut/vid454_14.npy	11
+Lofted Legside/vid403_7.npy	6
+Lofted Offside/vid80_22.npy	7
+Down The Wicket/vid434_68.npy	2
+Late Cut/vid443_9.npy	5
+Pull/vid141_28.npy	8
+Reverse Sweep/vid258_34.npy	9
+Pull/vid452_41.npy	8
+Sweep/vid71_0.npy	13
+Flick/vid383_29.npy	3
+Lofted Offside/vid477_1.npy	7
+Down The Wicket/vid188_14.npy	2
+Sweep/vid439_55.npy	13
+Lofted Legside/vid320_40.npy	6
+Upper Cut/vid160_6.npy	14
+Square Cut/vid121_30.npy	11
+Square Cut/vid433_18.npy	11
+Cover Drive/vid15_37.npy	0
+Straight Drive/vid223_32.npy	12
+Cover Drive/vid113_10.npy	0
+Lofted Legside/vid504_56.npy	6
+Square Cut/vid390_18.npy	11
+Defensive/vid128_29.npy	1
+Sweep/vid100_43.npy	13
+Defensive/vid237_39.npy	1
+Defensive/vid204_48.npy	1
+Lofted Offside/vid330_12.npy	7
+Sweep/vid461_47.npy	13
+Lofted Offside/vid67_4.npy	7
+Pull/vid130_7.npy	8
+Square Cut/vid454_33.npy	11
+Lofted Offside/vid484_9.npy	7
+Lofted Offside/vid393_8.npy	7
+Hook/vid233_36.npy	4
+Lofted Offside/vid199_2.npy	7
+Flick/vid149_9.npy	3
+Down The Wicket/vid30_29.npy	2
+Lofted Offside/vid358_66.npy	7
+Cover Drive/vid527_59.npy	0
+Flick/vid56_91.npy	3
+Lofted Offside/vid13_26.npy	7
+Pull/vid456_35.npy	8
+Defensive/vid110_21.npy	1
+Lofted Legside/vid214_51.npy	6
+Lofted Offside/vid325_8.npy	7
+Lofted Legside/vid528_58.npy	6
+Flick/vid299_23.npy	3
+Lofted Offside/vid527_60.npy	7
+Straight Drive/vid240_2.npy	12
+Lofted Legside/vid489_17.npy	6
+Flick/vid210_29.npy	3
+Down The Wicket/vid437_57.npy	2
+Sweep/vid470_16.npy	13
+Lofted Legside/vid470_28.npy	6
+Lofted Legside/vid325_15.npy	6
+Pull/vid181_7.npy	8
+Down The Wicket/vid14_13.npy	2
+Sweep/vid368_4.npy	13
+Pull/vid275_19.npy	8
+Defensive/vid219_6.npy	1
+Down The Wicket/vid372_28.npy	2
+Reverse Sweep/vid457_46.npy	9
+Late Cut/vid172_14.npy	5
+Upper Cut/vid9_22.npy	14
+Scoop/vid445_17.npy	10
+Flick/vid304_28.npy	3
+Lofted Legside/vid127_2.npy	6
+Lofted Legside/vid284_0.npy	6
+Square Cut/vid119_19.npy	11
+Lofted Legside/vid486_1.npy	6
+Scoop/vid530_38.npy	10
+Straight Drive/vid224_30.npy	12
+Lofted Offside/vid413_14.npy	7
+Flick/vid369_36.npy	3
+Hook/vid523_37.npy	4
+Down The Wicket/vid321_10.npy	2
+Lofted Offside/vid376_32.npy	7
+Flick/vid502_41.npy	3
+Pull/vid93_2.npy	8
+Lofted Offside/vid485_31.npy	7
+Down The Wicket/vid320_41.npy	2
+Late Cut/vid53_51.npy	5
+Down The Wicket/vid93_1.npy	2
+Defensive/vid315_8.npy	1
+Reverse Sweep/vid397_19.npy	9
+Flick/vid106_19.npy	3
+Down The Wicket/vid528_5.npy	2
+Lofted Legside/vid390_29.npy	6
+Defensive/vid25_35.npy	1
+Late Cut/vid446_49.npy	5
+Lofted Offside/vid115_13.npy	7
+Flick/vid252_0.npy	3
+Square Cut/vid93_43.npy	11
+Flick/vid116_8.npy	3
+Flick/vid248_52.npy	3
+Sweep/vid16_49.npy	13
+Down The Wicket/vid364_17.npy	2
+Square Cut/vid523_32.npy	11
+Lofted Legside/vid533_12.npy	6
+Flick/vid529_72.npy	3
+Pull/vid131_0.npy	8
+Square Cut/vid431_40.npy	11
+Cover Drive/vid408_6.npy	0
+Flick/vid494_6.npy	3
+Lofted Legside/vid392_56.npy	6
+Sweep/vid223_15.npy	13
+Cover Drive/vid305_19.npy	0
+Defensive/vid120_0.npy	1
+Defensive/vid148_44.npy	1
+Flick/vid524_22.npy	3
+Sweep/vid469_43.npy	13
+Cover Drive/vid178_2.npy	0
+Hook/vid103_9.npy	4
+Flick/vid260_24.npy	3
+Lofted Offside/vid384_87.npy	7
+Late Cut/vid115_33.npy	5
+Cover Drive/vid531_0.npy	0
+Defensive/vid221_3.npy	1
+Hook/vid474_36.npy	4
+Lofted Legside/vid342_21.npy	6
+Scoop/vid420_27.npy	10
+Lofted Legside/vid531_71.npy	6
+Flick/vid133_2.npy	3
+Lofted Offside/vid6_8.npy	7
+Lofted Legside/vid518_33.npy	6
+Pull/vid79_19.npy	8
+Pull/vid335_32.npy	8
+Square Cut/vid531_69.npy	11
+Hook/vid426_20.npy	4
+Sweep/vid281_2.npy	13
+Lofted Offside/vid517_8.npy	7
+Cover Drive/vid362_31.npy	0
+Lofted Offside/vid108_35.npy	7
+Down The Wicket/vid23_43.npy	2
+Lofted Offside/vid338_7.npy	7
+Down The Wicket/vid485_33.npy	2
+Square Cut/vid368_50.npy	11
+Lofted Offside/vid427_20.npy	7
+Flick/vid529_77.npy	3
+Late Cut/vid517_67.npy	5
+Cover Drive/vid223_17.npy	0
+Down The Wicket/vid331_15.npy	2
+Cover Drive/vid24_38.npy	0
+Flick/vid50_44.npy	3
+Down The Wicket/vid323_33.npy	2
+Lofted Legside/vid395_5.npy	6
+Down The Wicket/vid53_54.npy	2
+Square Cut/vid379_28.npy	11
+Lofted Legside/vid498_20.npy	6
+Straight Drive/vid316_5.npy	12
+Sweep/vid97_26.npy	13
+Cover Drive/vid514_9.npy	0
+Lofted Offside/vid113_13.npy	7
+Flick/vid500_27.npy	3
+Down The Wicket/vid98_32.npy	2
+Cover Drive/vid527_50.npy	0
+Flick/vid367_29.npy	3
+Hook/vid256_4.npy	4
+Square Cut/vid439_42.npy	11
+Square Cut/vid384_48.npy	11
+Pull/vid163_10.npy	8
+Sweep/vid522_67.npy	13
+Lofted Legside/vid165_11.npy	6
+Lofted Legside/vid312_9.npy	6
+Lofted Offside/vid94_68.npy	7
+Pull/vid240_52.npy	8
+Late Cut/vid164_39.npy	5
+Pull/vid355_10.npy	8
+Flick/vid434_0.npy	3
+Lofted Offside/vid526_31.npy	7
+Lofted Legside/vid97_23.npy	6
+Square Cut/vid260_37.npy	11
+Lofted Legside/vid334_3.npy	6
+Hook/vid266_10.npy	4
+Straight Drive/vid142_13.npy	12
+Hook/vid108_22.npy	4
+Defensive/vid237_33.npy	1
+Down The Wicket/vid71_34.npy	2
+Lofted Offside/vid216_19.npy	7
+Pull/vid442_39.npy	8
+Cover Drive/vid296_24.npy	0
+Lofted Offside/vid62_26.npy	7
+Scoop/vid436_10.npy	10
+Square Cut/vid119_20.npy	11
+Late Cut/vid160_13.npy	5
+Straight Drive/vid318_2.npy	12
+Flick/vid392_47.npy	3
+Flick/vid448_10.npy	3
+Flick/vid178_1.npy	3
+Pull/vid520_64.npy	8
+Cover Drive/vid207_46.npy	0
+Square Cut/vid74_26.npy	11
+Down The Wicket/vid92_49.npy	2
+Defensive/vid363_47.npy	1
+Lofted Offside/vid380_24.npy	7
+Straight Drive/vid231_13.npy	12
+Square Cut/vid362_50.npy	11
+Sweep/vid380_53.npy	13
+Upper Cut/vid40_23.npy	14
+Pull/vid208_20.npy	8
+Flick/vid449_31.npy	3
+Lofted Legside/vid254_2.npy	6
+Lofted Legside/vid73_16.npy	6
+Lofted Offside/vid536_11.npy	7
+Flick/vid390_31.npy	3
+Defensive/vid2_27.npy	1
+Pull/vid434_43.npy	8
+Flick/vid485_2.npy	3
+Lofted Offside/vid440_58.npy	7
+Lofted Legside/vid177_13.npy	6
+Defensive/vid108_24.npy	1
+Lofted Legside/vid267_7.npy	6
+Defensive/vid312_16.npy	1
+Hook/vid95_40.npy	4
+Straight Drive/vid517_29.npy	12
+Square Cut/vid34_19.npy	11
+Square Cut/vid101_13.npy	11
+Straight Drive/vid107_0.npy	12
+Straight Drive/vid456_19.npy	12
+Hook/vid80_19.npy	4
+Lofted Offside/vid105_12.npy	7
+Down The Wicket/vid449_18.npy	2
+Cover Drive/vid526_33.npy	0
+Sweep/vid188_2.npy	13
+Cover Drive/vid103_6.npy	0
+Cover Drive/vid162_3.npy	0
+Defensive/vid252_25.npy	1
+Square Cut/vid416_25.npy	11
+Pull/vid160_27.npy	8
+Flick/vid49_33.npy	3
+Down The Wicket/vid432_22.npy	2
+Sweep/vid25_34.npy	13
+Straight Drive/vid139_0.npy	12
+Defensive/vid229_5.npy	1
+Pull/vid368_18.npy	8
+Sweep/vid144_14.npy	13
+Square Cut/vid316_14.npy	11
+Sweep/vid156_12.npy	13
+Down The Wicket/vid51_70.npy	2
+Scoop/vid433_60.npy	10
+Upper Cut/vid195_14.npy	14
+Straight Drive/vid529_60.npy	12
+Defensive/vid317_5.npy	1
+Hook/vid166_20.npy	4
+Lofted Legside/vid481_19.npy	6
+Flick/vid420_1.npy	3
+Hook/vid432_14.npy	4
+Defensive/vid31_39.npy	1
+Pull/vid454_25.npy	8
+Down The Wicket/vid85_16.npy	2
+Upper Cut/vid42_37.npy	14
+Lofted Offside/vid46_85.npy	7
+Down The Wicket/vid300_40.npy	2
+Flick/vid101_9.npy	3
+Pull/vid126_3.npy	8
+Lofted Legside/vid140_14.npy	6
+Lofted Offside/vid104_5.npy	7
+Sweep/vid533_3.npy	13
+Square Cut/vid238_28.npy	11
+Pull/vid59_34.npy	8
+Lofted Legside/vid358_5.npy	6
+Sweep/vid207_52.npy	13
+Down The Wicket/vid486_45.npy	2
+Sweep/vid530_41.npy	13
+Pull/vid342_43.npy	8
+Sweep/vid430_27.npy	13
+Lofted Legside/vid467_36.npy	6
+Upper Cut/vid497_10.npy	14
+Lofted Legside/vid482_45.npy	6
+Square Cut/vid378_28.npy	11
+Lofted Legside/vid337_22.npy	6
+Lofted Offside/vid410_21.npy	7
+Late Cut/vid536_53.npy	5
+Lofted Offside/vid398_26.npy	7
+Defensive/vid439_15.npy	1
+Lofted Offside/vid428_12.npy	7
+Lofted Legside/vid459_19.npy	6
+Sweep/vid42_14.npy	13
+Sweep/vid506_16.npy	13
+Square Cut/vid388_0.npy	11
+Lofted Legside/vid138_20.npy	6
+Flick/vid135_26.npy	3
+Lofted Legside/vid369_16.npy	6
+Flick/vid157_9.npy	3
+Sweep/vid441_24.npy	13
+Cover Drive/vid356_6.npy	0
+Lofted Legside/vid372_32.npy	6
+Pull/vid456_37.npy	8
+Straight Drive/vid340_9.npy	12
+Cover Drive/vid74_5.npy	0
+Defensive/vid174_12.npy	1
+Pull/vid95_37.npy	8
+Sweep/vid171_1.npy	13
+Lofted Offside/vid357_59.npy	7
+Straight Drive/vid361_0.npy	12
+Cover Drive/vid363_11.npy	0
+Lofted Offside/vid489_54.npy	7
+Cover Drive/vid440_2.npy	0
+Down The Wicket/vid324_29.npy	2
+Late Cut/vid446_31.npy	5
+Sweep/vid467_9.npy	13
+Square Cut/vid519_43.npy	11
+Hook/vid75_13.npy	4
+Flick/vid236_23.npy	3
+Pull/vid530_55.npy	8
+Sweep/vid533_54.npy	13
+Lofted Offside/vid378_44.npy	7
+Late Cut/vid1_33.npy	5
+Sweep/vid511_7.npy	13
+Square Cut/vid44_39.npy	11
+Flick/vid510_31.npy	3
+Sweep/vid387_11.npy	13
+Late Cut/vid69_34.npy	5
+Cover Drive/vid233_1.npy	0
+Sweep/vid430_55.npy	13
+Square Cut/vid433_41.npy	11
+Pull/vid435_35.npy	8
+Sweep/vid134_30.npy	13
+Square Cut/vid508_50.npy	11
+Flick/vid454_3.npy	3
+Lofted Offside/vid339_2.npy	7
+Reverse Sweep/vid435_17.npy	9
+Lofted Offside/vid92_36.npy	7
+Lofted Offside/vid521_61.npy	7
+Pull/vid387_47.npy	8
+Hook/vid474_30.npy	4
+Straight Drive/vid16_7.npy	12
+Cover Drive/vid502_38.npy	0
+Cover Drive/vid147_1.npy	0
+Defensive/vid247_15.npy	1
+Cover Drive/vid390_45.npy	0
+Cover Drive/vid116_37.npy	0
+Sweep/vid49_54.npy	13
+Flick/vid248_14.npy	3
+Pull/vid434_15.npy	8
+Lofted Legside/vid522_37.npy	6
+Square Cut/vid274_3.npy	11
+Cover Drive/vid209_3.npy	0
+Lofted Offside/vid57_17.npy	7
+Hook/vid368_20.npy	4
+Scoop/vid331_25.npy	10
+Lofted Offside/vid480_27.npy	7
+Defensive/vid396_11.npy	1
+Flick/vid56_10.npy	3
+Pull/vid452_30.npy	8
+Lofted Offside/vid535_63.npy	7
+Late Cut/vid529_5.npy	5
+Straight Drive/vid50_6.npy	12
+Defensive/vid235_51.npy	1
+Hook/vid113_11.npy	4
+Lofted Offside/vid526_51.npy	7
+Square Cut/vid285_10.npy	11
+Pull/vid368_52.npy	8
+Defensive/vid316_32.npy	1
+Cover Drive/vid231_6.npy	0
+Cover Drive/vid168_10.npy	0
+Straight Drive/vid94_34.npy	12
+Sweep/vid521_27.npy	13
+Upper Cut/vid320_25.npy	14
+Down The Wicket/vid445_31.npy	2
+Reverse Sweep/vid435_14.npy	9
+Pull/vid251_46.npy	8
+Down The Wicket/vid324_11.npy	2
+Cover Drive/vid100_8.npy	0
+Upper Cut/vid100_72.npy	14
+Down The Wicket/vid229_39.npy	2
+Cover Drive/vid345_5.npy	0
+Hook/vid124_3.npy	4
+Square Cut/vid435_2.npy	11
+Lofted Legside/vid57_46.npy	6
+Pull/vid473_5.npy	8
+Cover Drive/vid39_20.npy	0
+Hook/vid165_20.npy	4
+Sweep/vid5_0.npy	13
+Straight Drive/vid40_24.npy	12
+Defensive/vid519_31.npy	1
+Defensive/vid204_19.npy	1
+Sweep/vid38_28.npy	13
+Square Cut/vid512_27.npy	11
+Cover Drive/vid251_29.npy	0
+Cover Drive/vid314_8.npy	0
+Flick/vid205_32.npy	3
+Defensive/vid316_3.npy	1
+Flick/vid109_34.npy	3
+Pull/vid108_14.npy	8
+Flick/vid105_30.npy	3
+Cover Drive/vid482_54.npy	0
+Cover Drive/vid124_19.npy	0
+Lofted Legside/vid257_12.npy	6
+Lofted Offside/vid333_15.npy	7
+Reverse Sweep/vid209_15.npy	9
+Sweep/vid221_25.npy	13
+Sweep/vid82_24.npy	13
+Square Cut/vid25_1.npy	11
+Cover Drive/vid465_2.npy	0
+Straight Drive/vid249_7.npy	12
+Lofted Offside/vid366_31.npy	7
+Flick/vid100_51.npy	3
+Down The Wicket/vid443_7.npy	2
+Lofted Offside/vid116_12.npy	7
+Cover Drive/vid206_45.npy	0
+Down The Wicket/vid229_9.npy	2
+Down The Wicket/vid251_34.npy	2
+Flick/vid367_17.npy	3
+Pull/vid239_14.npy	8
+Down The Wicket/vid70_13.npy	2
+Hook/vid9_45.npy	4
+Square Cut/vid338_19.npy	11
+Square Cut/vid298_18.npy	11
+Defensive/vid129_40.npy	1
+Down The Wicket/vid437_64.npy	2
+Pull/vid457_40.npy	8
+Lofted Offside/vid104_29.npy	7
+Defensive/vid499_18.npy	1
+Pull/vid235_6.npy	8
+Down The Wicket/vid180_5.npy	2
+Sweep/vid63_29.npy	13
+Down The Wicket/vid436_20.npy	2
+Cover Drive/vid14_7.npy	0
+Lofted Legside/vid380_20.npy	6
+Sweep/vid470_14.npy	13
+Hook/vid136_19.npy	4
+Lofted Legside/vid355_38.npy	6
+Lofted Legside/vid33_30.npy	6
+Square Cut/vid505_0.npy	11
+Lofted Legside/vid515_76.npy	6
+Square Cut/vid475_12.npy	11
+Defensive/vid101_8.npy	1
+Square Cut/vid253_18.npy	11
+Hook/vid111_12.npy	4
+Defensive/vid254_12.npy	1
+Lofted Legside/vid489_11.npy	6
+Late Cut/vid517_33.npy	5
+Flick/vid294_3.npy	3
+Straight Drive/vid313_23.npy	12
+Down The Wicket/vid492_4.npy	2
+Square Cut/vid131_12.npy	11
+Lofted Offside/vid370_5.npy	7
+Straight Drive/vid461_39.npy	12
+Sweep/vid362_7.npy	13
+Scoop/vid40_18.npy	10
+Cover Drive/vid115_44.npy	0
+Sweep/vid212_6.npy	13
+Lofted Legside/vid371_11.npy	6
+Lofted Legside/vid495_3.npy	6
+Lofted Legside/vid138_31.npy	6
+Straight Drive/vid65_16.npy	12
+Square Cut/vid516_41.npy	11
+Scoop/vid362_25.npy	10
+Square Cut/vid337_46.npy	11
+Lofted Legside/vid243_15.npy	6
+Square Cut/vid226_50.npy	11
+Down The Wicket/vid54_36.npy	2
+Cover Drive/vid162_41.npy	0
+Flick/vid436_23.npy	3
+Sweep/vid53_77.npy	13
+Defensive/vid251_27.npy	1
+Upper Cut/vid368_37.npy	14
+Pull/vid527_30.npy	8
+Straight Drive/vid344_56.npy	12
+Reverse Sweep/vid9_25.npy	9
+Cover Drive/vid252_33.npy	0
+Sweep/vid357_70.npy	13
+Defensive/vid237_0.npy	1
+Hook/vid390_7.npy	4
+Lofted Offside/vid502_28.npy	7
+Lofted Offside/vid413_15.npy	7
+Sweep/vid356_14.npy	13
+Sweep/vid362_46.npy	13
+Cover Drive/vid363_19.npy	0
+Square Cut/vid222_8.npy	11
+Scoop/vid460_22.npy	10
+Lofted Legside/vid481_49.npy	6
+Down The Wicket/vid480_8.npy	2
+Lofted Legside/vid16_24.npy	6
+Cover Drive/vid288_0.npy	0
+Reverse Sweep/vid358_8.npy	9
+Reverse Sweep/vid212_43.npy	9
+Sweep/vid12_53.npy	13
+Scoop/vid333_24.npy	10
+Hook/vid331_53.npy	4
+Lofted Legside/vid331_54.npy	6
+Lofted Legside/vid439_4.npy	6
+Scoop/vid210_35.npy	10
+Hook/vid207_27.npy	4
+Pull/vid527_61.npy	8
+Defensive/vid230_0.npy	1
+Cover Drive/vid252_13.npy	0
+Down The Wicket/vid42_23.npy	2
+Lofted Offside/vid217_25.npy	7
+Down The Wicket/vid370_49.npy	2
+Sweep/vid482_51.npy	13
+Straight Drive/vid467_22.npy	12
+Upper Cut/vid299_11.npy	14
+Cover Drive/vid230_18.npy	0
+Cover Drive/vid461_17.npy	0
+Square Cut/vid159_37.npy	11
+Flick/vid129_32.npy	3
+Lofted Offside/vid262_53.npy	7
+Lofted Offside/vid474_11.npy	7
+Square Cut/vid454_7.npy	11
+Defensive/vid248_54.npy	1
+Pull/vid109_16.npy	8
+Reverse Sweep/vid49_59.npy	9
+Cover Drive/vid529_24.npy	0
+Straight Drive/vid241_41.npy	12
+Lofted Legside/vid51_39.npy	6
+Lofted Offside/vid333_20.npy	7
+Square Cut/vid138_13.npy	11
+Down The Wicket/vid448_36.npy	2
+Cover Drive/vid303_13.npy	0
+Lofted Legside/vid440_29.npy	6
+Flick/vid384_58.npy	3
+Pull/vid483_10.npy	8
+Reverse Sweep/vid369_24.npy	9
+Square Cut/vid220_19.npy	11
+Pull/vid92_0.npy	8
+Lofted Legside/vid182_21.npy	6
+Flick/vid419_8.npy	3
+Lofted Legside/vid151_39.npy	6
+Lofted Offside/vid483_46.npy	7
+Square Cut/vid213_46.npy	11
+Defensive/vid86_29.npy	1
+Lofted Offside/vid11_20.npy	7
+Scoop/vid484_16.npy	10
+Defensive/vid101_20.npy	1
+Lofted Offside/vid535_6.npy	7
+Down The Wicket/vid6_23.npy	2
+Lofted Legside/vid3_18.npy	6
+Square Cut/vid45_36.npy	11
+Down The Wicket/vid200_1.npy	2
+Down The Wicket/vid75_15.npy	2
+Flick/vid258_50.npy	3
+Square Cut/vid41_12.npy	11
+Square Cut/vid317_12.npy	11
+Lofted Legside/vid521_82.npy	6
+Reverse Sweep/vid374_7.npy	9
+Sweep/vid320_9.npy	13
+Lofted Legside/vid128_31.npy	6
+Square Cut/vid151_5.npy	11
+Straight Drive/vid31_43.npy	12
+Square Cut/vid370_57.npy	11
+Lofted Offside/vid272_11.npy	7
+Lofted Legside/vid428_52.npy	6
+Flick/vid295_35.npy	3
+Cover Drive/vid428_33.npy	0
+Square Cut/vid91_4.npy	11
+Upper Cut/vid227_17.npy	14
+Reverse Sweep/vid29_0.npy	9
+Defensive/vid214_34.npy	1
+Pull/vid444_35.npy	8
+Pull/vid60_79.npy	8
+Pull/vid355_7.npy	8
+Hook/vid534_45.npy	4
+Sweep/vid180_23.npy	13
+Pull/vid203_38.npy	8
+Scoop/vid116_3.npy	10
+Flick/vid515_64.npy	3
+Straight Drive/vid114_7.npy	12
+Straight Drive/vid340_7.npy	12
+Sweep/vid388_22.npy	13
+Sweep/vid358_52.npy	13
+Lofted Offside/vid494_15.npy	7
+Scoop/vid135_4.npy	10
+Straight Drive/vid451_57.npy	12
+Straight Drive/vid250_33.npy	12
+Sweep/vid441_22.npy	13
+Upper Cut/vid166_27.npy	14
+Flick/vid52_4.npy	3
+Flick/vid435_0.npy	3
+Defensive/vid145_22.npy	1
+Lofted Offside/vid88_6.npy	7
+Cover Drive/vid525_9.npy	0
+Sweep/vid460_44.npy	13
+Pull/vid91_34.npy	8
+Cover Drive/vid320_35.npy	0
+Lofted Offside/vid48_2.npy	7
+Down The Wicket/vid94_48.npy	2
+Pull/vid382_26.npy	8
+Lofted Offside/vid342_48.npy	7
+Sweep/vid426_11.npy	13
+Lofted Legside/vid392_15.npy	6
+Lofted Offside/vid515_78.npy	7
+Defensive/vid373_25.npy	1
+Flick/vid84_5.npy	3
+Sweep/vid367_20.npy	13
+Flick/vid180_17.npy	3
+Square Cut/vid230_31.npy	11
+Late Cut/vid392_6.npy	5
+Lofted Legside/vid531_72.npy	6
+Straight Drive/vid246_22.npy	12
+Pull/vid408_4.npy	8
+Lofted Legside/vid289_7.npy	6
+Square Cut/vid525_29.npy	11
+Cover Drive/vid129_31.npy	0
+Upper Cut/vid536_12.npy	14
+Square Cut/vid26_2.npy	11
+Down The Wicket/vid489_22.npy	2
+Lofted Legside/vid529_8.npy	6
+Cover Drive/vid368_40.npy	0
+Square Cut/vid288_6.npy	11
+Lofted Offside/vid369_35.npy	7
+Lofted Offside/vid304_21.npy	7
+Sweep/vid521_24.npy	13
+Lofted Legside/vid476_9.npy	6
+Flick/vid439_28.npy	3
+Pull/vid518_1.npy	8
+Reverse Sweep/vid435_12.npy	9
+Scoop/vid443_20.npy	10
+Pull/vid462_31.npy	8
+Sweep/vid409_25.npy	13
+Square Cut/vid207_44.npy	11
+Upper Cut/vid151_18.npy	14
+Flick/vid312_3.npy	3
+Lofted Legside/vid49_29.npy	6
+Sweep/vid124_32.npy	13
+Lofted Offside/vid398_20.npy	7
+Scoop/vid9_0.npy	10
+Flick/vid138_14.npy	3
+Lofted Offside/vid485_52.npy	7
+Flick/vid514_25.npy	3
+Square Cut/vid84_27.npy	11
+Hook/vid34_6.npy	4
+Flick/vid354_15.npy	3
+Defensive/vid252_32.npy	1
+Cover Drive/vid520_3.npy	0
+Flick/vid312_29.npy	3
+Pull/vid504_49.npy	8
+Reverse Sweep/vid384_8.npy	9
+Flick/vid505_23.npy	3
+Square Cut/vid366_2.npy	11
+Cover Drive/vid206_47.npy	0
+Scoop/vid62_53.npy	10
+Square Cut/vid238_22.npy	11
+Down The Wicket/vid196_9.npy	2
+Upper Cut/vid60_33.npy	14
+Square Cut/vid505_34.npy	11
+Flick/vid242_1.npy	3
+Lofted Offside/vid379_18.npy	7
+Lofted Legside/vid206_13.npy	6
+Upper Cut/vid277_2.npy	14
+Defensive/vid28_3.npy	1
+Square Cut/vid520_51.npy	11
+Straight Drive/vid248_27.npy	12
+Sweep/vid253_40.npy	13
+Lofted Legside/vid141_21.npy	6
+Sweep/vid46_27.npy	13
+Upper Cut/vid422_34.npy	14
+Flick/vid297_2.npy	3
+Pull/vid94_25.npy	8
+Late Cut/vid324_3.npy	5
+Pull/vid365_11.npy	8
+Cover Drive/vid146_35.npy	0
+Reverse Sweep/vid469_39.npy	9
+Cover Drive/vid342_15.npy	0
+Sweep/vid454_34.npy	13
+Lofted Offside/vid257_16.npy	7
+Sweep/vid171_23.npy	13
+Down The Wicket/vid515_49.npy	2
+Lofted Legside/vid233_43.npy	6
+Sweep/vid231_16.npy	13
+Sweep/vid506_34.npy	13
+Lofted Offside/vid292_12.npy	7
+Down The Wicket/vid512_2.npy	2
+Lofted Offside/vid390_9.npy	7
+Defensive/vid327_13.npy	1
+Straight Drive/vid522_0.npy	12
+Straight Drive/vid456_24.npy	12
+Sweep/vid524_1.npy	13
+Flick/vid504_5.npy	3
+Cover Drive/vid421_16.npy	0
+Square Cut/vid391_35.npy	11
+Cover Drive/vid255_12.npy	0
+Straight Drive/vid389_12.npy	12
+Lofted Offside/vid37_25.npy	7
+Lofted Legside/vid356_15.npy	6
+Lofted Offside/vid458_9.npy	7
+Scoop/vid442_18.npy	10
+Flick/vid148_41.npy	3
+Lofted Legside/vid470_32.npy	6
+Straight Drive/vid212_39.npy	12
+Defensive/vid64_27.npy	1
+Pull/vid373_32.npy	8
+Lofted Offside/vid96_1.npy	7
+Sweep/vid156_10.npy	13
+Flick/vid243_35.npy	3
+Defensive/vid159_9.npy	1
+Reverse Sweep/vid75_7.npy	9
+Flick/vid505_32.npy	3
+Reverse Sweep/vid322_24.npy	9
+Hook/vid462_5.npy	4
+Pull/vid42_60.npy	8
+Lofted Offside/vid429_7.npy	7
+Cover Drive/vid405_17.npy	0
+Square Cut/vid298_15.npy	11
+Pull/vid471_37.npy	8
+Sweep/vid378_43.npy	13
+Cover Drive/vid500_23.npy	0
+Late Cut/vid444_30.npy	5
+Sweep/vid128_30.npy	13
+Pull/vid160_45.npy	8
+Pull/vid431_36.npy	8
+Square Cut/vid333_5.npy	11
+Lofted Legside/vid81_33.npy	6
+Square Cut/vid153_24.npy	11
+Scoop/vid385_40.npy	10
+Flick/vid253_9.npy	3
+Lofted Offside/vid509_18.npy	7
+Hook/vid381_25.npy	4
+Scoop/vid363_29.npy	10
+Flick/vid337_19.npy	3
+Square Cut/vid224_25.npy	11
+Down The Wicket/vid2_7.npy	2
+Cover Drive/vid173_13.npy	0
+Down The Wicket/vid373_41.npy	2
+Hook/vid242_13.npy	4
+Flick/vid213_32.npy	3
+Square Cut/vid44_0.npy	11
+Cover Drive/vid227_26.npy	0
+Reverse Sweep/vid65_20.npy	9
+Scoop/vid440_39.npy	10
+Pull/vid522_10.npy	8
+Lofted Legside/vid104_12.npy	6
+Square Cut/vid214_23.npy	11
+Sweep/vid507_14.npy	13
+Hook/vid112_3.npy	4
+Sweep/vid529_29.npy	13
+Down The Wicket/vid447_35.npy	2
+Scoop/vid463_17.npy	10
+Lofted Offside/vid519_63.npy	7
+Flick/vid170_21.npy	3
+Lofted Offside/vid385_22.npy	7
+Flick/vid206_38.npy	3
+Down The Wicket/vid73_37.npy	2
+Late Cut/vid369_37.npy	5
+Cover Drive/vid368_30.npy	0
+Hook/vid481_6.npy	4
+Flick/vid481_48.npy	3
+Sweep/vid455_15.npy	13
+Straight Drive/vid248_3.npy	12
+Sweep/vid92_3.npy	13
+Scoop/vid448_47.npy	10
+Lofted Offside/vid337_26.npy	7
+Cover Drive/vid529_15.npy	0
+Lofted Legside/vid375_58.npy	6
+Straight Drive/vid236_25.npy	12
+Defensive/vid38_5.npy	1
+Cover Drive/vid213_61.npy	0
+Lofted Legside/vid10_34.npy	6
+Pull/vid40_61.npy	8
+Pull/vid516_44.npy	8
+Square Cut/vid250_14.npy	11
+Pull/vid439_41.npy	8
+Down The Wicket/vid257_25.npy	2
+Cover Drive/vid119_10.npy	0
+Lofted Legside/vid530_44.npy	6
+Sweep/vid344_40.npy	13
+Square Cut/vid180_2.npy	11
+Flick/vid238_45.npy	3
+Lofted Offside/vid40_43.npy	7
+Lofted Offside/vid54_30.npy	7
+Hook/vid77_8.npy	4
+Upper Cut/vid234_19.npy	14
+Lofted Offside/vid531_44.npy	7
+Lofted Legside/vid23_33.npy	6
+Down The Wicket/vid188_20.npy	2
+Lofted Offside/vid4_14.npy	7
+Down The Wicket/vid207_55.npy	2
+Upper Cut/vid49_19.npy	14
+Flick/vid252_38.npy	3
+Scoop/vid343_35.npy	10
+Lofted Legside/vid106_12.npy	6
+Lofted Offside/vid460_46.npy	7
+Sweep/vid403_18.npy	13
+Sweep/vid156_24.npy	13
+Sweep/vid86_25.npy	13
+Lofted Offside/vid425_4.npy	7
+Sweep/vid408_5.npy	13
+Defensive/vid102_33.npy	1
+Lofted Offside/vid5_26.npy	7
+Hook/vid297_20.npy	4
+Lofted Offside/vid34_29.npy	7
+Lofted Legside/vid2_43.npy	6
+Flick/vid154_0.npy	3
+Square Cut/vid433_13.npy	11
+Lofted Offside/vid449_53.npy	7
+Lofted Legside/vid467_25.npy	6
+Cover Drive/vid187_25.npy	0
+Defensive/vid302_22.npy	1
+Cover Drive/vid304_9.npy	0
+Sweep/vid442_48.npy	13
+Lofted Legside/vid343_28.npy	6
+Lofted Offside/vid356_20.npy	7
+Straight Drive/vid463_8.npy	12
+Lofted Offside/vid374_28.npy	7
+Flick/vid243_27.npy	3
+Lofted Offside/vid475_1.npy	7
+Pull/vid385_35.npy	8
+Pull/vid132_0.npy	8
+Lofted Legside/vid358_2.npy	6
+Square Cut/vid64_19.npy	11
+Square Cut/vid249_12.npy	11
+Square Cut/vid134_0.npy	11
+Cover Drive/vid375_53.npy	0
+Lofted Legside/vid489_47.npy	6
+Scoop/vid94_45.npy	10
+Defensive/vid219_19.npy	1
+Sweep/vid43_59.npy	13
+Square Cut/vid37_2.npy	11
+Cover Drive/vid368_10.npy	0
+Lofted Offside/vid78_40.npy	7
+Lofted Legside/vid59_42.npy	6
+Lofted Legside/vid506_6.npy	6
+Cover Drive/vid489_14.npy	0
+Flick/vid438_37.npy	3
+Square Cut/vid38_15.npy	11
+Lofted Offside/vid67_3.npy	7
+Down The Wicket/vid40_77.npy	2
+Pull/vid371_29.npy	8
+Defensive/vid471_20.npy	1
+Down The Wicket/vid420_16.npy	2
+Cover Drive/vid338_9.npy	0
+Pull/vid486_33.npy	8
+Cover Drive/vid38_46.npy	0
+Down The Wicket/vid49_10.npy	2
+Cover Drive/vid248_2.npy	0
+Sweep/vid3_25.npy	13
+Sweep/vid69_22.npy	13
+Pull/vid141_8.npy	8
+Pull/vid71_22.npy	8
+Square Cut/vid111_1.npy	11
+Lofted Offside/vid114_34.npy	7
+Lofted Legside/vid37_23.npy	6
+Lofted Offside/vid178_19.npy	7
+Pull/vid364_54.npy	8
+Pull/vid96_2.npy	8
+Lofted Legside/vid434_56.npy	6
+Cover Drive/vid127_18.npy	0
+Pull/vid446_7.npy	8
+Lofted Legside/vid534_23.npy	6
+Late Cut/vid155_1.npy	5
+Lofted Legside/vid161_19.npy	6
+Down The Wicket/vid520_41.npy	2
+Defensive/vid235_37.npy	1
+Down The Wicket/vid130_23.npy	2
+Sweep/vid263_4.npy	13
+Lofted Legside/vid426_26.npy	6
+Cover Drive/vid525_21.npy	0
+Defensive/vid530_56.npy	1
+Square Cut/vid523_6.npy	11
+Pull/vid374_14.npy	8
+Straight Drive/vid117_10.npy	12
+Scoop/vid461_8.npy	10
+Scoop/vid505_25.npy	10
+Defensive/vid205_9.npy	1
+Late Cut/vid356_55.npy	5
+Hook/vid438_4.npy	4
+Lofted Offside/vid465_41.npy	7
+Sweep/vid459_1.npy	13
+Defensive/vid301_6.npy	1
+Pull/vid28_58.npy	8
+Lofted Legside/vid87_35.npy	6
+Cover Drive/vid175_6.npy	0
+Lofted Offside/vid476_10.npy	7
+Down The Wicket/vid486_4.npy	2
+Square Cut/vid28_7.npy	11
+Square Cut/vid506_31.npy	11
+Defensive/vid1_28.npy	1
+Sweep/vid470_34.npy	13
+Square Cut/vid13_32.npy	11
+Lofted Offside/vid511_11.npy	7
+Straight Drive/vid44_32.npy	12
+Cover Drive/vid240_59.npy	0
+Defensive/vid56_6.npy	1
+Sweep/vid435_50.npy	13
+Straight Drive/vid446_38.npy	12
+Cover Drive/vid369_44.npy	0
+Sweep/vid244_30.npy	13
+Hook/vid500_13.npy	4
+Hook/vid118_17.npy	4
+Sweep/vid389_14.npy	13
+Upper Cut/vid384_80.npy	14
+Square Cut/vid25_41.npy	11
+Pull/vid401_19.npy	8
+Late Cut/vid178_12.npy	5
+Lofted Legside/vid527_37.npy	6
+Scoop/vid443_62.npy	10
+Straight Drive/vid335_16.npy	12
+Square Cut/vid42_5.npy	11
+Lofted Offside/vid209_11.npy	7
+Pull/vid515_5.npy	8
+Flick/vid359_33.npy	3
+Late Cut/vid50_61.npy	5
+Pull/vid390_30.npy	8
+Lofted Offside/vid526_29.npy	7
+Lofted Legside/vid364_59.npy	6
+Pull/vid509_34.npy	8
+Cover Drive/vid501_7.npy	0
+Square Cut/vid532_17.npy	11
+Lofted Offside/vid498_17.npy	7
+Lofted Offside/vid389_16.npy	7
+Reverse Sweep/vid157_26.npy	9
+Lofted Legside/vid532_74.npy	6
+Down The Wicket/vid210_38.npy	2
+Hook/vid249_43.npy	4
+Square Cut/vid237_15.npy	11
+Upper Cut/vid16_9.npy	14
+Lofted Offside/vid52_10.npy	7
+Square Cut/vid42_43.npy	11
+Lofted Legside/vid341_40.npy	6
+Flick/vid322_6.npy	3
+Reverse Sweep/vid456_36.npy	9
+Lofted Legside/vid502_3.npy	6
+Square Cut/vid145_19.npy	11
+Cover Drive/vid218_18.npy	0
+Defensive/vid220_10.npy	1
+Cover Drive/vid213_1.npy	0
+Flick/vid206_1.npy	3
+Upper Cut/vid376_10.npy	14
+Pull/vid367_50.npy	8
+Pull/vid17_10.npy	8
+Straight Drive/vid298_13.npy	12
+Pull/vid369_51.npy	8
+Lofted Offside/vid439_6.npy	7
+Square Cut/vid145_17.npy	11
+Hook/vid218_16.npy	4
+Straight Drive/vid247_12.npy	12
+Lofted Offside/vid107_6.npy	7
+Down The Wicket/vid239_15.npy	2
+Cover Drive/vid323_17.npy	0
+Lofted Offside/vid330_26.npy	7
+Cover Drive/vid245_34.npy	0
+Straight Drive/vid452_37.npy	12
+Lofted Legside/vid448_35.npy	6
+Hook/vid115_36.npy	4
+Upper Cut/vid437_9.npy	14
+Square Cut/vid101_10.npy	11
+Cover Drive/vid448_37.npy	0
+Pull/vid513_32.npy	8
+Lofted Legside/vid145_11.npy	6
+Sweep/vid518_38.npy	13
+Flick/vid248_7.npy	3
+Cover Drive/vid504_34.npy	0
+Square Cut/vid320_50.npy	11
+Square Cut/vid5_19.npy	11
+Lofted Legside/vid113_23.npy	6
+Square Cut/vid244_35.npy	11
+Flick/vid100_63.npy	3
+Square Cut/vid9_48.npy	11
+Sweep/vid321_22.npy	13
+Late Cut/vid310_0.npy	5
+Straight Drive/vid239_35.npy	12
+Lofted Legside/vid377_1.npy	6
+Reverse Sweep/vid80_11.npy	9
+Straight Drive/vid458_4.npy	12
+Lofted Legside/vid72_27.npy	6
+Lofted Offside/vid533_46.npy	7
+Hook/vid495_35.npy	4
+Down The Wicket/vid116_5.npy	2
+Sweep/vid457_14.npy	13
+Cover Drive/vid508_26.npy	0
+Lofted Offside/vid400_7.npy	7
+Lofted Legside/vid156_18.npy	6
+Lofted Legside/vid278_15.npy	6
+Reverse Sweep/vid359_5.npy	9
+Square Cut/vid469_48.npy	11
+Upper Cut/vid119_16.npy	14
+Sweep/vid285_6.npy	13
+Square Cut/vid517_36.npy	11
+Defensive/vid518_20.npy	1
+Square Cut/vid116_34.npy	11
+Lofted Legside/vid418_6.npy	6
+Square Cut/vid358_28.npy	11
+Cover Drive/vid361_54.npy	0
+Lofted Offside/vid75_11.npy	7
+Down The Wicket/vid39_37.npy	2
+Down The Wicket/vid518_19.npy	2
+Pull/vid127_12.npy	8
+Lofted Legside/vid383_37.npy	6
+Hook/vid438_15.npy	4
+Defensive/vid355_44.npy	1
+Hook/vid357_40.npy	4
+Lofted Offside/vid108_15.npy	7
+Down The Wicket/vid124_15.npy	2
+Flick/vid148_4.npy	3
+Cover Drive/vid239_19.npy	0
+Hook/vid169_38.npy	4
+Defensive/vid332_9.npy	1
+Flick/vid384_10.npy	3
+Flick/vid388_11.npy	3
+Sweep/vid313_11.npy	13
+Hook/vid151_17.npy	4
+Square Cut/vid522_26.npy	11
+Sweep/vid65_9.npy	13
+Square Cut/vid100_37.npy	11
+Lofted Legside/vid83_40.npy	6
+Lofted Legside/vid142_8.npy	6
+Reverse Sweep/vid29_3.npy	9
+Lofted Legside/vid48_6.npy	6
+Lofted Offside/vid206_65.npy	7
+Late Cut/vid362_52.npy	5
+Flick/vid97_11.npy	3
+Straight Drive/vid294_10.npy	12
+Down The Wicket/vid69_0.npy	2
+Square Cut/vid491_9.npy	11
+Down The Wicket/vid466_9.npy	2
+Upper Cut/vid234_25.npy	14
+Defensive/vid324_4.npy	1
+Down The Wicket/vid423_10.npy	2
+Down The Wicket/vid527_57.npy	2
+Down The Wicket/vid274_1.npy	2
+Square Cut/vid259_16.npy	11
+Pull/vid381_32.npy	8
+Straight Drive/vid9_37.npy	12
+Pull/vid394_10.npy	8
+Down The Wicket/vid443_68.npy	2
+Down The Wicket/vid525_12.npy	2
+Straight Drive/vid33_26.npy	12
+Square Cut/vid429_50.npy	11
+Flick/vid316_20.npy	3
+Sweep/vid323_35.npy	13
+Flick/vid108_23.npy	3
+Square Cut/vid466_7.npy	11
+Pull/vid461_27.npy	8
+Pull/vid450_17.npy	8
+Cover Drive/vid447_13.npy	0
+Square Cut/vid38_19.npy	11
+Upper Cut/vid525_24.npy	14
+Reverse Sweep/vid262_7.npy	9
+Lofted Legside/vid500_31.npy	6
+Hook/vid267_10.npy	4
+Pull/vid357_10.npy	8
+Hook/vid123_13.npy	4
+Lofted Legside/vid363_44.npy	6
+Cover Drive/vid168_5.npy	0
+Lofted Legside/vid518_52.npy	6
+Reverse Sweep/vid536_10.npy	9
+Straight Drive/vid416_2.npy	12
+Late Cut/vid435_53.npy	5
+Lofted Legside/vid476_23.npy	6
+Cover Drive/vid31_6.npy	0
+Hook/vid516_68.npy	4
+Sweep/vid469_45.npy	13
+Defensive/vid144_4.npy	1
+Down The Wicket/vid28_17.npy	2
+Sweep/vid429_59.npy	13
+Flick/vid40_55.npy	3
+Lofted Legside/vid514_56.npy	6
+Lofted Offside/vid320_10.npy	7
+Defensive/vid317_35.npy	1
+Hook/vid289_14.npy	4
+Lofted Legside/vid388_55.npy	6
+Cover Drive/vid314_11.npy	0
+Square Cut/vid126_1.npy	11
+Pull/vid81_8.npy	8
+Square Cut/vid489_40.npy	11
+Cover Drive/vid37_12.npy	0
+Down The Wicket/vid456_12.npy	2
+Defensive/vid165_41.npy	1
+Lofted Offside/vid369_8.npy	7
+Pull/vid140_26.npy	8
+Lofted Offside/vid199_0.npy	7
+Flick/vid42_28.npy	3
+Down The Wicket/vid226_43.npy	2
+Sweep/vid504_43.npy	13
+Straight Drive/vid389_49.npy	12
+Down The Wicket/vid525_25.npy	2
+Down The Wicket/vid400_20.npy	2
+Hook/vid144_21.npy	4
+Sweep/vid519_15.npy	13
+Square Cut/vid178_3.npy	11
+Defensive/vid220_37.npy	1
+Reverse Sweep/vid387_33.npy	9
+Sweep/vid437_32.npy	13
+Late Cut/vid177_10.npy	5
+Cover Drive/vid343_31.npy	0
+Lofted Offside/vid463_4.npy	7
+Lofted Legside/vid521_18.npy	6
+Down The Wicket/vid12_29.npy	2
+Lofted Legside/vid449_15.npy	6
+Pull/vid438_11.npy	8
+Upper Cut/vid535_3.npy	14
+Upper Cut/vid120_12.npy	14
+Sweep/vid49_43.npy	13
+Flick/vid513_42.npy	3
+Cover Drive/vid121_17.npy	0
+Lofted Legside/vid37_18.npy	6
+Reverse Sweep/vid437_60.npy	9
+Cover Drive/vid238_7.npy	0
+Reverse Sweep/vid509_16.npy	9
+Lofted Legside/vid369_18.npy	6
+Straight Drive/vid402_22.npy	12
+Straight Drive/vid150_5.npy	12
+Cover Drive/vid321_16.npy	0
+Flick/vid252_8.npy	3
+Reverse Sweep/vid72_34.npy	9
+Late Cut/vid534_8.npy	5
+Lofted Offside/vid370_6.npy	7
+Scoop/vid361_16.npy	10
+Lofted Legside/vid361_9.npy	6
+Lofted Offside/vid415_36.npy	7
+Defensive/vid38_56.npy	1
+Sweep/vid16_28.npy	13
+Sweep/vid459_42.npy	13
+Lofted Offside/vid271_2.npy	7
+Hook/vid488_12.npy	4
+Square Cut/vid251_47.npy	11
+Flick/vid512_31.npy	3
+Late Cut/vid273_9.npy	5
+Defensive/vid461_0.npy	1
+Cover Drive/vid498_0.npy	0
+Late Cut/vid443_48.npy	5
+Lofted Legside/vid363_45.npy	6
+Defensive/vid319_4.npy	1
+Cover Drive/vid298_5.npy	0
+Lofted Legside/vid294_16.npy	6
+Square Cut/vid507_30.npy	11
+Defensive/vid183_18.npy	1
+Sweep/vid234_41.npy	13
+Hook/vid462_21.npy	4
+Defensive/vid247_31.npy	1
+Lofted Legside/vid9_18.npy	6
+Lofted Offside/vid412_2.npy	7
+Lofted Offside/vid486_35.npy	7
+Lofted Offside/vid216_20.npy	7
+Pull/vid355_6.npy	8
+Defensive/vid97_55.npy	1
+Reverse Sweep/vid418_40.npy	9
+Sweep/vid157_5.npy	13
+Square Cut/vid410_5.npy	11
+Pull/vid162_24.npy	8
+Sweep/vid449_11.npy	13
+Pull/vid356_9.npy	8
+Cover Drive/vid372_3.npy	0
+Lofted Offside/vid322_16.npy	7
+Square Cut/vid129_18.npy	11
+Flick/vid246_11.npy	3
+Defensive/vid227_25.npy	1
+Square Cut/vid316_13.npy	11
+Late Cut/vid493_1.npy	5
+Square Cut/vid113_9.npy	11
+Down The Wicket/vid526_17.npy	2
+Lofted Offside/vid367_60.npy	7
+Pull/vid26_10.npy	8
+Cover Drive/vid33_1.npy	0
+Flick/vid509_13.npy	3
+Cover Drive/vid151_11.npy	0
+Lofted Legside/vid487_15.npy	6
+Lofted Legside/vid383_15.npy	6
+Square Cut/vid474_8.npy	11
+Scoop/vid77_44.npy	10
+Down The Wicket/vid4_4.npy	2
+Late Cut/vid491_2.npy	5
+Hook/vid455_34.npy	4
+Square Cut/vid244_22.npy	11
+Cover Drive/vid463_36.npy	0
+Cover Drive/vid124_1.npy	0
+Sweep/vid469_17.npy	13
+Square Cut/vid168_37.npy	11
+Down The Wicket/vid526_44.npy	2
+Square Cut/vid377_29.npy	11
+Square Cut/vid450_37.npy	11
+Down The Wicket/vid368_57.npy	2
+Square Cut/vid376_22.npy	11
+Lofted Legside/vid412_7.npy	6
+Cover Drive/vid90_3.npy	0
+Flick/vid21_18.npy	3
+Hook/vid259_3.npy	4
+Down The Wicket/vid229_32.npy	2
+Square Cut/vid446_39.npy	11
+Flick/vid307_1.npy	3
+Lofted Offside/vid484_6.npy	7
+Square Cut/vid469_0.npy	11
+Down The Wicket/vid122_2.npy	2
+Late Cut/vid302_8.npy	5
+Square Cut/vid486_12.npy	11
+Lofted Offside/vid495_17.npy	7
+Square Cut/vid23_10.npy	11
+Lofted Legside/vid266_17.npy	6
+Sweep/vid92_41.npy	13
+Sweep/vid512_5.npy	13
+Defensive/vid110_4.npy	1
+Down The Wicket/vid130_25.npy	2
+Pull/vid525_22.npy	8
+Pull/vid67_21.npy	8
+Hook/vid527_22.npy	4
+Square Cut/vid73_17.npy	11
+Reverse Sweep/vid499_10.npy	9
+Square Cut/vid511_53.npy	11
+Lofted Offside/vid532_24.npy	7
+Late Cut/vid514_37.npy	5
+Flick/vid522_43.npy	3
+Hook/vid520_25.npy	4
+Lofted Offside/vid93_36.npy	7
+Cover Drive/vid25_30.npy	0
+Lofted Offside/vid434_10.npy	7
+Square Cut/vid134_3.npy	11
+Hook/vid119_18.npy	4
+Pull/vid248_29.npy	8
+Cover Drive/vid228_7.npy	0
+Defensive/vid107_2.npy	1
+Hook/vid505_30.npy	4
+Down The Wicket/vid459_18.npy	2
+Down The Wicket/vid344_23.npy	2
+Scoop/vid333_32.npy	10
+Cover Drive/vid372_26.npy	0
+Down The Wicket/vid440_28.npy	2
+Flick/vid101_27.npy	3
+Reverse Sweep/vid370_40.npy	9
+Lofted Legside/vid120_22.npy	6
+Square Cut/vid418_9.npy	11
+Cover Drive/vid485_51.npy	0
+Flick/vid43_14.npy	3
+Flick/vid56_48.npy	3
+Late Cut/vid109_9.npy	5
+Defensive/vid208_3.npy	1
+Scoop/vid52_7.npy	10
+Lofted Offside/vid455_6.npy	7
+Defensive/vid247_10.npy	1
+Cover Drive/vid38_58.npy	0
+Flick/vid508_0.npy	3
+Down The Wicket/vid420_3.npy	2
+Down The Wicket/vid437_35.npy	2
+Square Cut/vid505_39.npy	11
+Scoop/vid119_27.npy	10
+Down The Wicket/vid67_20.npy	2
+Scoop/vid506_40.npy	10
+Down The Wicket/vid455_14.npy	2
+Cover Drive/vid281_15.npy	0
+Lofted Offside/vid113_18.npy	7
+Straight Drive/vid248_10.npy	12
+Lofted Legside/vid300_11.npy	6
+Straight Drive/vid222_14.npy	12
+Pull/vid384_57.npy	8
+Down The Wicket/vid441_21.npy	2
+Cover Drive/vid208_5.npy	0
+Lofted Legside/vid121_39.npy	6
+Lofted Legside/vid440_21.npy	6
+Sweep/vid429_54.npy	13
+Sweep/vid89_39.npy	13
+Late Cut/vid478_7.npy	5
+Straight Drive/vid82_4.npy	12
+Lofted Legside/vid43_51.npy	6
+Lofted Legside/vid208_22.npy	6
+Lofted Offside/vid96_26.npy	7
+Defensive/vid117_4.npy	1
+Scoop/vid379_0.npy	10
+Sweep/vid394_20.npy	13
+Lofted Legside/vid428_7.npy	6
+Sweep/vid534_12.npy	13
+Lofted Legside/vid473_37.npy	6
+Square Cut/vid535_57.npy	11
+Sweep/vid191_6.npy	13
+Defensive/vid239_37.npy	1
+Pull/vid486_10.npy	8
+Cover Drive/vid527_21.npy	0
+Sweep/vid466_29.npy	13
+Sweep/vid177_11.npy	13
+Hook/vid378_39.npy	4
+Lofted Legside/vid6_34.npy	6
+Flick/vid355_3.npy	3
+Down The Wicket/vid277_19.npy	2
+Cover Drive/vid413_22.npy	0
+Reverse Sweep/vid465_43.npy	9
+Flick/vid295_2.npy	3
+Flick/vid459_43.npy	3
+Pull/vid487_44.npy	8
+Down The Wicket/vid51_75.npy	2
+Scoop/vid492_14.npy	10
+Flick/vid405_16.npy	3
+Lofted Legside/vid533_13.npy	6
+Late Cut/vid312_15.npy	5
+Square Cut/vid393_12.npy	11
+Square Cut/vid359_25.npy	11
+Sweep/vid383_22.npy	13
+Down The Wicket/vid342_13.npy	2
+Lofted Legside/vid369_6.npy	6
+Upper Cut/vid122_22.npy	14
+Lofted Offside/vid102_30.npy	7
+Sweep/vid357_57.npy	13
+Pull/vid265_6.npy	8
+Square Cut/vid418_27.npy	11
+Square Cut/vid372_24.npy	11
+Pull/vid369_33.npy	8
+Lofted Legside/vid115_22.npy	6
+Cover Drive/vid46_52.npy	0
+Scoop/vid511_57.npy	10
+Late Cut/vid10_25.npy	5
+Scoop/vid206_32.npy	10
+Sweep/vid261_14.npy	13
+Flick/vid227_30.npy	3
+Flick/vid205_2.npy	3
+Hook/vid28_22.npy	4
+Sweep/vid391_30.npy	13
+Scoop/vid99_29.npy	10
+Lofted Offside/vid40_71.npy	7
+Lofted Offside/vid388_15.npy	7
+Hook/vid100_13.npy	4
+Square Cut/vid492_21.npy	11
+Sweep/vid165_45.npy	13
+Lofted Offside/vid379_1.npy	7
+Pull/vid119_5.npy	8
+Defensive/vid430_43.npy	1
+Pull/vid360_54.npy	8
+Cover Drive/vid147_19.npy	0
+Lofted Legside/vid453_20.npy	6
+Pull/vid166_25.npy	8
+Square Cut/vid400_11.npy	11
+Down The Wicket/vid436_7.npy	2
+Sweep/vid12_13.npy	13
+Cover Drive/vid38_60.npy	0
+Pull/vid511_28.npy	8
+Hook/vid392_54.npy	4
+Flick/vid104_23.npy	3
+Sweep/vid502_29.npy	13
+Pull/vid119_4.npy	8
+Lofted Offside/vid100_32.npy	7
+Hook/vid87_42.npy	4
+Sweep/vid121_46.npy	13
+Defensive/vid317_4.npy	1
+Sweep/vid480_12.npy	13
+Cover Drive/vid452_24.npy	0
+Flick/vid297_6.npy	3
+Sweep/vid462_33.npy	13
+Lofted Offside/vid391_46.npy	7
+Pull/vid356_58.npy	8
+Down The Wicket/vid437_6.npy	2
+Square Cut/vid481_2.npy	11
+Pull/vid357_33.npy	8
+Pull/vid208_25.npy	8
+Cover Drive/vid385_34.npy	0
+Lofted Legside/vid468_19.npy	6
+Hook/vid523_10.npy	4
+Square Cut/vid435_43.npy	11
+Lofted Offside/vid434_6.npy	7
+Flick/vid159_10.npy	3
+Cover Drive/vid218_10.npy	0
+Lofted Legside/vid415_5.npy	6
+Scoop/vid113_12.npy	10
+Flick/vid453_30.npy	3
+Cover Drive/vid438_31.npy	0
+Flick/vid195_3.npy	3
+Hook/vid113_17.npy	4
+Square Cut/vid378_31.npy	11
+Straight Drive/vid125_11.npy	12
+Late Cut/vid244_20.npy	5
+Late Cut/vid74_21.npy	5
+Square Cut/vid508_11.npy	11
+Square Cut/vid368_19.npy	11
+Lofted Legside/vid292_21.npy	6
+Defensive/vid313_15.npy	1
+Cover Drive/vid71_17.npy	0
+Cover Drive/vid14_64.npy	0
+Upper Cut/vid49_41.npy	14
+Defensive/vid360_43.npy	1
+Straight Drive/vid451_11.npy	12
+Flick/vid466_19.npy	3
+Lofted Offside/vid519_55.npy	7
+Pull/vid407_15.npy	8
+Late Cut/vid432_4.npy	5
+Defensive/vid170_12.npy	1
+Flick/vid206_44.npy	3
+Upper Cut/vid529_13.npy	14
+Cover Drive/vid310_12.npy	0
+Scoop/vid384_5.npy	10
+Cover Drive/vid50_52.npy	0
+Sweep/vid499_25.npy	13
+Lofted Legside/vid490_38.npy	6
+Straight Drive/vid152_24.npy	12
+Flick/vid531_17.npy	3
+Hook/vid167_1.npy	4
+Square Cut/vid164_21.npy	11
+Sweep/vid133_24.npy	13
+Straight Drive/vid514_7.npy	12
+Scoop/vid28_59.npy	10
+Flick/vid364_28.npy	3
+Cover Drive/vid21_0.npy	0
+Scoop/vid53_71.npy	10
+Scoop/vid130_15.npy	10
+Lofted Legside/vid405_22.npy	6
+Hook/vid174_20.npy	4
+Lofted Legside/vid65_27.npy	6
+Lofted Legside/vid461_37.npy	6
+Lofted Offside/vid526_27.npy	7
+Straight Drive/vid117_5.npy	12
+Cover Drive/vid532_59.npy	0
+Sweep/vid472_2.npy	13
+Lofted Legside/vid74_43.npy	6
+Pull/vid288_2.npy	8
+Lofted Offside/vid480_34.npy	7
+Square Cut/vid92_35.npy	11
+Lofted Legside/vid488_48.npy	6
+Square Cut/vid365_69.npy	11
+Square Cut/vid390_26.npy	11
+Pull/vid507_13.npy	8
+Pull/vid369_29.npy	8
+Square Cut/vid128_21.npy	11
+Pull/vid18_30.npy	8
+Down The Wicket/vid114_3.npy	2
+Pull/vid100_31.npy	8
+Square Cut/vid441_13.npy	11
+Late Cut/vid320_24.npy	5
+Down The Wicket/vid84_26.npy	2
+Flick/vid245_24.npy	3
+Square Cut/vid433_40.npy	11
+Lofted Offside/vid395_11.npy	7
+Lofted Legside/vid40_41.npy	6
+Sweep/vid51_21.npy	13
+Cover Drive/vid536_42.npy	0
+Lofted Legside/vid61_2.npy	6
+Straight Drive/vid245_33.npy	12
+Down The Wicket/vid303_15.npy	2
+Square Cut/vid4_27.npy	11
+Square Cut/vid292_3.npy	11
+Reverse Sweep/vid344_44.npy	9
+Down The Wicket/vid488_36.npy	2
+Straight Drive/vid222_16.npy	12
+Flick/vid507_42.npy	3
+Pull/vid524_36.npy	8
+Pull/vid506_46.npy	8
+Defensive/vid100_48.npy	1
+Square Cut/vid172_0.npy	11
+Square Cut/vid418_8.npy	11
+Sweep/vid470_26.npy	13
+Square Cut/vid42_4.npy	11
+Lofted Offside/vid442_5.npy	7
+Lofted Offside/vid45_49.npy	7
+Upper Cut/vid229_24.npy	14
+Cover Drive/vid437_10.npy	0
+Reverse Sweep/vid281_8.npy	9
+Flick/vid143_0.npy	3
+Lofted Offside/vid17_21.npy	7
+Lofted Offside/vid213_27.npy	7
+Defensive/vid231_9.npy	1
+Flick/vid473_38.npy	3
+Square Cut/vid518_6.npy	11
+Square Cut/vid520_21.npy	11
+Down The Wicket/vid272_1.npy	2
+Flick/vid373_22.npy	3
+Square Cut/vid204_15.npy	11
+Reverse Sweep/vid527_27.npy	9
+Hook/vid433_34.npy	4
+Scoop/vid271_20.npy	10
+Square Cut/vid535_53.npy	11
+Straight Drive/vid403_4.npy	12
+Lofted Offside/vid485_37.npy	7
+Sweep/vid95_9.npy	13
+Lofted Legside/vid434_34.npy	6
+Lofted Legside/vid95_25.npy	6
+Hook/vid515_28.npy	4
+Hook/vid495_49.npy	4
+Down The Wicket/vid134_36.npy	2
+Lofted Legside/vid72_26.npy	6
+Sweep/vid527_68.npy	13
+Upper Cut/vid383_11.npy	14
+Hook/vid102_24.npy	4
+Scoop/vid455_1.npy	10
+Defensive/vid315_10.npy	1
+Flick/vid38_3.npy	3
+Reverse Sweep/vid276_6.npy	9
+Late Cut/vid435_46.npy	5
+Lofted Legside/vid397_28.npy	6
+Scoop/vid465_4.npy	10
+Late Cut/vid66_28.npy	5
+Defensive/vid379_15.npy	1
+Down The Wicket/vid454_15.npy	2
+Cover Drive/vid305_16.npy	0
+Square Cut/vid226_38.npy	11
+Sweep/vid92_40.npy	13
+Flick/vid322_20.npy	3
+Lofted Legside/vid418_17.npy	6
+Lofted Offside/vid380_23.npy	7
+Cover Drive/vid42_12.npy	0
+Pull/vid437_19.npy	8
+Square Cut/vid223_31.npy	11
+Lofted Offside/vid110_35.npy	7
+Cover Drive/vid129_0.npy	0
+Reverse Sweep/vid327_40.npy	9
+Pull/vid470_20.npy	8
+Cover Drive/vid393_4.npy	0
+Square Cut/vid444_14.npy	11
+Lofted Legside/vid410_7.npy	6
+Defensive/vid2_20.npy	1
+Flick/vid355_34.npy	3
+Upper Cut/vid356_44.npy	14
+Defensive/vid237_42.npy	1
+Lofted Legside/vid338_21.npy	6
+Lofted Offside/vid468_20.npy	7
+Defensive/vid459_0.npy	1
+Down The Wicket/vid428_6.npy	2
+Lofted Legside/vid419_17.npy	6
+Flick/vid241_35.npy	3
+Flick/vid443_21.npy	3
+Lofted Offside/vid488_5.npy	7
+Defensive/vid209_35.npy	1
+Defensive/vid512_26.npy	1
+Upper Cut/vid115_18.npy	14
+Hook/vid34_7.npy	4
+Hook/vid124_12.npy	4
+Defensive/vid446_13.npy	1
+Square Cut/vid462_27.npy	11
+Flick/vid233_16.npy	3
+Lofted Offside/vid515_62.npy	7
+Upper Cut/vid476_28.npy	14
+Down The Wicket/vid215_17.npy	2
+Sweep/vid324_5.npy	13
+Square Cut/vid13_1.npy	11
+Hook/vid140_7.npy	4
+Hook/vid104_30.npy	4
+Down The Wicket/vid443_8.npy	2
+Square Cut/vid513_22.npy	11
+Flick/vid337_38.npy	3
+Pull/vid438_17.npy	8
+Lofted Legside/vid530_25.npy	6
+Cover Drive/vid449_1.npy	0
+Sweep/vid528_54.npy	13
+Pull/vid295_30.npy	8
+Sweep/vid216_31.npy	13
+Upper Cut/vid357_58.npy	14
+Pull/vid81_24.npy	8
+Reverse Sweep/vid361_4.npy	9
+Pull/vid37_33.npy	8
+Down The Wicket/vid485_23.npy	2
+Lofted Offside/vid367_48.npy	7
+Upper Cut/vid521_34.npy	14
+Cover Drive/vid512_46.npy	0
+Straight Drive/vid500_20.npy	12
+Lofted Legside/vid337_47.npy	6
+Sweep/vid375_14.npy	13
+Defensive/vid331_44.npy	1
+Lofted Legside/vid97_24.npy	6
+Scoop/vid471_44.npy	10
+Square Cut/vid176_15.npy	11
+Pull/vid66_17.npy	8
+Sweep/vid14_22.npy	13
+Cover Drive/vid400_8.npy	0
+Late Cut/vid461_19.npy	5
+Cover Drive/vid298_30.npy	0
+Defensive/vid207_28.npy	1
+Square Cut/vid227_31.npy	11
+Lofted Legside/vid81_17.npy	6
+Cover Drive/vid9_26.npy	0
+Cover Drive/vid259_27.npy	0
+Lofted Offside/vid217_49.npy	7
+Flick/vid245_1.npy	3
+Hook/vid450_14.npy	4
+Lofted Legside/vid332_22.npy	6
+Down The Wicket/vid51_69.npy	2
+Hook/vid107_35.npy	4
+Lofted Legside/vid123_35.npy	6
+Down The Wicket/vid109_30.npy	2
+Pull/vid366_65.npy	8
+Cover Drive/vid168_25.npy	0
+Pull/vid63_20.npy	8
+Square Cut/vid23_3.npy	11
+Square Cut/vid532_54.npy	11
+Lofted Legside/vid348_21.npy	6
+Flick/vid25_26.npy	3
+Square Cut/vid130_14.npy	11
+Hook/vid261_10.npy	4
+Square Cut/vid424_25.npy	11
+Late Cut/vid296_9.npy	5
+Hook/vid38_21.npy	4
+Flick/vid360_53.npy	3
+Sweep/vid369_32.npy	13
+Lofted Legside/vid536_63.npy	6
+Lofted Legside/vid352_6.npy	6
+Cover Drive/vid467_7.npy	0
+Flick/vid126_33.npy	3
+Square Cut/vid482_49.npy	11
+Late Cut/vid245_31.npy	5
+Sweep/vid499_5.npy	13
+Square Cut/vid261_28.npy	11
+Square Cut/vid154_25.npy	11
+Straight Drive/vid100_53.npy	12
+Pull/vid467_24.npy	8
+Lofted Legside/vid366_50.npy	6
+Flick/vid240_7.npy	3
+Pull/vid432_9.npy	8
+Hook/vid151_2.npy	4
+Scoop/vid455_57.npy	10
+Lofted Legside/vid384_51.npy	6
+Lofted Offside/vid437_41.npy	7
+Defensive/vid206_58.npy	1
+Late Cut/vid325_7.npy	5
+Upper Cut/vid406_37.npy	14
+Lofted Offside/vid206_28.npy	7
+Flick/vid126_11.npy	3
+Flick/vid116_14.npy	3
+Flick/vid474_23.npy	3
+Lofted Legside/vid401_15.npy	6
+Lofted Offside/vid510_15.npy	7
+Defensive/vid164_0.npy	1
+Upper Cut/vid384_52.npy	14
+Flick/vid239_11.npy	3
+Down The Wicket/vid13_24.npy	2
+Defensive/vid162_30.npy	1
+Cover Drive/vid235_2.npy	0
+Down The Wicket/vid402_18.npy	2
+Flick/vid13_0.npy	3
+Pull/vid138_18.npy	8
+Flick/vid468_7.npy	3
+Lofted Offside/vid444_62.npy	7
+Pull/vid442_65.npy	8
+Cover Drive/vid294_13.npy	0
+Square Cut/vid33_2.npy	11
+Hook/vid368_31.npy	4
+Square Cut/vid258_35.npy	11
+Straight Drive/vid448_40.npy	12
+Late Cut/vid513_0.npy	5
+Cover Drive/vid405_4.npy	0
+Down The Wicket/vid447_37.npy	2
+Lofted Legside/vid327_18.npy	6
+Cover Drive/vid215_1.npy	0
+Pull/vid451_7.npy	8
+Pull/vid362_38.npy	8
+Cover Drive/vid304_11.npy	0
+Flick/vid235_32.npy	3
+Lofted Legside/vid192_10.npy	6
+Cover Drive/vid455_31.npy	0
+Lofted Offside/vid208_36.npy	7
+Flick/vid138_25.npy	3
+Square Cut/vid342_3.npy	11
+Flick/vid130_0.npy	3
+Flick/vid94_51.npy	3
+Cover Drive/vid187_21.npy	0
+Lofted Offside/vid419_7.npy	7
+Lofted Legside/vid353_21.npy	6
+Reverse Sweep/vid89_13.npy	9
+Lofted Offside/vid353_27.npy	7
+Sweep/vid96_35.npy	13
+Lofted Legside/vid490_34.npy	6
+Pull/vid473_47.npy	8
+Flick/vid107_33.npy	3
+Lofted Offside/vid525_19.npy	7
+Lofted Offside/vid511_33.npy	7
+Sweep/vid119_17.npy	13
+Pull/vid450_5.npy	8
+Down The Wicket/vid424_21.npy	2
+Sweep/vid55_74.npy	13
+Straight Drive/vid87_7.npy	12
+Square Cut/vid244_29.npy	11
+Pull/vid57_2.npy	8
+Pull/vid92_39.npy	8
+Square Cut/vid464_3.npy	11
+Flick/vid83_11.npy	3
+Pull/vid220_27.npy	8
+Lofted Offside/vid520_56.npy	7
+Pull/vid519_5.npy	8
+Lofted Legside/vid39_11.npy	6
+Sweep/vid253_37.npy	13
+Lofted Offside/vid476_5.npy	7
+Square Cut/vid31_28.npy	11
+Cover Drive/vid105_15.npy	0
+Square Cut/vid121_10.npy	11
+Sweep/vid454_20.npy	13
+Upper Cut/vid485_48.npy	14
+Cover Drive/vid8_27.npy	0
+Hook/vid486_25.npy	4
+Late Cut/vid113_8.npy	5
+Sweep/vid54_18.npy	13
+Lofted Offside/vid43_58.npy	7
+Pull/vid167_28.npy	8
+Sweep/vid233_25.npy	13
+Down The Wicket/vid65_46.npy	2
+Hook/vid125_17.npy	4
+Defensive/vid162_57.npy	1
+Sweep/vid39_38.npy	13
+Square Cut/vid343_27.npy	11
+Lofted Offside/vid331_9.npy	7
+Lofted Offside/vid385_48.npy	7
+Down The Wicket/vid163_3.npy	2
+Square Cut/vid447_26.npy	11
+Lofted Offside/vid490_27.npy	7
+Sweep/vid109_10.npy	13
+Flick/vid157_20.npy	3
+Sweep/vid451_18.npy	13
+Sweep/vid62_37.npy	13
+Lofted Offside/vid40_90.npy	7
+Upper Cut/vid276_18.npy	14
+Defensive/vid228_38.npy	1
+Down The Wicket/vid455_41.npy	2
+Cover Drive/vid353_5.npy	0
+Flick/vid375_59.npy	3
+Sweep/vid158_16.npy	13
+Pull/vid240_5.npy	8
+Sweep/vid404_1.npy	13
+Upper Cut/vid100_78.npy	14
+Cover Drive/vid357_31.npy	0
+Square Cut/vid109_39.npy	11
+Sweep/vid310_9.npy	13
+Pull/vid439_11.npy	8
+Hook/vid165_14.npy	4
+Pull/vid280_13.npy	8
+Lofted Legside/vid76_31.npy	6
+Cover Drive/vid208_32.npy	0
+Sweep/vid440_26.npy	13
+Square Cut/vid384_4.npy	11
+Lofted Legside/vid46_80.npy	6
+Lofted Offside/vid358_34.npy	7
+Lofted Offside/vid8_26.npy	7
+Lofted Offside/vid515_70.npy	7
+Late Cut/vid532_63.npy	5
+Defensive/vid420_5.npy	1
+Sweep/vid441_29.npy	13
+Lofted Offside/vid34_42.npy	7
+Lofted Legside/vid386_19.npy	6
+Lofted Offside/vid436_36.npy	7
+Pull/vid429_9.npy	8
+Flick/vid354_27.npy	3
+Defensive/vid37_28.npy	1
+Lofted Legside/vid343_40.npy	6
+Lofted Legside/vid368_25.npy	6
+Lofted Legside/vid449_52.npy	6
+Sweep/vid95_42.npy	13
+Flick/vid434_66.npy	3
+Late Cut/vid56_66.npy	5
+Hook/vid249_6.npy	4
+Square Cut/vid429_20.npy	11
+Lofted Offside/vid480_44.npy	7
+Cover Drive/vid207_5.npy	0
+Lofted Offside/vid388_16.npy	7
+Lofted Legside/vid421_6.npy	6
+Flick/vid41_9.npy	3
+Lofted Offside/vid354_11.npy	7
+Square Cut/vid378_18.npy	11
+Lofted Legside/vid10_10.npy	6
+Sweep/vid361_22.npy	13
+Hook/vid536_20.npy	4
+Down The Wicket/vid161_28.npy	2
+Sweep/vid114_14.npy	13
+Sweep/vid85_28.npy	13
+Lofted Offside/vid51_60.npy	7
+Down The Wicket/vid71_9.npy	2
+Cover Drive/vid50_41.npy	0
+Square Cut/vid431_28.npy	11
+Cover Drive/vid44_29.npy	0
+Lofted Legside/vid216_36.npy	6
+Pull/vid297_36.npy	8
+Lofted Offside/vid397_22.npy	7
+Pull/vid320_52.npy	8
+Lofted Legside/vid450_30.npy	6
+Scoop/vid390_1.npy	10
+Cover Drive/vid43_4.npy	0
+Late Cut/vid483_44.npy	5
+Flick/vid252_48.npy	3
+Cover Drive/vid108_21.npy	0
+Flick/vid483_6.npy	3
+Lofted Legside/vid518_2.npy	6
+Lofted Legside/vid416_5.npy	6
+Sweep/vid40_59.npy	13
+Down The Wicket/vid85_17.npy	2
+Hook/vid384_42.npy	4
+Sweep/vid42_10.npy	13
+Hook/vid517_63.npy	4
+Sweep/vid376_8.npy	13
+Square Cut/vid455_4.npy	11
+Square Cut/vid489_41.npy	11
+Hook/vid28_27.npy	4
+Sweep/vid427_27.npy	13
+Square Cut/vid141_37.npy	11
+Down The Wicket/vid217_41.npy	2
+Hook/vid517_61.npy	4
+Defensive/vid172_7.npy	1
+Pull/vid383_39.npy	8
+Cover Drive/vid148_36.npy	0
+Flick/vid304_27.npy	3
+Lofted Legside/vid115_16.npy	6
+Pull/vid207_53.npy	8
+Sweep/vid28_56.npy	13
+Square Cut/vid253_35.npy	11
+Flick/vid28_31.npy	3
+Lofted Offside/vid138_3.npy	7
+Lofted Offside/vid424_5.npy	7
+Lofted Legside/vid452_11.npy	6
+Lofted Offside/vid534_47.npy	7
+Down The Wicket/vid477_0.npy	2
+Flick/vid101_11.npy	3
+Down The Wicket/vid216_7.npy	2
+Lofted Legside/vid355_43.npy	6
+Late Cut/vid533_59.npy	5
+Straight Drive/vid24_6.npy	12
+Lofted Offside/vid28_15.npy	7
+Lofted Legside/vid521_97.npy	6
+Flick/vid38_43.npy	3
+Flick/vid295_40.npy	3
+Pull/vid374_13.npy	8
+Pull/vid45_11.npy	8
+Flick/vid56_8.npy	3
+Lofted Legside/vid526_53.npy	6
+Lofted Legside/vid490_8.npy	6
+Square Cut/vid148_13.npy	11
+Straight Drive/vid416_4.npy	12
+Lofted Offside/vid262_47.npy	7
+Lofted Offside/vid533_37.npy	7
+Hook/vid124_22.npy	4
+Lofted Offside/vid151_24.npy	7
+Pull/vid487_36.npy	8
+Cover Drive/vid331_23.npy	0
+Straight Drive/vid374_53.npy	12
+Sweep/vid224_14.npy	13
+Lofted Legside/vid94_27.npy	6
+Hook/vid55_27.npy	4
+Flick/vid316_11.npy	3
+Defensive/vid218_13.npy	1
+Down The Wicket/vid469_11.npy	2
+Defensive/vid380_56.npy	1
+Lofted Legside/vid353_25.npy	6
+Upper Cut/vid291_16.npy	14
+Defensive/vid91_3.npy	1
+Hook/vid21_25.npy	4
+Straight Drive/vid524_0.npy	12
+Pull/vid479_3.npy	8
+Sweep/vid411_24.npy	13
+Flick/vid309_7.npy	3
+Hook/vid392_12.npy	4
+Defensive/vid145_18.npy	1
+Down The Wicket/vid461_51.npy	2
+Square Cut/vid210_47.npy	11
+Pull/vid285_15.npy	8
+Down The Wicket/vid101_6.npy	2
+Cover Drive/vid296_25.npy	0
+Pull/vid387_17.npy	8
+Lofted Offside/vid514_32.npy	7
+Down The Wicket/vid114_1.npy	2
+Lofted Offside/vid290_19.npy	7
+Late Cut/vid151_34.npy	5
+Lofted Legside/vid58_20.npy	6
+Down The Wicket/vid104_24.npy	2
+Down The Wicket/vid132_6.npy	2
+Flick/vid399_8.npy	3
+Straight Drive/vid51_0.npy	12
+Lofted Offside/vid497_16.npy	7
+Down The Wicket/vid480_19.npy	2
+Cover Drive/vid149_13.npy	0
+Hook/vid74_40.npy	4
+Square Cut/vid373_36.npy	11
+Defensive/vid465_0.npy	1
+Lofted Legside/vid389_24.npy	6
+Sweep/vid227_15.npy	13
+Down The Wicket/vid430_10.npy	2
+Pull/vid521_42.npy	8
+Cover Drive/vid248_47.npy	0
+Square Cut/vid155_3.npy	11
+Sweep/vid5_22.npy	13
+Lofted Legside/vid358_49.npy	6
+Late Cut/vid504_18.npy	5
+Lofted Offside/vid390_35.npy	7
+Square Cut/vid531_23.npy	11
+Lofted Legside/vid508_59.npy	6
+Square Cut/vid356_11.npy	11
+Sweep/vid214_18.npy	13
+Lofted Offside/vid438_8.npy	7
+Pull/vid369_41.npy	8
+Square Cut/vid176_13.npy	11
+Cover Drive/vid471_8.npy	0
+Reverse Sweep/vid361_56.npy	9
+Late Cut/vid454_32.npy	5
+Lofted Offside/vid138_10.npy	7
+Lofted Offside/vid248_28.npy	7
+Lofted Offside/vid416_3.npy	7
+Down The Wicket/vid426_32.npy	2
+Pull/vid209_16.npy	8
+Lofted Offside/vid454_4.npy	7
+Cover Drive/vid517_43.npy	0
+Straight Drive/vid502_0.npy	12
+Lofted Offside/vid436_28.npy	7
+Straight Drive/vid453_49.npy	12
+Straight Drive/vid123_20.npy	12
+Cover Drive/vid121_15.npy	0
+Lofted Offside/vid324_17.npy	7
+Cover Drive/vid238_5.npy	0
+Pull/vid517_28.npy	8
+Scoop/vid344_19.npy	10
+Cover Drive/vid364_40.npy	0
+Pull/vid362_41.npy	8
+Flick/vid38_39.npy	3
+Down The Wicket/vid67_49.npy	2
+Square Cut/vid379_37.npy	11
+Late Cut/vid250_31.npy	5
+Straight Drive/vid159_1.npy	12
+Hook/vid210_3.npy	4
+Square Cut/vid390_43.npy	11
+Flick/vid131_2.npy	3
+Straight Drive/vid449_39.npy	12
+Late Cut/vid495_15.npy	5
+Flick/vid513_2.npy	3
+Lofted Offside/vid505_43.npy	7
+Straight Drive/vid486_37.npy	12
+Scoop/vid431_50.npy	10
+Lofted Offside/vid419_14.npy	7
+Lofted Offside/vid378_27.npy	7
+Down The Wicket/vid422_39.npy	2
+Sweep/vid511_67.npy	13
+Lofted Legside/vid508_13.npy	6
+Lofted Legside/vid502_20.npy	6
+Square Cut/vid517_49.npy	11
+Flick/vid452_22.npy	3
+Sweep/vid133_1.npy	13
+Lofted Offside/vid397_10.npy	7
+Cover Drive/vid14_39.npy	0
+Lofted Offside/vid100_62.npy	7
+Lofted Legside/vid37_51.npy	6
+Down The Wicket/vid68_12.npy	2
+Lofted Legside/vid357_73.npy	6
+Flick/vid3_23.npy	3
+Hook/vid10_23.npy	4
+Cover Drive/vid265_0.npy	0
+Defensive/vid100_46.npy	1
+Pull/vid507_32.npy	8
+Down The Wicket/vid23_39.npy	2
+Flick/vid450_47.npy	3
+Hook/vid141_7.npy	4
+Flick/vid203_0.npy	3
+Down The Wicket/vid287_15.npy	2
+Down The Wicket/vid291_1.npy	2
+Late Cut/vid134_14.npy	5
+Down The Wicket/vid442_20.npy	2
+Defensive/vid299_20.npy	1
+Scoop/vid480_45.npy	10
+Reverse Sweep/vid90_48.npy	9
+Flick/vid242_5.npy	3
+Flick/vid451_47.npy	3
+Late Cut/vid348_17.npy	5
+Square Cut/vid240_48.npy	11
+Scoop/vid532_51.npy	10
+Down The Wicket/vid431_8.npy	2
+Straight Drive/vid494_16.npy	12
+Late Cut/vid167_24.npy	5
+Pull/vid374_46.npy	8
+Reverse Sweep/vid137_22.npy	9
+Sweep/vid210_41.npy	13
+Square Cut/vid426_41.npy	11
+Defensive/vid316_10.npy	1
+Square Cut/vid502_12.npy	11
+Lofted Offside/vid351_6.npy	7
+Lofted Legside/vid481_43.npy	6
+Lofted Legside/vid487_4.npy	6
+Hook/vid516_53.npy	4
+Down The Wicket/vid415_10.npy	2
+Cover Drive/vid406_6.npy	0
+Reverse Sweep/vid206_11.npy	9
+Sweep/vid483_45.npy	13
+Lofted Offside/vid53_50.npy	7
+Late Cut/vid136_18.npy	5
+Pull/vid388_10.npy	8
+Sweep/vid471_15.npy	13
+Flick/vid177_27.npy	3
+Defensive/vid205_33.npy	1
+Cover Drive/vid504_8.npy	0
+Upper Cut/vid338_5.npy	14
+Lofted Legside/vid93_32.npy	6
+Flick/vid14_12.npy	3
+Reverse Sweep/vid55_75.npy	9
+Lofted Offside/vid52_2.npy	7
+Square Cut/vid480_9.npy	11
+Flick/vid389_29.npy	3
+Hook/vid109_40.npy	4
+Pull/vid95_15.npy	8
+Sweep/vid497_26.npy	13
+Pull/vid61_3.npy	8
+Late Cut/vid46_75.npy	5
+Lofted Offside/vid330_5.npy	7
+Flick/vid121_11.npy	3
+Sweep/vid398_5.npy	13
+Lofted Offside/vid359_14.npy	7
+Lofted Legside/vid452_33.npy	6
+Down The Wicket/vid458_24.npy	2
+Down The Wicket/vid492_31.npy	2
+Lofted Legside/vid78_38.npy	6
+Sweep/vid384_79.npy	13
+Scoop/vid502_4.npy	10
+Scoop/vid480_1.npy	10
+Down The Wicket/vid114_4.npy	2
+Flick/vid126_41.npy	3
+Sweep/vid88_27.npy	13
+Down The Wicket/vid497_6.npy	2
+Flick/vid250_20.npy	3
+Straight Drive/vid511_25.npy	12
+Square Cut/vid93_42.npy	11
+Lofted Offside/vid401_24.npy	7
+Lofted Offside/vid454_31.npy	7
+Straight Drive/vid126_38.npy	12
+Lofted Legside/vid520_42.npy	6
+Lofted Legside/vid40_6.npy	6
+Down The Wicket/vid227_41.npy	2
+Cover Drive/vid226_47.npy	0
+Upper Cut/vid208_10.npy	14
+Sweep/vid531_45.npy	13
+Defensive/vid166_23.npy	1
+Pull/vid326_9.npy	8
+Defensive/vid368_38.npy	1
+Flick/vid42_36.npy	3
+Flick/vid168_35.npy	3
+Defensive/vid91_0.npy	1
+Sweep/vid188_15.npy	13
+Down The Wicket/vid505_35.npy	2
+Late Cut/vid511_36.npy	5
+Lofted Offside/vid366_34.npy	7
+Cover Drive/vid448_4.npy	0
+Lofted Legside/vid73_23.npy	6
+Cover Drive/vid348_10.npy	0
+Sweep/vid204_45.npy	13
+Straight Drive/vid385_12.npy	12
+Down The Wicket/vid431_6.npy	2
+Lofted Legside/vid490_33.npy	6
+Scoop/vid449_12.npy	10
+Sweep/vid436_62.npy	13
+Hook/vid222_12.npy	4
+Flick/vid115_19.npy	3
+Pull/vid373_9.npy	8
+Sweep/vid484_1.npy	13
+Cover Drive/vid524_34.npy	0
+Lofted Legside/vid34_43.npy	6
+Upper Cut/vid249_33.npy	14
+Sweep/vid435_52.npy	13
+Defensive/vid100_3.npy	1
+Cover Drive/vid162_48.npy	0
+Straight Drive/vid194_12.npy	12
+Sweep/vid360_24.npy	13
+Defensive/vid248_6.npy	1
+Reverse Sweep/vid275_2.npy	9
+Straight Drive/vid448_8.npy	12
+Flick/vid164_12.npy	3
+Flick/vid141_32.npy	3
+Late Cut/vid87_38.npy	5
+Square Cut/vid334_8.npy	11
+Defensive/vid55_5.npy	1
+Sweep/vid123_7.npy	13
+Lofted Offside/vid80_14.npy	7
+Square Cut/vid331_43.npy	11
+Straight Drive/vid15_16.npy	12
+Square Cut/vid437_43.npy	11
+Scoop/vid496_11.npy	10
+Sweep/vid61_13.npy	13
+Down The Wicket/vid439_47.npy	2
+Lofted Offside/vid444_5.npy	7
+Sweep/vid416_27.npy	13
+Lofted Offside/vid269_8.npy	7
+Lofted Offside/vid177_28.npy	7
+Scoop/vid430_16.npy	10
+Square Cut/vid126_35.npy	11
+Lofted Legside/vid381_9.npy	6
+Sweep/vid391_38.npy	13
+Hook/vid456_25.npy	4
+Lofted Legside/vid445_74.npy	6
+Upper Cut/vid9_47.npy	14
+Flick/vid446_8.npy	3
+Defensive/vid459_23.npy	1
+Cover Drive/vid203_13.npy	0
+Square Cut/vid87_49.npy	11
+Lofted Legside/vid34_11.npy	6
+Pull/vid133_9.npy	8
+Hook/vid446_17.npy	4
+Lofted Offside/vid485_30.npy	7
+Down The Wicket/vid480_48.npy	2
+Lofted Offside/vid313_10.npy	7
+Lofted Offside/vid259_28.npy	7
+Pull/vid373_12.npy	8
+Sweep/vid469_42.npy	13
+Pull/vid533_68.npy	8
+Lofted Offside/vid192_8.npy	7
+Flick/vid141_38.npy	3
+Down The Wicket/vid216_13.npy	2
+Lofted Legside/vid391_23.npy	6
+Lofted Legside/vid471_23.npy	6
+Lofted Legside/vid487_21.npy	6
+Scoop/vid49_14.npy	10
+Defensive/vid216_6.npy	1
+Cover Drive/vid441_32.npy	0
+Flick/vid513_30.npy	3
+Upper Cut/vid474_10.npy	14
+Sweep/vid327_2.npy	13
+Upper Cut/vid210_18.npy	14
+Lofted Legside/vid481_51.npy	6
+Pull/vid169_10.npy	8
+Straight Drive/vid187_22.npy	12
+Lofted Offside/vid369_46.npy	7
+Pull/vid186_7.npy	8
+Cover Drive/vid356_21.npy	0
+Square Cut/vid515_55.npy	11
+Cover Drive/vid320_33.npy	0
+Down The Wicket/vid102_7.npy	2
+Down The Wicket/vid360_37.npy	2
+Hook/vid367_53.npy	4
+Cover Drive/vid42_1.npy	0
+Lofted Offside/vid327_23.npy	7
+Pull/vid14_20.npy	8
+Scoop/vid482_37.npy	10
+Defensive/vid98_33.npy	1
+Cover Drive/vid230_8.npy	0
+Lofted Offside/vid521_87.npy	7
+Late Cut/vid209_45.npy	5
+Cover Drive/vid126_31.npy	0
+Sweep/vid205_23.npy	13
+Square Cut/vid106_24.npy	11
+Flick/vid132_19.npy	3
+Square Cut/vid401_21.npy	11
+Square Cut/vid459_14.npy	11
+Hook/vid47_13.npy	4
+Flick/vid486_0.npy	3
+Down The Wicket/vid434_33.npy	2
+Hook/vid520_39.npy	4
+Defensive/vid169_23.npy	1
+Lofted Offside/vid272_7.npy	7
+Defensive/vid213_0.npy	1
+Down The Wicket/vid421_12.npy	2
+Defensive/vid118_26.npy	1
+Flick/vid133_17.npy	3
+Lofted Offside/vid34_26.npy	7
+Reverse Sweep/vid358_39.npy	9
+Down The Wicket/vid76_19.npy	2
+Reverse Sweep/vid290_18.npy	9
+Cover Drive/vid296_33.npy	0
+Cover Drive/vid531_62.npy	0
+Reverse Sweep/vid94_54.npy	9
+Down The Wicket/vid57_1.npy	2
+Reverse Sweep/vid205_45.npy	9
+Cover Drive/vid127_16.npy	0
+Down The Wicket/vid271_14.npy	2
+Flick/vid377_38.npy	3
+Flick/vid354_24.npy	3
+Flick/vid508_1.npy	3
+Scoop/vid370_52.npy	10
+Defensive/vid304_25.npy	1
+Pull/vid81_22.npy	8
+Square Cut/vid203_25.npy	11
+Straight Drive/vid34_10.npy	12
+Cover Drive/vid451_3.npy	0
+Square Cut/vid513_33.npy	11
+Lofted Offside/vid17_5.npy	7
+Cover Drive/vid148_0.npy	0
+Down The Wicket/vid448_26.npy	2
+Down The Wicket/vid422_12.npy	2
+Straight Drive/vid322_18.npy	12
+Pull/vid141_36.npy	8
+Late Cut/vid233_6.npy	5
+Straight Drive/vid123_19.npy	12
+Reverse Sweep/vid189_8.npy	9
+Straight Drive/vid335_0.npy	12
+Defensive/vid316_30.npy	1
+Lofted Offside/vid369_52.npy	7
+Lofted Offside/vid361_70.npy	7
+Cover Drive/vid462_0.npy	0
+Lofted Offside/vid397_12.npy	7
+Cover Drive/vid178_6.npy	0
+Lofted Legside/vid398_4.npy	6
+Cover Drive/vid535_15.npy	0
+Lofted Legside/vid174_9.npy	6
+Flick/vid78_37.npy	3
+Defensive/vid60_47.npy	1
+Cover Drive/vid345_8.npy	0
+Late Cut/vid458_20.npy	5
+Hook/vid519_68.npy	4
+Square Cut/vid501_20.npy	11
+Square Cut/vid364_58.npy	11
+Square Cut/vid114_22.npy	11
+Defensive/vid447_25.npy	1
+Pull/vid47_11.npy	8
+Sweep/vid391_51.npy	13
+Square Cut/vid40_37.npy	11
+Lofted Offside/vid133_0.npy	7
+Lofted Offside/vid199_10.npy	7
+Lofted Legside/vid362_18.npy	6
+Defensive/vid247_6.npy	1
+Square Cut/vid74_13.npy	11
+Hook/vid369_17.npy	4
+Reverse Sweep/vid496_2.npy	9
+Flick/vid486_29.npy	3
+Lofted Offside/vid376_25.npy	7
+Pull/vid224_4.npy	8
+Lofted Offside/vid482_34.npy	7
+Defensive/vid289_18.npy	1
+Sweep/vid433_25.npy	13
+Lofted Offside/vid124_4.npy	7
+Cover Drive/vid230_21.npy	0
+Reverse Sweep/vid10_44.npy	9
+Pull/vid130_19.npy	8
+Defensive/vid205_57.npy	1
+Sweep/vid105_27.npy	13
+Flick/vid110_13.npy	3
+Lofted Legside/vid303_24.npy	6
+Pull/vid508_7.npy	8
+Lofted Offside/vid114_10.npy	7
+Square Cut/vid469_9.npy	11
+Down The Wicket/vid267_11.npy	2
+Lofted Offside/vid486_13.npy	7
+Flick/vid31_38.npy	3
+Reverse Sweep/vid401_3.npy	9
+Lofted Legside/vid282_4.npy	6
+Hook/vid536_59.npy	4
+Lofted Legside/vid107_10.npy	6
+Sweep/vid210_37.npy	13
+Down The Wicket/vid49_7.npy	2
+Cover Drive/vid209_31.npy	0
+Pull/vid205_8.npy	8
+Defensive/vid156_0.npy	1
+Down The Wicket/vid521_13.npy	2
+Lofted Legside/vid410_10.npy	6
+Flick/vid8_25.npy	3
+Defensive/vid31_14.npy	1
+Late Cut/vid481_32.npy	5
+Cover Drive/vid513_17.npy	0
+Defensive/vid300_25.npy	1
+Sweep/vid270_14.npy	13
+Flick/vid459_2.npy	3
+Lofted Offside/vid480_29.npy	7
+Cover Drive/vid228_26.npy	0
+Reverse Sweep/vid491_10.npy	9
+Pull/vid519_23.npy	8
+Square Cut/vid488_29.npy	11
+Lofted Legside/vid43_31.npy	6
+Late Cut/vid196_0.npy	5
+Late Cut/vid125_13.npy	5
+Down The Wicket/vid208_14.npy	2
+Lofted Legside/vid366_51.npy	6
+Square Cut/vid141_18.npy	11
+Hook/vid265_13.npy	4
+Straight Drive/vid1_9.npy	12
+Cover Drive/vid314_21.npy	0
+Lofted Legside/vid415_20.npy	6
+Reverse Sweep/vid51_27.npy	9
+Lofted Legside/vid48_22.npy	6
+Lofted Offside/vid418_48.npy	7
+Cover Drive/vid243_37.npy	0
+Defensive/vid177_31.npy	1
+Flick/vid241_10.npy	3
+Lofted Legside/vid65_26.npy	6
+Lofted Legside/vid525_17.npy	6
+Down The Wicket/vid524_38.npy	2
+Down The Wicket/vid444_28.npy	2
+Sweep/vid355_8.npy	13
+Late Cut/vid377_2.npy	5
+Flick/vid31_26.npy	3
+Hook/vid515_21.npy	4
+Reverse Sweep/vid124_16.npy	9
+Flick/vid401_14.npy	3
+Flick/vid12_3.npy	3
+Cover Drive/vid100_60.npy	0
+Late Cut/vid261_49.npy	5
+Flick/vid259_1.npy	3
+Hook/vid122_20.npy	4
+Flick/vid478_17.npy	3
+Lofted Offside/vid103_8.npy	7
+Lofted Offside/vid508_16.npy	7
+Lofted Legside/vid389_11.npy	6
+Lofted Offside/vid34_13.npy	7
+Hook/vid391_36.npy	4
+Square Cut/vid467_0.npy	11
+Defensive/vid135_51.npy	1
+Square Cut/vid61_16.npy	11
+Down The Wicket/vid515_0.npy	2
+Straight Drive/vid302_9.npy	12
+Pull/vid490_23.npy	8
+Flick/vid535_35.npy	3
+Hook/vid521_69.npy	4
+Defensive/vid23_1.npy	1
+Lofted Offside/vid511_59.npy	7
+Square Cut/vid528_50.npy	11
+Pull/vid461_42.npy	8
+Down The Wicket/vid129_39.npy	2
+Down The Wicket/vid74_12.npy	2
+Sweep/vid28_39.npy	13
+Sweep/vid461_3.npy	13
+Hook/vid424_8.npy	4
+Late Cut/vid46_49.npy	5
+Down The Wicket/vid51_58.npy	2
+Down The Wicket/vid251_22.npy	2
+Cover Drive/vid230_4.npy	0
+Down The Wicket/vid443_49.npy	2
+Sweep/vid531_58.npy	13
+Sweep/vid205_75.npy	13
+Cover Drive/vid132_15.npy	0
+Upper Cut/vid233_17.npy	14
+Lofted Legside/vid416_23.npy	6
+Sweep/vid532_19.npy	13
+Down The Wicket/vid456_13.npy	2
+Lofted Offside/vid97_41.npy	7
+Upper Cut/vid350_11.npy	14
+Scoop/vid191_3.npy	10
+Reverse Sweep/vid276_19.npy	9
+Cover Drive/vid241_19.npy	0
+Reverse Sweep/vid513_11.npy	9
+Pull/vid381_16.npy	8
+Lofted Legside/vid87_48.npy	6
+Down The Wicket/vid465_33.npy	2
+Lofted Legside/vid488_14.npy	6
+Sweep/vid521_65.npy	13
+Lofted Legside/vid488_8.npy	6
+Square Cut/vid259_8.npy	11
+Straight Drive/vid316_2.npy	12
+Defensive/vid224_50.npy	1
+Pull/vid381_36.npy	8
+Reverse Sweep/vid520_11.npy	9
+Lofted Legside/vid359_30.npy	6
+Sweep/vid289_15.npy	13
+Lofted Legside/vid1_40.npy	6
+Pull/vid426_12.npy	8
+Square Cut/vid25_28.npy	11
+Pull/vid472_63.npy	8
+Scoop/vid358_32.npy	10
+Lofted Legside/vid172_28.npy	6
+Cover Drive/vid406_8.npy	0
+Defensive/vid60_73.npy	1
+Straight Drive/vid162_21.npy	12
+Cover Drive/vid250_40.npy	0
+Hook/vid505_13.npy	4
+Lofted Offside/vid375_42.npy	7
+Down The Wicket/vid92_10.npy	2
+Lofted Legside/vid4_37.npy	6
+Sweep/vid441_18.npy	13
+Lofted Offside/vid40_91.npy	7
+Lofted Offside/vid64_13.npy	7
+Late Cut/vid511_14.npy	5
+Lofted Legside/vid333_21.npy	6
+Flick/vid27_22.npy	3
+Flick/vid449_32.npy	3
+Sweep/vid109_6.npy	13
+Lofted Legside/vid516_13.npy	6
+Sweep/vid394_22.npy	13
+Flick/vid31_25.npy	3
+Cover Drive/vid71_1.npy	0
+Hook/vid219_13.npy	4
+Sweep/vid436_51.npy	13
+Down The Wicket/vid119_24.npy	2
+Lofted Legside/vid37_37.npy	6
+Hook/vid514_44.npy	4
+Cover Drive/vid154_1.npy	0
+Flick/vid243_29.npy	3
+Sweep/vid451_51.npy	13
+Lofted Legside/vid367_19.npy	6
+Down The Wicket/vid193_2.npy	2
+Down The Wicket/vid321_12.npy	2
+Pull/vid485_34.npy	8
+Lofted Legside/vid137_26.npy	6
+Flick/vid461_50.npy	3
+Sweep/vid466_16.npy	13
+Lofted Legside/vid378_11.npy	6
+Reverse Sweep/vid422_13.npy	9
+Flick/vid517_60.npy	3
+Cover Drive/vid228_36.npy	0
+Sweep/vid478_19.npy	13
+Lofted Offside/vid384_83.npy	7
+Down The Wicket/vid446_30.npy	2
+Cover Drive/vid178_0.npy	0
+Flick/vid368_2.npy	3
+Lofted Offside/vid140_33.npy	7
+Flick/vid524_44.npy	3
+Lofted Offside/vid271_1.npy	7
+Cover Drive/vid218_32.npy	0
+Straight Drive/vid238_55.npy	12
+Lofted Offside/vid475_3.npy	7
+Lofted Legside/vid524_43.npy	6
+Cover Drive/vid380_9.npy	0
+Down The Wicket/vid366_19.npy	2
+Flick/vid44_2.npy	3
+Lofted Offside/vid138_26.npy	7
+Cover Drive/vid244_9.npy	0
+Lofted Offside/vid451_29.npy	7
+Sweep/vid464_23.npy	13
+Lofted Legside/vid445_71.npy	6
+Lofted Legside/vid504_35.npy	6
+Sweep/vid487_14.npy	13
+Cover Drive/vid38_13.npy	0
+Down The Wicket/vid389_28.npy	2
+Straight Drive/vid104_22.npy	12
+Hook/vid95_7.npy	4
+Down The Wicket/vid128_24.npy	2
+Upper Cut/vid110_37.npy	14
+Reverse Sweep/vid137_34.npy	9
+Down The Wicket/vid451_41.npy	2
+Hook/vid481_44.npy	4
+Sweep/vid386_10.npy	13
+Flick/vid372_10.npy	3
+Cover Drive/vid167_7.npy	0
+Pull/vid442_47.npy	8
+Lofted Legside/vid120_21.npy	6
+Sweep/vid400_3.npy	13
+Cover Drive/vid167_23.npy	0
+Sweep/vid457_35.npy	13
+Upper Cut/vid331_51.npy	14
+Cover Drive/vid500_4.npy	0
+Flick/vid522_1.npy	3
+Flick/vid245_41.npy	3
+Pull/vid188_0.npy	8
+Hook/vid58_4.npy	4
+Lofted Legside/vid387_55.npy	6
+Straight Drive/vid488_1.npy	12
+Defensive/vid428_4.npy	1
+Hook/vid1_42.npy	4
+Defensive/vid252_39.npy	1
+Square Cut/vid53_63.npy	11
+Flick/vid379_8.npy	3
+Lofted Offside/vid527_49.npy	7
+Lofted Legside/vid366_9.npy	6
+Defensive/vid203_20.npy	1
+Straight Drive/vid444_31.npy	12
+Reverse Sweep/vid254_26.npy	9
+Lofted Offside/vid529_22.npy	7
+Straight Drive/vid222_34.npy	12
+Sweep/vid519_13.npy	13
+Pull/vid477_4.npy	8
+Hook/vid488_33.npy	4
+Upper Cut/vid251_25.npy	14
+Down The Wicket/vid381_28.npy	2
+Hook/vid100_6.npy	4
+Down The Wicket/vid384_65.npy	2
+Lofted Legside/vid453_16.npy	6
+Pull/vid388_32.npy	8
+Flick/vid472_58.npy	3
+Defensive/vid220_17.npy	1
+Lofted Offside/vid43_16.npy	7
+Sweep/vid437_59.npy	13
+Sweep/vid400_25.npy	13
+Lofted Legside/vid83_7.npy	6
+Straight Drive/vid19_4.npy	12
+Down The Wicket/vid70_10.npy	2
+Straight Drive/vid260_26.npy	12
+Sweep/vid156_29.npy	13
+Straight Drive/vid207_42.npy	12
+Pull/vid160_35.npy	8
+Scoop/vid435_57.npy	10
+Lofted Legside/vid387_3.npy	6
+Flick/vid23_7.npy	3
+Cover Drive/vid72_1.npy	0
+Down The Wicket/vid51_34.npy	2
+Lofted Offside/vid387_20.npy	7
+Square Cut/vid335_28.npy	11
+Lofted Legside/vid471_26.npy	6
+Upper Cut/vid102_31.npy	14
+Flick/vid393_58.npy	3
+Lofted Legside/vid54_11.npy	6
+Lofted Legside/vid384_78.npy	6
+Defensive/vid306_21.npy	1
+Hook/vid517_48.npy	4
+Flick/vid19_0.npy	3
+Upper Cut/vid26_25.npy	14
+Reverse Sweep/vid8_19.npy	9
+Straight Drive/vid294_21.npy	12
+Lofted Offside/vid482_20.npy	7
+Straight Drive/vid216_35.npy	12
+Down The Wicket/vid233_13.npy	2
+Hook/vid452_36.npy	4
+Square Cut/vid523_3.npy	11
+Lofted Legside/vid533_2.npy	6
+Hook/vid527_56.npy	4
+Flick/vid87_33.npy	3
+Down The Wicket/vid93_53.npy	2
+Sweep/vid375_11.npy	13
+Down The Wicket/vid437_33.npy	2
+Lofted Legside/vid337_39.npy	6
+Reverse Sweep/vid20_6.npy	9
+Lofted Offside/vid375_9.npy	7
+Straight Drive/vid401_2.npy	12
+Hook/vid90_56.npy	4
+Sweep/vid57_15.npy	13
+Pull/vid442_61.npy	8
+Flick/vid473_57.npy	3
+Pull/vid459_26.npy	8
+Square Cut/vid196_1.npy	11
+Reverse Sweep/vid40_74.npy	9
+Down The Wicket/vid12_15.npy	2
+Pull/vid455_61.npy	8
+Flick/vid123_27.npy	3
+Down The Wicket/vid429_1.npy	2
+Late Cut/vid266_3.npy	5
+Cover Drive/vid489_15.npy	0
+Flick/vid246_20.npy	3
+Defensive/vid400_5.npy	1
+Lofted Legside/vid460_15.npy	6
+Flick/vid101_37.npy	3
+Pull/vid481_35.npy	8
+Square Cut/vid434_63.npy	11
+Cover Drive/vid218_2.npy	0
+Down The Wicket/vid5_24.npy	2
+Down The Wicket/vid68_8.npy	2
+Flick/vid478_5.npy	3
+Pull/vid156_23.npy	8
+Cover Drive/vid230_14.npy	0
+Lofted Offside/vid403_14.npy	7
+Sweep/vid69_30.npy	13
+Late Cut/vid91_43.npy	5
+Pull/vid37_17.npy	8
+Cover Drive/vid324_43.npy	0
+Down The Wicket/vid125_20.npy	2
+Cover Drive/vid459_38.npy	0
+Hook/vid361_73.npy	4
+Down The Wicket/vid468_30.npy	2
+Pull/vid384_45.npy	8
+Lofted Offside/vid128_23.npy	7
+Hook/vid361_11.npy	4
+Lofted Legside/vid355_31.npy	6
+Lofted Legside/vid517_20.npy	6
+Sweep/vid256_28.npy	13
+Sweep/vid44_40.npy	13
+Square Cut/vid445_55.npy	11
+Defensive/vid315_0.npy	1
+Lofted Legside/vid102_22.npy	6
+Reverse Sweep/vid280_1.npy	9
+Lofted Offside/vid370_15.npy	7
+Defensive/vid203_42.npy	1
+Straight Drive/vid426_2.npy	12
+Flick/vid26_1.npy	3
+Reverse Sweep/vid384_35.npy	9
+Pull/vid443_37.npy	8
+Defensive/vid534_13.npy	1
+Defensive/vid215_11.npy	1
+Down The Wicket/vid367_27.npy	2
+Sweep/vid203_39.npy	13
+Pull/vid519_16.npy	8
+Pull/vid3_12.npy	8
+Scoop/vid90_8.npy	10
+Down The Wicket/vid49_11.npy	2
+Lofted Offside/vid294_14.npy	7
+Upper Cut/vid295_7.npy	14
+Defensive/vid226_52.npy	1
+Upper Cut/vid232_16.npy	14
+Down The Wicket/vid41_16.npy	2
+Defensive/vid252_16.npy	1
+Hook/vid502_11.npy	4
+Scoop/vid130_8.npy	10
+Flick/vid212_19.npy	3
+Lofted Legside/vid439_36.npy	6
+Square Cut/vid366_0.npy	11
+Upper Cut/vid112_11.npy	14
+Sweep/vid503_38.npy	13
+Scoop/vid440_23.npy	10
+Sweep/vid509_40.npy	13
+Down The Wicket/vid210_12.npy	2
+Straight Drive/vid512_8.npy	12
+Lofted Offside/vid321_19.npy	7
+Down The Wicket/vid469_24.npy	2
+Upper Cut/vid411_12.npy	14
+Straight Drive/vid250_2.npy	12
+Pull/vid38_49.npy	8
+Cover Drive/vid366_60.npy	0
+Down The Wicket/vid448_52.npy	2
+Cover Drive/vid304_29.npy	0
+Straight Drive/vid456_22.npy	12
+Square Cut/vid429_43.npy	11
+Pull/vid120_17.npy	8
+Pull/vid10_31.npy	8
+Square Cut/vid523_22.npy	11
+Late Cut/vid519_44.npy	5
+Down The Wicket/vid89_79.npy	2
+Flick/vid174_8.npy	3
+Lofted Legside/vid452_18.npy	6
+Pull/vid436_6.npy	8
+Lofted Offside/vid522_70.npy	7
+Square Cut/vid203_18.npy	11
+Defensive/vid528_40.npy	1
+Flick/vid506_43.npy	3
+Scoop/vid508_17.npy	10
+Down The Wicket/vid84_12.npy	2
+Sweep/vid216_39.npy	13
+Hook/vid225_12.npy	4
+Lofted Legside/vid39_23.npy	6
+Down The Wicket/vid454_12.npy	2
+Lofted Legside/vid511_32.npy	6
+Square Cut/vid239_34.npy	11
+Scoop/vid213_19.npy	10
+Straight Drive/vid394_14.npy	12
+Lofted Legside/vid437_62.npy	6
+Square Cut/vid348_11.npy	11
+Square Cut/vid388_18.npy	11
+Flick/vid133_21.npy	3
+Lofted Legside/vid475_38.npy	6
+Scoop/vid500_10.npy	10
+Straight Drive/vid384_49.npy	12
+Hook/vid75_25.npy	4
+Lofted Offside/vid524_3.npy	7
+Lofted Legside/vid422_11.npy	6
+Down The Wicket/vid464_1.npy	2
+Pull/vid65_45.npy	8
+Cover Drive/vid295_39.npy	0
+Lofted Offside/vid395_10.npy	7
+Lofted Legside/vid8_45.npy	6
+Sweep/vid129_26.npy	13
+Flick/vid216_22.npy	3
+Lofted Legside/vid33_13.npy	6
+Pull/vid88_37.npy	8
+Flick/vid474_15.npy	3
+Pull/vid438_25.npy	8
+Hook/vid123_4.npy	4
+Lofted Offside/vid387_44.npy	7
+Reverse Sweep/vid526_37.npy	9
+Square Cut/vid124_20.npy	11
+Cover Drive/vid146_29.npy	0
+Lofted Legside/vid344_7.npy	6
+Lofted Legside/vid151_10.npy	6
+Lofted Offside/vid515_34.npy	7
+Lofted Legside/vid199_8.npy	6
+Square Cut/vid441_11.npy	11
+Sweep/vid94_47.npy	13
+Square Cut/vid371_19.npy	11
+Defensive/vid203_14.npy	1
+Lofted Legside/vid485_49.npy	6
+Sweep/vid400_21.npy	13
+Flick/vid357_84.npy	3
+Upper Cut/vid498_8.npy	14
+Lofted Legside/vid83_29.npy	6
+Hook/vid133_26.npy	4
+Cover Drive/vid213_18.npy	0
+Lofted Offside/vid215_5.npy	7
+Lofted Offside/vid500_6.npy	7
+Pull/vid418_0.npy	8
+Lofted Offside/vid444_21.npy	7
+Defensive/vid101_30.npy	1
+Sweep/vid14_31.npy	13
+Cover Drive/vid298_19.npy	0
+Square Cut/vid487_13.npy	11
+Defensive/vid356_0.npy	1
+Defensive/vid314_23.npy	1
+Defensive/vid215_51.npy	1
+Sweep/vid472_21.npy	13
+Lofted Legside/vid465_38.npy	6
+Hook/vid516_33.npy	4
+Sweep/vid368_51.npy	13
+Sweep/vid354_6.npy	13
+Down The Wicket/vid258_52.npy	2
+Down The Wicket/vid458_23.npy	2
+Square Cut/vid524_11.npy	11
+Lofted Legside/vid104_15.npy	6
+Straight Drive/vid178_5.npy	12
+Down The Wicket/vid77_23.npy	2
+Defensive/vid303_26.npy	1
+Late Cut/vid38_27.npy	5
+Upper Cut/vid529_33.npy	14
+Lofted Legside/vid390_6.npy	6
+Lofted Legside/vid37_19.npy	6
+Lofted Legside/vid528_44.npy	6
+Lofted Legside/vid338_12.npy	6
+Square Cut/vid305_17.npy	11
+Lofted Offside/vid527_19.npy	7
+Lofted Offside/vid494_18.npy	7
+Square Cut/vid123_31.npy	11
+Pull/vid378_25.npy	8
+Hook/vid379_35.npy	4
+Hook/vid437_52.npy	4
+Cover Drive/vid487_39.npy	0
+Lofted Legside/vid59_35.npy	6
+Lofted Legside/vid79_9.npy	6
+Cover Drive/vid534_46.npy	0
+Down The Wicket/vid14_9.npy	2
+Square Cut/vid456_6.npy	11
+Lofted Legside/vid376_12.npy	6
+Straight Drive/vid122_23.npy	12
+Pull/vid54_4.npy	8
+Square Cut/vid87_34.npy	11
+Lofted Legside/vid354_14.npy	6
+Pull/vid51_40.npy	8
+Straight Drive/vid238_53.npy	12
+Cover Drive/vid459_27.npy	0
+Defensive/vid485_32.npy	1
+Lofted Offside/vid529_56.npy	7
+Down The Wicket/vid407_13.npy	2
+Lofted Offside/vid488_52.npy	7
+Sweep/vid85_20.npy	13
+Lofted Offside/vid521_88.npy	7
+Flick/vid472_0.npy	3
+Lofted Legside/vid420_2.npy	6
+Defensive/vid108_29.npy	1
+Square Cut/vid112_10.npy	11
+Lofted Offside/vid514_27.npy	7
+Down The Wicket/vid512_3.npy	2
+Lofted Offside/vid380_48.npy	7
+Down The Wicket/vid428_14.npy	2
+Cover Drive/vid473_30.npy	0
+Hook/vid495_46.npy	4
+Late Cut/vid85_30.npy	5
+Sweep/vid457_4.npy	13
+Pull/vid209_47.npy	8
+Straight Drive/vid126_29.npy	12
+Sweep/vid443_56.npy	13
+Lofted Legside/vid145_12.npy	6
+Sweep/vid213_64.npy	13
+Lofted Legside/vid220_3.npy	6
+Down The Wicket/vid10_9.npy	2
+Sweep/vid46_42.npy	13
+Lofted Offside/vid81_27.npy	7
+Lofted Offside/vid384_44.npy	7
+Upper Cut/vid250_19.npy	14
+Square Cut/vid473_13.npy	11
+Flick/vid380_3.npy	3
+Upper Cut/vid320_26.npy	14
+Hook/vid107_32.npy	4
+Late Cut/vid520_65.npy	5
+Straight Drive/vid64_32.npy	12
+Defensive/vid446_0.npy	1
+Cover Drive/vid531_67.npy	0
+Square Cut/vid394_0.npy	11
+Flick/vid477_2.npy	3
+Flick/vid439_38.npy	3
+Lofted Offside/vid476_22.npy	7
+Square Cut/vid428_5.npy	11
+Sweep/vid49_9.npy	13
+Hook/vid367_61.npy	4
+Defensive/vid224_26.npy	1
+Pull/vid8_49.npy	8
+Scoop/vid37_16.npy	10
+Defensive/vid320_57.npy	1
+Sweep/vid389_36.npy	13
+Pull/vid508_57.npy	8
+Pull/vid230_19.npy	8
+Flick/vid463_28.npy	3
+Flick/vid517_45.npy	3
+Square Cut/vid486_63.npy	11
+Cover Drive/vid185_2.npy	0
+Flick/vid374_37.npy	3
+Upper Cut/vid344_6.npy	14
+Straight Drive/vid2_24.npy	12
+Square Cut/vid4_9.npy	11
+Lofted Legside/vid360_42.npy	6
+Upper Cut/vid226_42.npy	14
+Cover Drive/vid443_5.npy	0
+Sweep/vid484_2.npy	13
+Cover Drive/vid231_15.npy	0
+Upper Cut/vid160_28.npy	14
+Flick/vid456_2.npy	3
+Sweep/vid472_13.npy	13
+Lofted Offside/vid532_43.npy	7
+Square Cut/vid532_2.npy	11
+Sweep/vid44_25.npy	13
+Lofted Offside/vid433_9.npy	7
+Hook/vid527_41.npy	4
+Defensive/vid238_2.npy	1
+Square Cut/vid394_18.npy	11
+Square Cut/vid23_21.npy	11
+Lofted Offside/vid66_1.npy	7
+Late Cut/vid101_23.npy	5
+Hook/vid488_30.npy	4
+Cover Drive/vid528_4.npy	0
+Straight Drive/vid38_29.npy	12
+Lofted Legside/vid463_29.npy	6
+Flick/vid19_18.npy	3
+Lofted Legside/vid323_36.npy	6
+Lofted Legside/vid433_5.npy	6
+Defensive/vid241_30.npy	1
+Down The Wicket/vid159_35.npy	2
+Upper Cut/vid386_12.npy	14
+Defensive/vid213_4.npy	1
+Lofted Offside/vid97_15.npy	7
+Pull/vid449_50.npy	8
+Pull/vid389_26.npy	8
+Lofted Offside/vid486_22.npy	7
+Square Cut/vid40_26.npy	11
+Defensive/vid212_27.npy	1
+Sweep/vid384_69.npy	13
+Lofted Legside/vid37_49.npy	6
+Sweep/vid530_4.npy	13
+Sweep/vid411_28.npy	13
+Sweep/vid45_30.npy	13
+Down The Wicket/vid312_25.npy	2
+Straight Drive/vid322_17.npy	12
+Hook/vid469_37.npy	4
+Defensive/vid40_51.npy	1
+Down The Wicket/vid248_26.npy	2
+Scoop/vid480_33.npy	10
+Flick/vid162_0.npy	3
+Cover Drive/vid458_28.npy	0
+Cover Drive/vid360_26.npy	0
+Flick/vid158_13.npy	3
+Lofted Offside/vid378_16.npy	7
+Lofted Offside/vid380_22.npy	7
+Square Cut/vid227_13.npy	11
+Defensive/vid486_14.npy	1
+Lofted Legside/vid162_35.npy	6
+Pull/vid484_21.npy	8
+Straight Drive/vid86_44.npy	12
+Lofted Legside/vid497_21.npy	6
+Lofted Legside/vid84_13.npy	6
+Sweep/vid462_10.npy	13
+Sweep/vid443_43.npy	13
+Sweep/vid437_21.npy	13
+Hook/vid428_29.npy	4
+Lofted Legside/vid174_29.npy	6
+Straight Drive/vid245_32.npy	12
+Scoop/vid358_6.npy	10
+Down The Wicket/vid147_15.npy	2
+Down The Wicket/vid79_27.npy	2
+Straight Drive/vid460_0.npy	12
+Reverse Sweep/vid45_40.npy	9
+Square Cut/vid358_4.npy	11
+Pull/vid530_52.npy	8
+Lofted Offside/vid364_48.npy	7
+Down The Wicket/vid485_6.npy	2
+Defensive/vid136_11.npy	1
+Square Cut/vid431_0.npy	11
+Pull/vid152_5.npy	8
+Lofted Legside/vid13_25.npy	6
+Sweep/vid68_28.npy	13
+Straight Drive/vid500_2.npy	12
+Square Cut/vid393_3.npy	11
+Hook/vid536_49.npy	4
+Down The Wicket/vid432_21.npy	2
+Hook/vid9_20.npy	4
+Lofted Offside/vid362_14.npy	7
+Defensive/vid251_50.npy	1
+Lofted Offside/vid360_18.npy	7
+Pull/vid481_31.npy	8
+Pull/vid440_18.npy	8
+Hook/vid82_15.npy	4
+Sweep/vid390_25.npy	13
+Straight Drive/vid503_7.npy	12
+Pull/vid472_3.npy	8
+Sweep/vid369_55.npy	13
+Down The Wicket/vid345_7.npy	2
+Reverse Sweep/vid261_15.npy	9
+Flick/vid117_23.npy	3
+Sweep/vid417_20.npy	13
+Lofted Legside/vid510_21.npy	6
+Cover Drive/vid106_14.npy	0
+Reverse Sweep/vid89_49.npy	9
+Sweep/vid49_22.npy	13
+Hook/vid104_28.npy	4
+Late Cut/vid293_6.npy	5
+Down The Wicket/vid511_24.npy	2
+Lofted Offside/vid194_14.npy	7
+Late Cut/vid82_30.npy	5
+Lofted Offside/vid391_24.npy	7
+Lofted Offside/vid229_28.npy	7
+Lofted Offside/vid371_7.npy	7
+Down The Wicket/vid443_57.npy	2
+Down The Wicket/vid53_40.npy	2
+Flick/vid209_8.npy	3
+Flick/vid394_31.npy	3
+Defensive/vid302_15.npy	1
+Defensive/vid243_34.npy	1
+Scoop/vid278_10.npy	10
+Down The Wicket/vid56_47.npy	2
+Sweep/vid13_6.npy	13
+Square Cut/vid385_18.npy	11
+Cover Drive/vid217_27.npy	0
+Lofted Offside/vid371_23.npy	7
+Square Cut/vid385_13.npy	11
+Straight Drive/vid295_5.npy	12
+Pull/vid345_26.npy	8
+Lofted Offside/vid532_7.npy	7
+Defensive/vid246_17.npy	1
+Lofted Offside/vid16_47.npy	7
+Scoop/vid55_28.npy	10
+Late Cut/vid502_16.npy	5
+Square Cut/vid105_23.npy	11
+Down The Wicket/vid106_9.npy	2
+Lofted Legside/vid8_51.npy	6
+Sweep/vid3_15.npy	13
+Hook/vid250_4.npy	4
+Flick/vid317_3.npy	3
+Lofted Offside/vid181_5.npy	7
+Lofted Legside/vid215_29.npy	6
+Square Cut/vid227_8.npy	11
+Straight Drive/vid235_23.npy	12
+Sweep/vid108_36.npy	13
+Sweep/vid14_50.npy	13
+Sweep/vid129_12.npy	13
+Hook/vid108_17.npy	4
+Cover Drive/vid140_12.npy	0
+Square Cut/vid14_47.npy	11
+Lofted Offside/vid375_50.npy	7
+Cover Drive/vid404_10.npy	0
+Pull/vid500_37.npy	8
+Scoop/vid430_42.npy	10
+Flick/vid26_32.npy	3
+Cover Drive/vid519_22.npy	0
+Straight Drive/vid467_37.npy	12
+Sweep/vid110_10.npy	13
+Down The Wicket/vid221_29.npy	2
+Hook/vid173_16.npy	4
+Pull/vid169_17.npy	8
+Pull/vid2_1.npy	8
+Sweep/vid416_34.npy	13
+Defensive/vid436_32.npy	1
+Pull/vid498_30.npy	8
+Down The Wicket/vid455_55.npy	2
+Scoop/vid427_14.npy	10
+Square Cut/vid99_34.npy	11
+Cover Drive/vid246_5.npy	0
+Late Cut/vid519_37.npy	5
+Lofted Legside/vid351_8.npy	6
+Defensive/vid295_32.npy	1
+Defensive/vid45_1.npy	1
+Defensive/vid528_36.npy	1
+Flick/vid34_16.npy	3
+Flick/vid498_27.npy	3
+Lofted Legside/vid161_16.npy	6
+Lofted Legside/vid473_11.npy	6
+Sweep/vid280_15.npy	13
+Sweep/vid171_12.npy	13
+Square Cut/vid486_31.npy	11
+Lofted Legside/vid493_17.npy	6
+Hook/vid533_17.npy	4
+Lofted Offside/vid487_34.npy	7
+Lofted Offside/vid529_64.npy	7
+Defensive/vid235_50.npy	1
+Sweep/vid78_26.npy	13
+Down The Wicket/vid436_14.npy	2
+Sweep/vid353_22.npy	13
+Square Cut/vid320_46.npy	11
+Cover Drive/vid118_7.npy	0
+Lofted Legside/vid367_57.npy	6
+Flick/vid102_14.npy	3
+Square Cut/vid235_20.npy	11
+Pull/vid515_56.npy	8
+Lofted Offside/vid514_64.npy	7
+Defensive/vid385_5.npy	1
+Flick/vid317_10.npy	3
+Down The Wicket/vid353_30.npy	2
+Square Cut/vid93_44.npy	11
+Flick/vid477_5.npy	3
+Hook/vid207_47.npy	4
+Scoop/vid312_2.npy	10
+Flick/vid489_23.npy	3
+Square Cut/vid499_21.npy	11
+Sweep/vid530_54.npy	13
+Square Cut/vid203_10.npy	11
+Lofted Legside/vid102_27.npy	6
+Cover Drive/vid485_0.npy	0
+Square Cut/vid513_43.npy	11
+Lofted Offside/vid197_5.npy	7
+Upper Cut/vid341_30.npy	14
+Sweep/vid508_12.npy	13
+Cover Drive/vid38_6.npy	0
+Down The Wicket/vid106_21.npy	2
+Defensive/vid239_20.npy	1
+Pull/vid115_0.npy	8
+Straight Drive/vid207_4.npy	12
+Straight Drive/vid225_25.npy	12
+Late Cut/vid315_23.npy	5
+Square Cut/vid234_6.npy	11
+Lofted Offside/vid391_37.npy	7
+Sweep/vid147_35.npy	13
+Lofted Offside/vid128_14.npy	7
+Down The Wicket/vid530_60.npy	2
+Lofted Offside/vid52_6.npy	7
+Down The Wicket/vid73_2.npy	2
+Down The Wicket/vid73_39.npy	2
+Lofted Legside/vid387_0.npy	6
+Cover Drive/vid469_12.npy	0
+Defensive/vid33_23.npy	1
+Square Cut/vid517_35.npy	11
+Defensive/vid183_25.npy	1
+Down The Wicket/vid40_75.npy	2
+Lofted Legside/vid69_3.npy	6
+Down The Wicket/vid344_48.npy	2
+Cover Drive/vid245_28.npy	0
+Down The Wicket/vid343_8.npy	2
+Square Cut/vid177_9.npy	11
+Sweep/vid387_29.npy	13
+Defensive/vid249_10.npy	1
+Square Cut/vid371_16.npy	11
+Reverse Sweep/vid20_1.npy	9
+Lofted Legside/vid478_21.npy	6
+Cover Drive/vid57_7.npy	0
+Lofted Legside/vid320_21.npy	6
+Square Cut/vid109_26.npy	11
+Defensive/vid42_15.npy	1
+Down The Wicket/vid84_25.npy	2
+Square Cut/vid223_27.npy	11
+Pull/vid383_14.npy	8
+Flick/vid417_3.npy	3
+Flick/vid437_66.npy	3
+Scoop/vid282_6.npy	10
+Pull/vid502_31.npy	8
+Down The Wicket/vid385_33.npy	2
+Square Cut/vid380_33.npy	11
+Hook/vid234_45.npy	4
+Down The Wicket/vid521_94.npy	2
+Lofted Legside/vid485_44.npy	6
+Lofted Legside/vid2_42.npy	6
+Cover Drive/vid525_34.npy	0
+Pull/vid462_7.npy	8
+Reverse Sweep/vid203_47.npy	9
+Scoop/vid43_19.npy	10
+Sweep/vid469_22.npy	13
+Lofted Legside/vid108_11.npy	6
+Cover Drive/vid525_4.npy	0
+Flick/vid125_12.npy	3
+Cover Drive/vid244_3.npy	0
+Lofted Legside/vid466_32.npy	6
+Flick/vid534_53.npy	3
+Reverse Sweep/vid536_7.npy	9
+Reverse Sweep/vid459_9.npy	9
+Sweep/vid412_12.npy	13
+Lofted Legside/vid83_39.npy	6
+Pull/vid430_17.npy	8
+Lofted Legside/vid507_23.npy	6
+Sweep/vid527_15.npy	13
+Straight Drive/vid533_9.npy	12
+Upper Cut/vid112_2.npy	14
+Lofted Offside/vid388_56.npy	7
+Pull/vid213_33.npy	8
+Pull/vid472_43.npy	8
+Lofted Offside/vid482_11.npy	7
+Pull/vid386_35.npy	8
+Sweep/vid450_20.npy	13
+Lofted Legside/vid102_23.npy	6
+Sweep/vid11_22.npy	13
+Down The Wicket/vid382_4.npy	2
+Late Cut/vid30_36.npy	5
+Lofted Legside/vid338_13.npy	6
+Lofted Offside/vid474_28.npy	7
+Lofted Legside/vid345_21.npy	6
+Lofted Offside/vid454_21.npy	7
+Late Cut/vid118_8.npy	5
+Lofted Legside/vid59_24.npy	6
+Lofted Legside/vid97_25.npy	6
+Down The Wicket/vid432_8.npy	2
+Sweep/vid53_38.npy	13
+Upper Cut/vid364_9.npy	14
+Sweep/vid497_3.npy	13
+Square Cut/vid28_19.npy	11
+Straight Drive/vid355_23.npy	12
+Straight Drive/vid311_5.npy	12
+Scoop/vid381_2.npy	10
+Straight Drive/vid175_22.npy	12
+Lofted Offside/vid530_32.npy	7
+Lofted Offside/vid433_17.npy	7
+Straight Drive/vid457_39.npy	12
+Down The Wicket/vid437_61.npy	2
+Late Cut/vid107_27.npy	5
+Down The Wicket/vid466_0.npy	2
+Square Cut/vid482_40.npy	11
+Cover Drive/vid411_14.npy	0
+Defensive/vid235_42.npy	1
+Flick/vid33_16.npy	3
+Reverse Sweep/vid45_41.npy	9
+Lofted Offside/vid536_21.npy	7
+Sweep/vid457_7.npy	13
+Defensive/vid207_48.npy	1
+Square Cut/vid118_9.npy	11
+Hook/vid355_22.npy	4
+Straight Drive/vid315_13.npy	12
+Down The Wicket/vid114_0.npy	2
+Lofted Legside/vid104_10.npy	6
+Down The Wicket/vid54_59.npy	2
+Late Cut/vid220_15.npy	5
+Pull/vid375_29.npy	8
+Lofted Legside/vid59_44.npy	6
+Down The Wicket/vid480_23.npy	2
+Down The Wicket/vid14_4.npy	2
+Cover Drive/vid120_2.npy	0
+Scoop/vid483_33.npy	10
+Reverse Sweep/vid384_36.npy	9
+Down The Wicket/vid167_39.npy	2
+Late Cut/vid368_16.npy	5
+Defensive/vid442_0.npy	1
+Lofted Legside/vid385_23.npy	6
+Sweep/vid368_12.npy	13
+Defensive/vid172_4.npy	1
+Upper Cut/vid246_7.npy	14
+Defensive/vid314_24.npy	1
+Down The Wicket/vid50_23.npy	2
+Square Cut/vid397_7.npy	11
+Defensive/vid244_34.npy	1
+Sweep/vid490_29.npy	13
+Flick/vid327_0.npy	3
+Square Cut/vid105_0.npy	11
+Scoop/vid262_28.npy	10
+Square Cut/vid517_64.npy	11
+Lofted Legside/vid318_31.npy	6
+Lofted Legside/vid337_16.npy	6
+Flick/vid482_0.npy	3
+Upper Cut/vid390_5.npy	14
+Flick/vid382_18.npy	3
+Cover Drive/vid484_24.npy	0
+Down The Wicket/vid427_3.npy	2
+Lofted Legside/vid495_8.npy	6
+Lofted Offside/vid388_53.npy	7
+Defensive/vid251_53.npy	1
+Hook/vid79_3.npy	4
+Pull/vid387_41.npy	8
+Sweep/vid416_6.npy	13
+Cover Drive/vid295_23.npy	0
+Scoop/vid459_30.npy	10
+Square Cut/vid503_3.npy	11
+Pull/vid10_35.npy	8
+Flick/vid42_51.npy	3
+Pull/vid506_14.npy	8
+Sweep/vid453_7.npy	13
+Flick/vid520_14.npy	3
+Down The Wicket/vid55_4.npy	2
+Lofted Offside/vid473_20.npy	7
+Late Cut/vid481_47.npy	5
+Hook/vid530_48.npy	4
+Down The Wicket/vid199_4.npy	2
+Square Cut/vid521_67.npy	11
+Pull/vid86_6.npy	8
+Lofted Offside/vid111_9.npy	7
+Down The Wicket/vid330_21.npy	2
+Flick/vid279_0.npy	3
+Defensive/vid245_7.npy	1
+Sweep/vid452_31.npy	13
+Pull/vid227_18.npy	8
+Reverse Sweep/vid329_21.npy	9
+Upper Cut/vid370_59.npy	14
+Cover Drive/vid221_23.npy	0
+Square Cut/vid57_3.npy	11
+Flick/vid417_22.npy	3
+Defensive/vid161_0.npy	1
+Sweep/vid533_38.npy	13
+Down The Wicket/vid396_18.npy	2
+Reverse Sweep/vid526_62.npy	9
+Square Cut/vid421_14.npy	11
+Scoop/vid67_37.npy	10
+Cover Drive/vid203_3.npy	0
+Square Cut/vid390_3.npy	11
+Lofted Legside/vid55_58.npy	6
+Defensive/vid237_19.npy	1
+Cover Drive/vid374_40.npy	0
+Sweep/vid135_15.npy	13
+Lofted Offside/vid422_18.npy	7
+Defensive/vid238_4.npy	1
+Lofted Legside/vid441_37.npy	6
+Lofted Offside/vid440_53.npy	7
+Flick/vid304_13.npy	3
+Lofted Legside/vid378_6.npy	6
+Defensive/vid221_16.npy	1
+Down The Wicket/vid78_18.npy	2
+Defensive/vid143_20.npy	1
+Sweep/vid533_6.npy	13
+Lofted Legside/vid387_18.npy	6
+Sweep/vid415_25.npy	13
+Down The Wicket/vid461_5.npy	2
+Hook/vid528_53.npy	4
+Cover Drive/vid295_34.npy	0
+Square Cut/vid220_26.npy	11
+Down The Wicket/vid54_29.npy	2
+Lofted Offside/vid335_6.npy	7
+Pull/vid326_19.npy	8
+Down The Wicket/vid488_32.npy	2
+Sweep/vid433_54.npy	13
+Down The Wicket/vid64_39.npy	2
+Lofted Offside/vid387_21.npy	7
+Down The Wicket/vid385_20.npy	2
+Sweep/vid535_68.npy	13
+Square Cut/vid233_41.npy	11
+Lofted Offside/vid396_17.npy	7
+Down The Wicket/vid497_1.npy	2
+Sweep/vid94_15.npy	13
+Lofted Legside/vid118_3.npy	6
+Flick/vid447_33.npy	3
+Lofted Offside/vid526_59.npy	7
+Down The Wicket/vid534_28.npy	2
+Lofted Legside/vid489_16.npy	6
+Pull/vid503_31.npy	8
+Flick/vid304_0.npy	3
+Flick/vid439_20.npy	3
+Late Cut/vid28_54.npy	5
+Flick/vid249_22.npy	3
+Lofted Offside/vid39_30.npy	7
+Flick/vid335_1.npy	3
+Pull/vid133_12.npy	8
+Flick/vid500_26.npy	3
+Lofted Legside/vid486_32.npy	6
+Upper Cut/vid8_40.npy	14
+Pull/vid417_15.npy	8
+Pull/vid395_3.npy	8
+Cover Drive/vid245_42.npy	0
+Flick/vid313_37.npy	3
+Down The Wicket/vid442_43.npy	2
+Hook/vid235_36.npy	4
+Flick/vid193_0.npy	3
+Upper Cut/vid42_7.npy	14
+Cover Drive/vid109_7.npy	0
+Sweep/vid473_6.npy	13
+Late Cut/vid295_22.npy	5
+Sweep/vid23_41.npy	13
+Lofted Legside/vid513_40.npy	6
+Down The Wicket/vid140_9.npy	2
+Flick/vid246_25.npy	3
+Pull/vid204_6.npy	8
+Straight Drive/vid96_31.npy	12
+Late Cut/vid521_84.npy	5
+Lofted Legside/vid342_44.npy	6
+Lofted Legside/vid109_36.npy	6
+Cover Drive/vid524_29.npy	0
+Square Cut/vid15_29.npy	11
+Straight Drive/vid72_4.npy	12
+Reverse Sweep/vid480_43.npy	9
+Straight Drive/vid141_22.npy	12
+Cover Drive/vid350_1.npy	0
+Flick/vid416_17.npy	3
+Down The Wicket/vid64_34.npy	2
+Hook/vid290_8.npy	4
+Down The Wicket/vid107_28.npy	2
+Square Cut/vid444_49.npy	11
+Hook/vid60_39.npy	4
+Reverse Sweep/vid380_27.npy	9
+Reverse Sweep/vid503_37.npy	9
+Cover Drive/vid115_14.npy	0
+Flick/vid40_28.npy	3
+Down The Wicket/vid470_17.npy	2
+Down The Wicket/vid127_10.npy	2
+Pull/vid53_78.npy	8
+Flick/vid350_6.npy	3
+Hook/vid110_9.npy	4
+Flick/vid137_29.npy	3
+Hook/vid483_39.npy	4
+Flick/vid346_12.npy	3
+Lofted Offside/vid159_12.npy	7
+Reverse Sweep/vid530_36.npy	9
+Lofted Offside/vid371_6.npy	7
+Sweep/vid487_42.npy	13
+Straight Drive/vid31_37.npy	12
+Pull/vid250_13.npy	8
+Flick/vid92_30.npy	3
+Square Cut/vid296_30.npy	11
+Down The Wicket/vid394_9.npy	2
+Cover Drive/vid327_5.npy	0
+Down The Wicket/vid3_11.npy	2
+Flick/vid242_4.npy	3
+Flick/vid113_19.npy	3
+Lofted Legside/vid44_27.npy	6
+Lofted Legside/vid483_43.npy	6
+Square Cut/vid527_14.npy	11
+Reverse Sweep/vid70_39.npy	9
+Lofted Offside/vid86_4.npy	7
+Lofted Legside/vid374_45.npy	6
+Down The Wicket/vid300_35.npy	2
+Defensive/vid317_22.npy	1
+Lofted Offside/vid400_14.npy	7
+Square Cut/vid447_27.npy	11
+Square Cut/vid467_27.npy	11
+Upper Cut/vid494_19.npy	14
+Down The Wicket/vid140_11.npy	2
+Cover Drive/vid378_8.npy	0
+Pull/vid92_1.npy	8
+Cover Drive/vid125_3.npy	0
+Hook/vid144_3.npy	4
+Down The Wicket/vid431_10.npy	2
+Hook/vid108_28.npy	4
+Reverse Sweep/vid485_27.npy	9
+Down The Wicket/vid467_10.npy	2
+Cover Drive/vid380_43.npy	0
+Lofted Offside/vid452_52.npy	7
+Lofted Offside/vid451_28.npy	7
+Lofted Legside/vid82_29.npy	6
+Lofted Offside/vid510_9.npy	7
+Defensive/vid252_4.npy	1
+Lofted Legside/vid356_54.npy	6
+Square Cut/vid227_37.npy	11
+Lofted Offside/vid383_21.npy	7
+Lofted Legside/vid388_21.npy	6
+Lofted Legside/vid152_33.npy	6
+Pull/vid375_7.npy	8
+Flick/vid433_35.npy	3
+Pull/vid490_4.npy	8
+Lofted Legside/vid271_16.npy	6
+Sweep/vid362_29.npy	13
+Square Cut/vid106_6.npy	11
+Cover Drive/vid250_3.npy	0
+Down The Wicket/vid467_11.npy	2
+Pull/vid366_29.npy	8
+Sweep/vid386_8.npy	13
+Lofted Offside/vid517_39.npy	7
+Sweep/vid449_35.npy	13
+Sweep/vid169_40.npy	13
+Pull/vid374_44.npy	8
+Defensive/vid240_62.npy	1
+Defensive/vid296_12.npy	1
+Sweep/vid82_17.npy	13
+Upper Cut/vid232_4.npy	14
+Down The Wicket/vid514_29.npy	2
+Pull/vid43_52.npy	8
+Cover Drive/vid222_0.npy	0
+Down The Wicket/vid477_8.npy	2
+Sweep/vid285_3.npy	13
+Down The Wicket/vid232_28.npy	2
+Defensive/vid160_30.npy	1
+Defensive/vid133_7.npy	1
+Square Cut/vid164_20.npy	11
+Pull/vid374_29.npy	8
+Flick/vid246_10.npy	3
+Hook/vid239_12.npy	4
+Flick/vid515_47.npy	3
+Lofted Legside/vid366_56.npy	6
+Reverse Sweep/vid529_65.npy	9
+Pull/vid366_4.npy	8
+Pull/vid519_14.npy	8
+Square Cut/vid317_27.npy	11
+Lofted Legside/vid532_22.npy	6
+Straight Drive/vid249_28.npy	12
+Down The Wicket/vid1_18.npy	2
+Upper Cut/vid303_5.npy	14
+Scoop/vid202_13.npy	10
+Square Cut/vid400_27.npy	11
+Defensive/vid157_17.npy	1
+Hook/vid74_3.npy	4
+Sweep/vid144_11.npy	13
+Scoop/vid156_45.npy	10
+Lofted Offside/vid443_33.npy	7
+Flick/vid23_5.npy	3
+Square Cut/vid313_8.npy	11
+Square Cut/vid28_38.npy	11
+Square Cut/vid225_17.npy	11
+Reverse Sweep/vid29_2.npy	9
+Hook/vid487_8.npy	4
+Lofted Offside/vid519_34.npy	7
+Straight Drive/vid106_26.npy	12
+Flick/vid3_22.npy	3
+Straight Drive/vid518_50.npy	12
+Sweep/vid433_44.npy	13
+Cover Drive/vid300_5.npy	0
+Cover Drive/vid231_20.npy	0
+Down The Wicket/vid433_29.npy	2
+Cover Drive/vid313_7.npy	0
+Late Cut/vid439_48.npy	5
+Flick/vid220_25.npy	3
+Lofted Legside/vid337_23.npy	6
+Lofted Legside/vid153_18.npy	6
+Hook/vid42_3.npy	4
+Upper Cut/vid92_5.npy	14
+Flick/vid357_46.npy	3
+Upper Cut/vid517_59.npy	14
+Hook/vid10_27.npy	4
+Cover Drive/vid101_39.npy	0
+Square Cut/vid521_92.npy	11
+Lofted Offside/vid384_71.npy	7
+Cover Drive/vid432_7.npy	0
+Lofted Offside/vid392_57.npy	7
+Sweep/vid375_16.npy	13
+Late Cut/vid40_7.npy	5
+Flick/vid28_12.npy	3
+Flick/vid118_14.npy	3
+Hook/vid233_40.npy	4
+Square Cut/vid295_1.npy	11
+Lofted Legside/vid55_69.npy	6
+Lofted Legside/vid460_16.npy	6
+Square Cut/vid92_2.npy	11
+Defensive/vid14_0.npy	1
+Flick/vid452_45.npy	3
+Straight Drive/vid231_1.npy	12
+Lofted Legside/vid440_36.npy	6
+Down The Wicket/vid443_3.npy	2
+Straight Drive/vid89_4.npy	12
+Hook/vid122_24.npy	4
+Cover Drive/vid450_6.npy	0
+Lofted Legside/vid417_24.npy	6
+Down The Wicket/vid321_25.npy	2
+Down The Wicket/vid342_14.npy	2
+Flick/vid481_36.npy	3
+Down The Wicket/vid61_0.npy	2
+Pull/vid482_10.npy	8
+Down The Wicket/vid375_45.npy	2
+Down The Wicket/vid322_25.npy	2
+Reverse Sweep/vid361_15.npy	9
+Square Cut/vid528_49.npy	11
+Defensive/vid449_21.npy	1
+Lofted Offside/vid335_11.npy	7
+Scoop/vid127_11.npy	10
+Lofted Legside/vid517_23.npy	6
+Square Cut/vid448_21.npy	11
+Flick/vid14_19.npy	3
+Defensive/vid235_7.npy	1
+Upper Cut/vid528_57.npy	14
+Flick/vid382_13.npy	3
+Down The Wicket/vid356_19.npy	2
+Lofted Offside/vid83_37.npy	7
+Down The Wicket/vid445_11.npy	2
+Scoop/vid238_24.npy	10
+Flick/vid151_0.npy	3
+Lofted Legside/vid43_57.npy	6
+Square Cut/vid354_7.npy	11
+Square Cut/vid160_19.npy	11
+Hook/vid141_34.npy	4
+Hook/vid522_17.npy	4
+Lofted Offside/vid471_22.npy	7
+Lofted Legside/vid490_10.npy	6
+Cover Drive/vid385_7.npy	0
+Reverse Sweep/vid29_15.npy	9
+Lofted Legside/vid262_6.npy	6
+Square Cut/vid208_31.npy	11
+Straight Drive/vid300_2.npy	12
+Flick/vid117_18.npy	3
+Cover Drive/vid218_27.npy	0
+Lofted Offside/vid61_14.npy	7
+Late Cut/vid444_41.npy	5
+Scoop/vid274_18.npy	10
+Down The Wicket/vid394_23.npy	2
+Straight Drive/vid496_27.npy	12
+Sweep/vid330_31.npy	13
+Defensive/vid214_32.npy	1
+Down The Wicket/vid115_29.npy	2
+Lofted Legside/vid465_13.npy	6
+Lofted Offside/vid496_8.npy	7
+Lofted Legside/vid132_8.npy	6
+Late Cut/vid39_43.npy	5
+Square Cut/vid429_14.npy	11
+Square Cut/vid78_5.npy	11
+Pull/vid535_7.npy	8
+Lofted Offside/vid535_40.npy	7
+Scoop/vid392_3.npy	10
+Square Cut/vid366_26.npy	11
+Square Cut/vid298_23.npy	11
+Lofted Offside/vid385_47.npy	7
+Sweep/vid492_33.npy	13
+Down The Wicket/vid469_16.npy	2
+Cover Drive/vid86_1.npy	0
+Straight Drive/vid392_31.npy	12
+Lofted Legside/vid418_35.npy	6
+Straight Drive/vid38_9.npy	12
+Upper Cut/vid374_30.npy	14
+Cover Drive/vid153_0.npy	0
+Hook/vid511_52.npy	4
+Straight Drive/vid443_42.npy	12
+Defensive/vid454_1.npy	1
+Flick/vid222_5.npy	3
+Lofted Legside/vid428_36.npy	6
+Cover Drive/vid106_30.npy	0
+Lofted Legside/vid302_2.npy	6
+Lofted Legside/vid4_8.npy	6
+Square Cut/vid143_9.npy	11
+Down The Wicket/vid116_22.npy	2
+Lofted Legside/vid356_5.npy	6
+Sweep/vid131_10.npy	13
+Defensive/vid314_28.npy	1
+Flick/vid533_60.npy	3
+Square Cut/vid360_74.npy	11
+Down The Wicket/vid221_26.npy	2
+Lofted Legside/vid476_17.npy	6
+Lofted Legside/vid304_24.npy	6
+Hook/vid503_25.npy	4
+Lofted Legside/vid43_66.npy	6
+Square Cut/vid340_17.npy	11
+Sweep/vid54_62.npy	13
+Flick/vid419_0.npy	3
+Flick/vid62_29.npy	3
+Down The Wicket/vid186_13.npy	2
+Cover Drive/vid536_44.npy	0
+Lofted Offside/vid511_23.npy	7
+Down The Wicket/vid212_42.npy	2
+Lofted Legside/vid300_15.npy	6
+Sweep/vid151_19.npy	13
+Lofted Offside/vid320_20.npy	7
+Pull/vid460_19.npy	8
+Sweep/vid297_24.npy	13
+Straight Drive/vid228_3.npy	12
+Square Cut/vid242_31.npy	11
+Lofted Legside/vid74_17.npy	6
+Defensive/vid14_37.npy	1
+Cover Drive/vid366_23.npy	0
+Lofted Legside/vid161_23.npy	6
+Lofted Legside/vid391_8.npy	6
+Down The Wicket/vid439_56.npy	2
+Lofted Legside/vid206_25.npy	6
+Upper Cut/vid260_21.npy	14
+Defensive/vid100_0.npy	1
+Straight Drive/vid122_7.npy	12
+Square Cut/vid288_10.npy	11
+Late Cut/vid110_3.npy	5
+Lofted Offside/vid397_31.npy	7
+Scoop/vid194_10.npy	10
+Cover Drive/vid119_11.npy	0
+Lofted Legside/vid164_3.npy	6
+Cover Drive/vid252_44.npy	0
+Lofted Offside/vid370_56.npy	7
+Sweep/vid389_39.npy	13
+Lofted Offside/vid362_3.npy	7
+Cover Drive/vid235_22.npy	0
+Lofted Offside/vid369_59.npy	7
+Hook/vid126_40.npy	4
+Flick/vid401_8.npy	3
+Lofted Legside/vid514_62.npy	6
+Pull/vid235_41.npy	8
+Scoop/vid372_27.npy	10
+Cover Drive/vid527_67.npy	0
+Flick/vid448_30.npy	3
+Flick/vid294_23.npy	3
+Hook/vid262_35.npy	4
+Lofted Offside/vid411_16.npy	7
+Square Cut/vid512_28.npy	11
+Hook/vid138_0.npy	4
+Down The Wicket/vid525_11.npy	2
+Pull/vid40_9.npy	8
+Flick/vid152_6.npy	3
+Late Cut/vid217_21.npy	5
+Defensive/vid212_26.npy	1
+Lofted Legside/vid524_15.npy	6
+Square Cut/vid42_56.npy	11
+Lofted Legside/vid100_42.npy	6
+Upper Cut/vid163_15.npy	14
+Straight Drive/vid529_43.npy	12
+Cover Drive/vid248_17.npy	0
+Lofted Legside/vid439_59.npy	6
+Lofted Offside/vid8_38.npy	7
+Down The Wicket/vid80_30.npy	2
+Lofted Legside/vid500_11.npy	6
+Defensive/vid77_27.npy	1
+Down The Wicket/vid127_6.npy	2
+Square Cut/vid48_13.npy	11
+Lofted Offside/vid527_13.npy	7
+Down The Wicket/vid383_4.npy	2
+Lofted Offside/vid489_18.npy	7
+Reverse Sweep/vid217_35.npy	9
+Cover Drive/vid536_43.npy	0
+Reverse Sweep/vid381_11.npy	9
+Lofted Offside/vid320_43.npy	7
+Flick/vid38_10.npy	3
+Lofted Legside/vid355_26.npy	6
+Pull/vid356_45.npy	8
+Sweep/vid455_56.npy	13
+Square Cut/vid216_25.npy	11
+Down The Wicket/vid413_19.npy	2
+Scoop/vid460_31.npy	10
+Cover Drive/vid115_25.npy	0
+Lofted Legside/vid172_12.npy	6
+Square Cut/vid160_37.npy	11
+Upper Cut/vid165_9.npy	14
+Square Cut/vid8_47.npy	11
+Lofted Offside/vid534_44.npy	7
+Lofted Offside/vid473_42.npy	7
+Down The Wicket/vid454_30.npy	2
+Lofted Offside/vid377_33.npy	7
+Square Cut/vid219_9.npy	11
+Straight Drive/vid171_25.npy	12
+Upper Cut/vid529_37.npy	14
+Pull/vid516_26.npy	8
+Hook/vid444_36.npy	4
+Defensive/vid356_35.npy	1
+Sweep/vid520_16.npy	13
+Pull/vid530_21.npy	8
+Down The Wicket/vid161_4.npy	2
+Defensive/vid216_0.npy	1
+Flick/vid213_2.npy	3
+Defensive/vid108_6.npy	1
+Defensive/vid295_28.npy	1
+Scoop/vid150_9.npy	10
+Defensive/vid392_32.npy	1
+Hook/vid112_13.npy	4
+Lofted Legside/vid505_4.npy	6
+Sweep/vid517_7.npy	13
+Defensive/vid378_48.npy	1
+Scoop/vid497_9.npy	10
+Hook/vid123_16.npy	4
+Flick/vid526_1.npy	3
+Lofted Offside/vid529_30.npy	7
+Lofted Legside/vid422_40.npy	6
+Hook/vid505_42.npy	4
+Hook/vid531_22.npy	4
+Lofted Offside/vid313_13.npy	7
+Sweep/vid148_42.npy	13
+Lofted Legside/vid192_2.npy	6
+Lofted Legside/vid337_50.npy	6
+Down The Wicket/vid458_31.npy	2
+Sweep/vid483_27.npy	13
+Lofted Legside/vid74_39.npy	6
+Reverse Sweep/vid460_12.npy	9
+Sweep/vid526_46.npy	13
+Lofted Legside/vid371_15.npy	6
+Square Cut/vid245_50.npy	11
+Cover Drive/vid401_20.npy	0
+Flick/vid312_6.npy	3
+Sweep/vid144_27.npy	13
+Lofted Legside/vid185_14.npy	6
+Sweep/vid513_13.npy	13
+Sweep/vid426_48.npy	13
+Down The Wicket/vid51_54.npy	2
+Lofted Offside/vid274_9.npy	7
+Square Cut/vid14_46.npy	11
+Square Cut/vid460_32.npy	11
+Sweep/vid439_62.npy	13
+Reverse Sweep/vid349_8.npy	9
+Lofted Offside/vid333_7.npy	7
+Lofted Legside/vid141_20.npy	6
+Reverse Sweep/vid204_30.npy	9
+Pull/vid464_38.npy	8
+Pull/vid453_3.npy	8
+Lofted Legside/vid488_16.npy	6
+Straight Drive/vid225_26.npy	12
+Lofted Legside/vid516_61.npy	6
+Hook/vid531_61.npy	4
+Down The Wicket/vid74_27.npy	2
+Cover Drive/vid33_17.npy	0
+Straight Drive/vid253_2.npy	12
+Reverse Sweep/vid120_3.npy	9
+Flick/vid242_26.npy	3
+Pull/vid501_37.npy	8
+Hook/vid102_21.npy	4
+Pull/vid236_18.npy	8
+Lofted Legside/vid457_16.npy	6
+Pull/vid513_20.npy	8
+Sweep/vid71_27.npy	13
+Upper Cut/vid149_14.npy	14
+Pull/vid526_49.npy	8
+Hook/vid393_24.npy	4
+Lofted Offside/vid503_34.npy	7
+Square Cut/vid308_6.npy	11
+Square Cut/vid473_48.npy	11
+Defensive/vid147_32.npy	1
+Lofted Legside/vid379_2.npy	6
+Flick/vid116_9.npy	3
+Sweep/vid285_2.npy	13
+Defensive/vid109_2.npy	1
+Cover Drive/vid49_0.npy	0
+Hook/vid101_33.npy	4
+Flick/vid129_23.npy	3
+Down The Wicket/vid448_7.npy	2
+Straight Drive/vid41_5.npy	12
+Sweep/vid65_19.npy	13
+Sweep/vid96_42.npy	13
+Square Cut/vid452_1.npy	11
+Square Cut/vid437_47.npy	11
+Late Cut/vid175_30.npy	5
+Sweep/vid62_47.npy	13
+Lofted Legside/vid71_21.npy	6
+Straight Drive/vid303_10.npy	12
+Defensive/vid301_0.npy	1
+Pull/vid373_39.npy	8
+Down The Wicket/vid198_0.npy	2
+Flick/vid241_9.npy	3
+Straight Drive/vid312_24.npy	12
+Flick/vid111_0.npy	3
+Reverse Sweep/vid532_47.npy	9
+Sweep/vid481_15.npy	13
+Sweep/vid509_24.npy	13
+Square Cut/vid250_18.npy	11
+Hook/vid360_23.npy	4
+Straight Drive/vid135_2.npy	12
+Lofted Legside/vid403_26.npy	6
+Down The Wicket/vid534_30.npy	2
+Reverse Sweep/vid529_59.npy	9
+Lofted Offside/vid331_24.npy	7
+Square Cut/vid406_29.npy	11
+Pull/vid246_26.npy	8
+Lofted Legside/vid491_18.npy	6
+Down The Wicket/vid465_35.npy	2
+Square Cut/vid519_40.npy	11
+Scoop/vid100_28.npy	10
+Flick/vid520_12.npy	3
+Scoop/vid5_16.npy	10
+Defensive/vid236_32.npy	1
+Flick/vid1_8.npy	3
+Pull/vid470_4.npy	8
+Down The Wicket/vid437_22.npy	2
+Lofted Legside/vid158_29.npy	6
+Flick/vid331_32.npy	3
+Defensive/vid56_60.npy	1
+Lofted Offside/vid93_35.npy	7
+Lofted Legside/vid354_17.npy	6
+Down The Wicket/vid68_3.npy	2
+Sweep/vid51_6.npy	13
+Lofted Legside/vid481_20.npy	6
+Flick/vid405_10.npy	3
+Flick/vid360_51.npy	3
+Pull/vid456_4.npy	8
+Upper Cut/vid121_32.npy	14
+Sweep/vid73_35.npy	13
+Scoop/vid429_42.npy	10
+Down The Wicket/vid457_47.npy	2
+Upper Cut/vid482_7.npy	14
+Sweep/vid31_32.npy	13
+Pull/vid508_58.npy	8
+Flick/vid120_18.npy	3
+Pull/vid95_31.npy	8
+Sweep/vid384_60.npy	13
+Straight Drive/vid437_28.npy	12
+Flick/vid478_18.npy	3
+Hook/vid388_17.npy	4
+Down The Wicket/vid81_7.npy	2
+Down The Wicket/vid203_32.npy	2
+Cover Drive/vid25_7.npy	0
+Flick/vid175_1.npy	3
+Cover Drive/vid472_5.npy	0
+Defensive/vid312_40.npy	1
+Sweep/vid439_21.npy	13
+Lofted Offside/vid343_37.npy	7
+Square Cut/vid480_32.npy	11
+Reverse Sweep/vid532_48.npy	9
+Lofted Legside/vid2_44.npy	6
+Lofted Offside/vid467_19.npy	7
+Hook/vid518_25.npy	4
+Lofted Offside/vid445_36.npy	7
+Pull/vid210_45.npy	8
+Down The Wicket/vid123_24.npy	2
+Lofted Offside/vid337_35.npy	7
+Pull/vid51_41.npy	8
+Hook/vid134_5.npy	4
+Lofted Offside/vid51_49.npy	7
+Sweep/vid473_12.npy	13
+Hook/vid354_33.npy	4
+Straight Drive/vid240_1.npy	12
+Cover Drive/vid304_19.npy	0
+Square Cut/vid428_9.npy	11
+Lofted Legside/vid486_23.npy	6
+Down The Wicket/vid464_15.npy	2
+Pull/vid71_10.npy	8
+Lofted Legside/vid515_43.npy	6
+Hook/vid13_15.npy	4
+Lofted Offside/vid361_28.npy	7
+Square Cut/vid355_14.npy	11
+Defensive/vid464_28.npy	1
+Cover Drive/vid244_25.npy	0
+Flick/vid124_6.npy	3
+Pull/vid151_16.npy	8
+Defensive/vid449_13.npy	1
+Down The Wicket/vid234_28.npy	2
+Square Cut/vid524_2.npy	11
+Flick/vid120_19.npy	3
+Sweep/vid23_13.npy	13
+Down The Wicket/vid54_48.npy	2
+Sweep/vid164_15.npy	13
+Down The Wicket/vid193_16.npy	2
+Hook/vid357_76.npy	4
+Lofted Offside/vid367_25.npy	7
+Sweep/vid342_2.npy	13
+Cover Drive/vid64_28.npy	0
+Down The Wicket/vid495_42.npy	2
+Reverse Sweep/vid443_51.npy	9
+Down The Wicket/vid514_61.npy	2
+Square Cut/vid262_13.npy	11
+Square Cut/vid315_30.npy	11
+Flick/vid100_38.npy	3
+Upper Cut/vid121_6.npy	14
+Sweep/vid79_12.npy	13
+Pull/vid443_35.npy	8
+Pull/vid389_35.npy	8
+Sweep/vid224_9.npy	13
+Cover Drive/vid225_3.npy	0
+Square Cut/vid453_50.npy	11
+Pull/vid475_8.npy	8
+Sweep/vid69_39.npy	13
+Pull/vid443_31.npy	8
+Square Cut/vid231_24.npy	11
+Cover Drive/vid252_23.npy	0
+Lofted Legside/vid360_21.npy	6
+Down The Wicket/vid124_26.npy	2
+Pull/vid488_35.npy	8
+Cover Drive/vid242_2.npy	0
+Late Cut/vid483_36.npy	5
+Defensive/vid234_0.npy	1
+Down The Wicket/vid61_9.npy	2
+Pull/vid8_46.npy	8
+Hook/vid521_47.npy	4
+Lofted Legside/vid128_25.npy	6
+Square Cut/vid435_3.npy	11
+Lofted Offside/vid479_9.npy	7
+Sweep/vid474_5.npy	13
+Down The Wicket/vid402_17.npy	2
+Sweep/vid514_42.npy	13
+Defensive/vid125_7.npy	1
+Sweep/vid358_10.npy	13
+Lofted Offside/vid388_27.npy	7
+Square Cut/vid89_0.npy	11
+Pull/vid464_43.npy	8
+Pull/vid297_28.npy	8
+Cover Drive/vid42_41.npy	0
+Flick/vid88_32.npy	3
+Lofted Offside/vid345_11.npy	7
+Square Cut/vid203_31.npy	11
+Lofted Offside/vid335_4.npy	7
+Down The Wicket/vid71_8.npy	2
+Straight Drive/vid232_13.npy	12
+Defensive/vid19_9.npy	1
+Down The Wicket/vid215_30.npy	2
+Cover Drive/vid1_4.npy	0
+Lofted Legside/vid371_20.npy	6
+Upper Cut/vid152_25.npy	14
+Square Cut/vid527_44.npy	11
+Scoop/vid381_3.npy	10
+Hook/vid495_48.npy	4
+Lofted Legside/vid506_23.npy	6
+Square Cut/vid447_0.npy	11
+Square Cut/vid49_34.npy	11
+Defensive/vid16_13.npy	1
+Square Cut/vid60_3.npy	11
+Lofted Legside/vid438_18.npy	6
+Square Cut/vid505_27.npy	11
+Down The Wicket/vid463_18.npy	2
+Reverse Sweep/vid13_9.npy	9
+Sweep/vid135_7.npy	13
+Square Cut/vid182_2.npy	11
+Straight Drive/vid303_6.npy	12
+Square Cut/vid534_22.npy	11
+Down The Wicket/vid2_4.npy	2
+Cover Drive/vid245_3.npy	0
+Flick/vid126_28.npy	3
+Lofted Legside/vid381_20.npy	6
+Scoop/vid344_43.npy	10
+Sweep/vid110_28.npy	13
+Sweep/vid168_2.npy	13
+Reverse Sweep/vid253_4.npy	9
+Sweep/vid204_35.npy	13
+Upper Cut/vid518_43.npy	14
+Lofted Offside/vid394_16.npy	7
+Defensive/vid56_17.npy	1
+Upper Cut/vid110_17.npy	14
+Sweep/vid437_23.npy	13
+Sweep/vid90_2.npy	13
+Lofted Legside/vid279_17.npy	6
+Defensive/vid229_2.npy	1
+Cover Drive/vid415_4.npy	0
+Down The Wicket/vid261_2.npy	2
+Upper Cut/vid122_21.npy	14
+Lofted Legside/vid181_2.npy	6
+Down The Wicket/vid81_3.npy	2
+Defensive/vid530_0.npy	1
+Pull/vid315_2.npy	8
+Lofted Legside/vid58_26.npy	6
+Cover Drive/vid329_11.npy	0
+Square Cut/vid467_21.npy	11
+Flick/vid472_26.npy	3
+Flick/vid460_26.npy	3
+Flick/vid217_26.npy	3
+Down The Wicket/vid54_42.npy	2
+Sweep/vid135_31.npy	13
+Lofted Offside/vid352_7.npy	7
+Lofted Offside/vid533_28.npy	7
+Straight Drive/vid300_0.npy	12
+Pull/vid213_13.npy	8
+Down The Wicket/vid450_26.npy	2
+Square Cut/vid313_28.npy	11
+Lofted Offside/vid206_23.npy	7
+Hook/vid450_58.npy	4
+Cover Drive/vid252_40.npy	0
+Pull/vid432_19.npy	8
+Straight Drive/vid57_20.npy	12
+Down The Wicket/vid442_62.npy	2
+Defensive/vid411_25.npy	1
+Lofted Legside/vid114_15.npy	6
+Pull/vid432_29.npy	8
+Square Cut/vid10_0.npy	11
+Hook/vid505_26.npy	4
+Hook/vid83_23.npy	4
+Lofted Offside/vid374_0.npy	7
+Defensive/vid142_20.npy	1
+Sweep/vid445_54.npy	13
+Lofted Legside/vid369_53.npy	6
+Square Cut/vid527_45.npy	11
+Lofted Offside/vid356_46.npy	7
+Lofted Legside/vid462_19.npy	6
+Late Cut/vid245_19.npy	5
+Lofted Legside/vid61_8.npy	6
+Pull/vid437_2.npy	8
+Sweep/vid516_23.npy	13
+Down The Wicket/vid416_26.npy	2
+Square Cut/vid154_20.npy	11
+Hook/vid518_41.npy	4
+Lofted Legside/vid341_46.npy	6
+Lofted Offside/vid350_21.npy	7
+Sweep/vid337_14.npy	13
+Cover Drive/vid299_28.npy	0
+Flick/vid25_32.npy	3
+Upper Cut/vid443_30.npy	14
+Down The Wicket/vid373_5.npy	2
+Sweep/vid452_29.npy	13
+Cover Drive/vid436_19.npy	0
+Lofted Legside/vid500_8.npy	6
+Hook/vid4_7.npy	4
+Lofted Offside/vid374_34.npy	7
+Flick/vid160_12.npy	3
+Scoop/vid163_25.npy	10
+Lofted Offside/vid188_16.npy	7
+Sweep/vid6_25.npy	13
+Hook/vid253_23.npy	4
+Upper Cut/vid320_32.npy	14
+Lofted Offside/vid398_10.npy	7
+Straight Drive/vid123_18.npy	12
+Late Cut/vid420_18.npy	5
+Reverse Sweep/vid462_35.npy	9
+Cover Drive/vid306_5.npy	0
+Square Cut/vid506_21.npy	11
+Down The Wicket/vid64_37.npy	2
+Hook/vid123_2.npy	4
+Reverse Sweep/vid20_8.npy	9
+Square Cut/vid510_11.npy	11
+Lofted Offside/vid494_4.npy	7
+Straight Drive/vid221_5.npy	12
+Sweep/vid439_26.npy	13
+Upper Cut/vid80_6.npy	14
+Hook/vid361_40.npy	4
+Down The Wicket/vid114_2.npy	2
+Hook/vid433_62.npy	4
+Lofted Offside/vid47_7.npy	7
+Pull/vid434_31.npy	8
+Cover Drive/vid164_4.npy	0
+Lofted Legside/vid361_43.npy	6
+Defensive/vid228_20.npy	1
+Flick/vid487_0.npy	3
+Pull/vid497_18.npy	8
+Reverse Sweep/vid90_49.npy	9
+Square Cut/vid228_23.npy	11
+Sweep/vid450_15.npy	13
+Down The Wicket/vid23_30.npy	2
+Square Cut/vid493_19.npy	11
+Lofted Legside/vid148_43.npy	6
+Late Cut/vid222_7.npy	5
+Lofted Legside/vid341_50.npy	6
+Sweep/vid144_9.npy	13
+Down The Wicket/vid517_66.npy	2
+Pull/vid44_10.npy	8
+Pull/vid81_26.npy	8
+Cover Drive/vid457_27.npy	0
+Upper Cut/vid37_0.npy	14
+Cover Drive/vid494_1.npy	0
+Pull/vid125_6.npy	8
+Lofted Legside/vid419_10.npy	6
+Hook/vid298_26.npy	4
+Upper Cut/vid520_36.npy	14
+Lofted Legside/vid243_16.npy	6
+Pull/vid433_61.npy	8
+Defensive/vid154_6.npy	1
+Down The Wicket/vid165_23.npy	2
+Reverse Sweep/vid374_19.npy	9
+Late Cut/vid358_30.npy	5
+Defensive/vid306_12.npy	1
+Defensive/vid431_4.npy	1
+Defensive/vid316_22.npy	1
+Hook/vid225_4.npy	4
+Sweep/vid226_28.npy	13
+Flick/vid33_0.npy	3
+Flick/vid390_13.npy	3
+Flick/vid277_15.npy	3
+Lofted Legside/vid151_36.npy	6
+Pull/vid515_68.npy	8
+Square Cut/vid174_6.npy	11
+Square Cut/vid517_2.npy	11
+Lofted Legside/vid305_13.npy	6
+Lofted Legside/vid161_31.npy	6
+Late Cut/vid363_30.npy	5
+Square Cut/vid421_13.npy	11
+Straight Drive/vid426_4.npy	12
+Reverse Sweep/vid270_19.npy	9
+Pull/vid402_20.npy	8
+Flick/vid377_20.npy	3
+Late Cut/vid148_22.npy	5
+Defensive/vid169_27.npy	1
+Lofted Offside/vid138_30.npy	7
+Scoop/vid167_33.npy	10
+Sweep/vid344_45.npy	13
+Down The Wicket/vid263_13.npy	2
+Square Cut/vid507_12.npy	11
+Down The Wicket/vid198_13.npy	2
+Square Cut/vid140_20.npy	11
+Lofted Offside/vid533_74.npy	7
+Square Cut/vid230_12.npy	11
+Flick/vid237_38.npy	3
+Flick/vid374_36.npy	3
+Hook/vid74_31.npy	4
+Lofted Legside/vid435_27.npy	6
+Late Cut/vid41_8.npy	5
+Down The Wicket/vid217_11.npy	2
+Cover Drive/vid467_1.npy	0
+Lofted Legside/vid391_48.npy	6
+Defensive/vid435_56.npy	1
+Defensive/vid233_34.npy	1
+Sweep/vid324_32.npy	13
+Upper Cut/vid428_20.npy	14
+Flick/vid296_21.npy	3
+Flick/vid167_2.npy	3
+Flick/vid251_51.npy	3
+Pull/vid441_47.npy	8
+Square Cut/vid91_14.npy	11
+Straight Drive/vid228_2.npy	12
+Defensive/vid305_2.npy	1
+Lofted Offside/vid378_45.npy	7
+Down The Wicket/vid512_48.npy	2
+Lofted Offside/vid107_30.npy	7
+Pull/vid207_41.npy	8
+Square Cut/vid435_41.npy	11
+Hook/vid489_38.npy	4
+Defensive/vid252_14.npy	1
+Lofted Offside/vid106_11.npy	7
+Down The Wicket/vid24_31.npy	2
+Cover Drive/vid234_2.npy	0
+Lofted Offside/vid136_21.npy	7
+Upper Cut/vid497_17.npy	14
+Square Cut/vid306_10.npy	11
+Down The Wicket/vid75_26.npy	2
+Flick/vid16_37.npy	3
+Reverse Sweep/vid51_35.npy	9
+Hook/vid42_13.npy	4
+Square Cut/vid515_77.npy	11
+Defensive/vid215_21.npy	1
+Square Cut/vid475_10.npy	11
+Lofted Offside/vid426_25.npy	7
+Straight Drive/vid250_1.npy	12
+Lofted Legside/vid56_86.npy	6
+Sweep/vid338_25.npy	13
+Reverse Sweep/vid29_1.npy	9
+Lofted Legside/vid30_45.npy	6
+Lofted Offside/vid476_8.npy	7
+Reverse Sweep/vid172_11.npy	9
+Flick/vid320_44.npy	3
+Lofted Offside/vid480_15.npy	7
+Straight Drive/vid160_5.npy	12
+Late Cut/vid38_61.npy	5
+Cover Drive/vid460_5.npy	0
+Lofted Legside/vid138_33.npy	6
+Scoop/vid13_11.npy	10
+Cover Drive/vid308_1.npy	0
+Late Cut/vid386_21.npy	5
+Sweep/vid110_6.npy	13
+Square Cut/vid245_4.npy	11
+Down The Wicket/vid292_17.npy	2
+Square Cut/vid15_0.npy	11
+Upper Cut/vid483_41.npy	14
+Lofted Offside/vid476_18.npy	7
+Lofted Offside/vid85_15.npy	7
+Sweep/vid534_24.npy	13
+Square Cut/vid437_3.npy	11
+Scoop/vid521_78.npy	10
+Lofted Offside/vid519_70.npy	7
+Lofted Legside/vid321_2.npy	6
+Flick/vid105_2.npy	3
+Hook/vid362_58.npy	4
+Pull/vid205_71.npy	8
+Down The Wicket/vid266_1.npy	2
+Reverse Sweep/vid393_16.npy	9
+Cover Drive/vid433_23.npy	0
+Down The Wicket/vid215_45.npy	2
+Lofted Legside/vid25_49.npy	6
+Square Cut/vid65_6.npy	11
+Lofted Offside/vid510_13.npy	7
+Cover Drive/vid453_4.npy	0
+Defensive/vid420_19.npy	1
+Sweep/vid45_52.npy	13
+Lofted Legside/vid138_27.npy	6
+Cover Drive/vid357_22.npy	0
+Sweep/vid358_12.npy	13
+Lofted Legside/vid373_15.npy	6
+Lofted Legside/vid374_48.npy	6
+Square Cut/vid482_53.npy	11
+Lofted Legside/vid421_20.npy	6
+Flick/vid137_20.npy	3
+Hook/vid124_31.npy	4
+Late Cut/vid252_34.npy	5
+Square Cut/vid340_19.npy	11
+Lofted Legside/vid372_2.npy	6
+Late Cut/vid13_47.npy	5
+Sweep/vid466_14.npy	13
+Reverse Sweep/vid494_26.npy	9
+Late Cut/vid517_54.npy	5
+Lofted Offside/vid93_38.npy	7
+Lofted Offside/vid335_12.npy	7
+Flick/vid238_42.npy	3
+Lofted Offside/vid337_32.npy	7
+Sweep/vid6_16.npy	13
+Lofted Legside/vid93_64.npy	6
+Square Cut/vid439_53.npy	11
+Lofted Offside/vid253_45.npy	7
+Flick/vid237_17.npy	3
+Square Cut/vid204_31.npy	11
+Cover Drive/vid224_12.npy	0
+Pull/vid361_17.npy	8
+Square Cut/vid245_5.npy	11
+Cover Drive/vid21_5.npy	0
+Flick/vid79_0.npy	3
+Cover Drive/vid229_42.npy	0
+Cover Drive/vid12_26.npy	0
+Defensive/vid123_29.npy	1
+Square Cut/vid256_3.npy	11
+Lofted Offside/vid528_8.npy	7
+Lofted Offside/vid260_4.npy	7
+Flick/vid493_26.npy	3
+Sweep/vid327_6.npy	13
+Sweep/vid334_12.npy	13
+Late Cut/vid533_27.npy	5
+Cover Drive/vid59_11.npy	0
+Hook/vid74_4.npy	4
+Down The Wicket/vid274_4.npy	2
+Straight Drive/vid245_45.npy	12
+Defensive/vid146_8.npy	1
+Hook/vid255_35.npy	4
+Defensive/vid184_5.npy	1
+Down The Wicket/vid270_15.npy	2
+Scoop/vid504_15.npy	10
+Defensive/vid153_14.npy	1
+Scoop/vid373_2.npy	10
+Scoop/vid60_59.npy	10
+Lofted Legside/vid68_10.npy	6
+Square Cut/vid121_18.npy	11
+Flick/vid136_22.npy	3
+Upper Cut/vid129_13.npy	14
+Down The Wicket/vid94_53.npy	2
+Cover Drive/vid15_27.npy	0
+Flick/vid142_2.npy	3
+Down The Wicket/vid528_52.npy	2
+Flick/vid409_4.npy	3
+Pull/vid499_27.npy	8
+Lofted Offside/vid353_23.npy	7
+Defensive/vid56_5.npy	1
+Lofted Offside/vid522_71.npy	7
+Down The Wicket/vid27_3.npy	2
+Lofted Offside/vid368_1.npy	7
+Flick/vid132_2.npy	3
+Sweep/vid42_30.npy	13
+Upper Cut/vid527_4.npy	14
+Down The Wicket/vid134_26.npy	2
+Sweep/vid487_11.npy	13
+Straight Drive/vid321_23.npy	12
+Straight Drive/vid523_5.npy	12
+Lofted Legside/vid34_46.npy	6
+Hook/vid209_44.npy	4
+Square Cut/vid244_33.npy	11
+Lofted Legside/vid138_8.npy	6
+Lofted Offside/vid9_15.npy	7
+Lofted Legside/vid476_21.npy	6
+Straight Drive/vid529_38.npy	12
+Defensive/vid229_1.npy	1
+Defensive/vid306_0.npy	1
+Cover Drive/vid236_22.npy	0
+Lofted Offside/vid344_60.npy	7
+Straight Drive/vid110_7.npy	12
+Cover Drive/vid136_8.npy	0
+Hook/vid167_16.npy	4
+Square Cut/vid245_53.npy	11
+Lofted Legside/vid97_14.npy	6
+Sweep/vid527_69.npy	13
+Flick/vid208_2.npy	3
+Down The Wicket/vid228_40.npy	2
+Late Cut/vid440_25.npy	5
+Pull/vid510_32.npy	8
+Sweep/vid439_16.npy	13
+Defensive/vid142_18.npy	1
+Defensive/vid153_16.npy	1
+Lofted Legside/vid517_68.npy	6
+Hook/vid155_26.npy	4
+Square Cut/vid2_3.npy	11
+Lofted Legside/vid300_14.npy	6
+Square Cut/vid379_30.npy	11
+Pull/vid458_29.npy	8
+Square Cut/vid535_54.npy	11
+Hook/vid375_52.npy	4
+Sweep/vid50_26.npy	13
+Upper Cut/vid385_27.npy	14
+Lofted Legside/vid59_13.npy	6
+Down The Wicket/vid200_15.npy	2
+Lofted Legside/vid494_32.npy	6
+Down The Wicket/vid236_38.npy	2
+Sweep/vid51_18.npy	13
+Defensive/vid464_0.npy	1
+Pull/vid68_41.npy	8
+Square Cut/vid112_4.npy	11
+Lofted Legside/vid488_26.npy	6
+Lofted Legside/vid59_43.npy	6
+Sweep/vid187_33.npy	13
+Square Cut/vid318_13.npy	11
+Defensive/vid371_2.npy	1
+Defensive/vid410_4.npy	1
+Cover Drive/vid341_0.npy	0
+Down The Wicket/vid230_28.npy	2
+Square Cut/vid91_45.npy	11
+Pull/vid467_17.npy	8
+Reverse Sweep/vid183_19.npy	9
+Flick/vid440_47.npy	3
+Flick/vid220_7.npy	3
+Sweep/vid375_43.npy	13
+Square Cut/vid146_26.npy	11
+Lofted Offside/vid135_18.npy	7
+Reverse Sweep/vid392_24.npy	9
+Flick/vid392_28.npy	3
+Down The Wicket/vid216_3.npy	2
+Sweep/vid405_11.npy	13
+Square Cut/vid429_32.npy	11
+Square Cut/vid4_1.npy	11
+Cover Drive/vid448_18.npy	0
+Square Cut/vid388_35.npy	11
+Square Cut/vid63_23.npy	11
+Straight Drive/vid521_29.npy	12
+Lofted Legside/vid108_16.npy	6
+Straight Drive/vid160_0.npy	12
+Lofted Offside/vid80_2.npy	7
+Flick/vid110_18.npy	3
+Flick/vid360_8.npy	3
+Upper Cut/vid171_5.npy	14
+Lofted Legside/vid331_26.npy	6
+Sweep/vid393_41.npy	13
+Cover Drive/vid97_10.npy	0
+Upper Cut/vid213_14.npy	14
+Lofted Legside/vid451_30.npy	6
+Square Cut/vid129_4.npy	11
+Scoop/vid360_12.npy	10
+Sweep/vid358_11.npy	13
+Upper Cut/vid132_13.npy	14
+Lofted Offside/vid2_10.npy	7
+Lofted Legside/vid482_48.npy	6
+Flick/vid382_17.npy	3
+Lofted Legside/vid382_39.npy	6
+Flick/vid42_21.npy	3
+Down The Wicket/vid9_27.npy	2
+Pull/vid43_20.npy	8
+Lofted Legside/vid529_75.npy	6
+Down The Wicket/vid1_35.npy	2
+Cover Drive/vid466_28.npy	0
+Lofted Legside/vid502_34.npy	6
+Defensive/vid217_1.npy	1
+Pull/vid242_24.npy	8
+Straight Drive/vid299_1.npy	12
+Hook/vid246_30.npy	4
+Lofted Offside/vid474_6.npy	7
+Lofted Legside/vid370_35.npy	6
+Lofted Legside/vid384_76.npy	6
+Lofted Legside/vid420_29.npy	6
+Lofted Legside/vid502_32.npy	6
+Lofted Legside/vid344_14.npy	6
+Lofted Offside/vid427_26.npy	7
+Sweep/vid408_9.npy	13
+Lofted Offside/vid363_57.npy	7
+Cover Drive/vid345_3.npy	0
+Cover Drive/vid38_48.npy	0
+Sweep/vid227_38.npy	13
+Down The Wicket/vid408_1.npy	2
+Flick/vid479_0.npy	3
+Lofted Offside/vid327_17.npy	7
+Square Cut/vid227_11.npy	11
+Down The Wicket/vid466_8.npy	2
+Late Cut/vid55_0.npy	5
+Defensive/vid243_23.npy	1
+Lofted Offside/vid311_3.npy	7
+Upper Cut/vid141_3.npy	14
+Pull/vid382_42.npy	8
+Lofted Legside/vid529_44.npy	6
+Hook/vid360_62.npy	4
+Lofted Offside/vid524_12.npy	7
+Hook/vid115_26.npy	4
+Lofted Offside/vid254_10.npy	7
+Lofted Legside/vid65_48.npy	6
+Flick/vid128_4.npy	3
+Down The Wicket/vid367_6.npy	2
+Sweep/vid144_6.npy	13
+Down The Wicket/vid463_9.npy	2
+Pull/vid473_53.npy	8
+Sweep/vid512_35.npy	13
+Hook/vid356_62.npy	4
+Defensive/vid226_13.npy	1
+Lofted Legside/vid305_1.npy	6
+Sweep/vid374_6.npy	13
+Upper Cut/vid271_13.npy	14
+Lofted Offside/vid361_65.npy	7
+Down The Wicket/vid293_17.npy	2
+Lofted Legside/vid529_34.npy	6
+Reverse Sweep/vid404_2.npy	9
+Lofted Offside/vid463_20.npy	7
+Lofted Legside/vid130_20.npy	6
+Lofted Offside/vid259_39.npy	7
+Straight Drive/vid380_16.npy	12
+Down The Wicket/vid78_28.npy	2
+Lofted Legside/vid333_10.npy	6
+Lofted Legside/vid483_17.npy	6
+Lofted Legside/vid90_50.npy	6
+Defensive/vid247_37.npy	1
+Lofted Offside/vid83_19.npy	7
+Flick/vid199_11.npy	3
+Flick/vid421_0.npy	3
+Scoop/vid529_73.npy	10
+Lofted Offside/vid438_24.npy	7
+Pull/vid40_3.npy	8
+Hook/vid511_49.npy	4
+Upper Cut/vid115_12.npy	14
+Flick/vid522_24.npy	3
+Reverse Sweep/vid370_39.npy	9
+Down The Wicket/vid451_33.npy	2
+Lofted Legside/vid138_11.npy	6
+Flick/vid236_12.npy	3
+Flick/vid218_25.npy	3
+Square Cut/vid12_45.npy	11
+Down The Wicket/vid89_58.npy	2
+Hook/vid140_8.npy	4
+Lofted Offside/vid51_47.npy	7
+Straight Drive/vid450_38.npy	12
+Lofted Legside/vid265_15.npy	6
+Sweep/vid499_6.npy	13
+Lofted Offside/vid476_15.npy	7
+Flick/vid39_54.npy	3
+Straight Drive/vid163_17.npy	12
+Pull/vid160_34.npy	8
+Upper Cut/vid148_3.npy	14
+Straight Drive/vid316_15.npy	12
+Defensive/vid1_31.npy	1
+Down The Wicket/vid76_22.npy	2
+Sweep/vid349_14.npy	13
+Down The Wicket/vid211_33.npy	2
+Scoop/vid462_45.npy	10
+Cover Drive/vid358_41.npy	0
+Sweep/vid16_11.npy	13
+Sweep/vid448_45.npy	13
+Lofted Offside/vid515_31.npy	7
+Cover Drive/vid242_17.npy	0
+Cover Drive/vid450_18.npy	0
+Sweep/vid517_18.npy	13
+Lofted Offside/vid458_33.npy	7
+Down The Wicket/vid231_28.npy	2
+Upper Cut/vid377_14.npy	14
+Lofted Offside/vid385_36.npy	7
+Lofted Legside/vid470_18.npy	6
+Reverse Sweep/vid518_14.npy	9
+Flick/vid447_1.npy	3
+Square Cut/vid533_67.npy	11
+Square Cut/vid296_34.npy	11
+Square Cut/vid490_6.npy	11
+Flick/vid447_32.npy	3
+Square Cut/vid496_6.npy	11
+Cover Drive/vid250_7.npy	0
+Pull/vid53_53.npy	8
+Sweep/vid400_17.npy	13
+Sweep/vid203_61.npy	13
+Late Cut/vid480_37.npy	5
+Late Cut/vid435_42.npy	5
+Straight Drive/vid218_23.npy	12
+Flick/vid380_39.npy	3
+Cover Drive/vid379_3.npy	0
+Hook/vid80_0.npy	4
+Square Cut/vid151_37.npy	11
+Lofted Legside/vid17_6.npy	6
+Lofted Offside/vid465_39.npy	7
+Cover Drive/vid232_17.npy	0
+Sweep/vid440_12.npy	13
+Hook/vid530_47.npy	4
+Hook/vid77_39.npy	4
+Down The Wicket/vid87_37.npy	2
+Sweep/vid459_10.npy	13
+Lofted Offside/vid472_24.npy	7
+Reverse Sweep/vid519_65.npy	9
+Straight Drive/vid430_1.npy	12
+Flick/vid385_10.npy	3
+Cover Drive/vid521_14.npy	0
+Square Cut/vid529_23.npy	11
+Flick/vid313_38.npy	3
+Lofted Legside/vid453_51.npy	6
+Down The Wicket/vid443_65.npy	2
+Flick/vid238_27.npy	3
+Hook/vid442_28.npy	4
+Lofted Offside/vid514_38.npy	7
+Lofted Legside/vid447_40.npy	6
+Down The Wicket/vid380_25.npy	2
+Cover Drive/vid310_1.npy	0
+Defensive/vid308_0.npy	1
+Scoop/vid68_34.npy	10
+Flick/vid170_6.npy	3
+Lofted Legside/vid473_7.npy	6
+Sweep/vid453_22.npy	13
+Flick/vid239_6.npy	3
+Hook/vid40_58.npy	4
+Down The Wicket/vid279_11.npy	2
+Scoop/vid393_46.npy	10
+Cover Drive/vid457_3.npy	0
+Flick/vid479_10.npy	3
+Cover Drive/vid355_13.npy	0
+Square Cut/vid148_27.npy	11
+Sweep/vid44_38.npy	13
+Lofted Offside/vid141_17.npy	7
+Flick/vid439_58.npy	3
+Sweep/vid400_6.npy	13
+Lofted Offside/vid370_55.npy	7
+Upper Cut/vid382_24.npy	14
+Upper Cut/vid166_0.npy	14
+Pull/vid91_31.npy	8
+Reverse Sweep/vid29_5.npy	9
+Cover Drive/vid121_13.npy	0
+Late Cut/vid86_56.npy	5
+Sweep/vid9_9.npy	13
+Lofted Offside/vid290_5.npy	7
+Square Cut/vid133_20.npy	11
+Sweep/vid369_58.npy	13
+Square Cut/vid503_8.npy	11
+Scoop/vid167_34.npy	10
+Down The Wicket/vid50_55.npy	2
+Late Cut/vid452_47.npy	5
+Down The Wicket/vid337_41.npy	2
+Square Cut/vid229_22.npy	11
+Square Cut/vid140_32.npy	11
+Lofted Legside/vid115_5.npy	6
+Square Cut/vid215_46.npy	11
+Scoop/vid100_68.npy	10
+Late Cut/vid510_7.npy	5
+Sweep/vid208_26.npy	13
+Defensive/vid516_3.npy	1
+Flick/vid368_39.npy	3
+Sweep/vid484_8.npy	13
+Upper Cut/vid535_37.npy	14
+Pull/vid1_32.npy	8
+Square Cut/vid154_34.npy	11
+Sweep/vid350_3.npy	13
+Lofted Offside/vid346_3.npy	7
+Reverse Sweep/vid486_15.npy	9
+Hook/vid517_13.npy	4
+Sweep/vid136_26.npy	13
+Sweep/vid172_10.npy	13
+Defensive/vid171_0.npy	1
+Sweep/vid441_4.npy	13
+Lofted Legside/vid42_27.npy	6
+Sweep/vid402_8.npy	13
+Square Cut/vid384_75.npy	11
+Hook/vid28_53.npy	4
+Square Cut/vid465_28.npy	11
+Defensive/vid147_18.npy	1
+Flick/vid141_1.npy	3
+Lofted Offside/vid514_45.npy	7
+Flick/vid159_0.npy	3
+Lofted Legside/vid434_60.npy	6
+Cover Drive/vid392_2.npy	0
+Upper Cut/vid530_33.npy	14
+Square Cut/vid522_39.npy	11
+Lofted Legside/vid80_27.npy	6
+Cover Drive/vid527_53.npy	0
+Down The Wicket/vid169_18.npy	2
+Late Cut/vid497_11.npy	5
+Lofted Legside/vid519_1.npy	6
+Defensive/vid237_43.npy	1
+Flick/vid113_14.npy	3
+Flick/vid391_56.npy	3
+Down The Wicket/vid391_17.npy	2
+Lofted Legside/vid461_22.npy	6
+Lofted Legside/vid81_25.npy	6
+Pull/vid442_40.npy	8
+Flick/vid34_4.npy	3
+Scoop/vid532_52.npy	10
+Down The Wicket/vid217_34.npy	2
+Scoop/vid384_86.npy	10
+Pull/vid92_31.npy	8
+Late Cut/vid265_17.npy	5
+Upper Cut/vid191_13.npy	14
+Defensive/vid434_25.npy	1
+Lofted Offside/vid496_1.npy	7
+Lofted Legside/vid519_0.npy	6
+Cover Drive/vid249_16.npy	0
+Down The Wicket/vid450_25.npy	2
+Square Cut/vid389_40.npy	11
+Down The Wicket/vid511_43.npy	2
+Square Cut/vid299_14.npy	11
+Defensive/vid205_93.npy	1
+Flick/vid13_29.npy	3
+Cover Drive/vid439_1.npy	0
+Square Cut/vid498_31.npy	11
+Square Cut/vid111_7.npy	11
+Down The Wicket/vid428_51.npy	2
+Late Cut/vid433_52.npy	5
+Cover Drive/vid31_29.npy	0
+Upper Cut/vid149_12.npy	14
+Lofted Legside/vid314_7.npy	6
+Cover Drive/vid102_20.npy	0
+Defensive/vid520_18.npy	1
+Flick/vid102_12.npy	3
+Flick/vid469_28.npy	3
+Sweep/vid354_4.npy	13
+Flick/vid223_10.npy	3
+Sweep/vid68_37.npy	13
+Sweep/vid50_29.npy	13
+Cover Drive/vid299_21.npy	0
+Cover Drive/vid4_10.npy	0
+Reverse Sweep/vid483_49.npy	9
+Cover Drive/vid295_9.npy	0
+Lofted Offside/vid385_49.npy	7
+Hook/vid526_42.npy	4
+Square Cut/vid436_9.npy	11
+Lofted Legside/vid211_28.npy	6
+Defensive/vid409_12.npy	1
+Square Cut/vid360_50.npy	11
+Square Cut/vid187_2.npy	11
+Square Cut/vid51_5.npy	11
+Square Cut/vid130_4.npy	11
+Lofted Offside/vid56_51.npy	7
+Scoop/vid526_55.npy	10
+Cover Drive/vid464_29.npy	0
+Square Cut/vid162_44.npy	11
+Lofted Offside/vid335_22.npy	7
+Flick/vid121_49.npy	3
+Pull/vid439_30.npy	8
+Square Cut/vid70_6.npy	11
+Cover Drive/vid182_18.npy	0
+Square Cut/vid144_2.npy	11
+Flick/vid215_3.npy	3
+Down The Wicket/vid527_3.npy	2
+Lofted Legside/vid330_30.npy	6
+Lofted Legside/vid365_80.npy	6
+Down The Wicket/vid327_42.npy	2
+Hook/vid164_7.npy	4
+Sweep/vid504_21.npy	13
+Cover Drive/vid236_9.npy	0
+Square Cut/vid249_42.npy	11
+Upper Cut/vid155_16.npy	14
+Down The Wicket/vid183_1.npy	2
+Lofted Legside/vid124_23.npy	6
+Straight Drive/vid303_1.npy	12
+Pull/vid380_50.npy	8
+Down The Wicket/vid394_8.npy	2
+Sweep/vid464_13.npy	13
+Upper Cut/vid172_26.npy	14
+Defensive/vid245_23.npy	1
+Reverse Sweep/vid28_40.npy	9
+Cover Drive/vid303_20.npy	0
+Down The Wicket/vid341_16.npy	2
+Down The Wicket/vid182_12.npy	2
+Hook/vid498_14.npy	4
+Lofted Offside/vid94_41.npy	7
+Down The Wicket/vid30_11.npy	2
+Lofted Legside/vid341_21.npy	6
+Square Cut/vid101_26.npy	11
+Flick/vid460_10.npy	3
+Square Cut/vid210_31.npy	11
+Pull/vid93_10.npy	8
+Defensive/vid100_77.npy	1
+Defensive/vid458_14.npy	1
+Sweep/vid63_6.npy	13
+Lofted Offside/vid340_13.npy	7
+Sweep/vid176_5.npy	13
+Straight Drive/vid312_21.npy	12
+Square Cut/vid130_3.npy	11
+Late Cut/vid70_20.npy	5
+Down The Wicket/vid468_5.npy	2
+Square Cut/vid506_17.npy	11
+Defensive/vid296_20.npy	1
+Flick/vid443_58.npy	3
+Cover Drive/vid40_17.npy	0
+Cover Drive/vid295_3.npy	0
+Lofted Legside/vid55_39.npy	6
+Sweep/vid482_14.npy	13
+Lofted Legside/vid416_12.npy	6
+Straight Drive/vid31_30.npy	12
+Late Cut/vid526_67.npy	5
+Lofted Legside/vid518_3.npy	6
+Lofted Offside/vid472_62.npy	7
+Straight Drive/vid478_10.npy	12
+Square Cut/vid357_79.npy	11
+Sweep/vid453_2.npy	13
+Square Cut/vid92_4.npy	11
+Defensive/vid249_49.npy	1
+Cover Drive/vid245_17.npy	0
+Lofted Offside/vid360_69.npy	7
+Cover Drive/vid137_6.npy	0
+Lofted Offside/vid77_21.npy	7
+Flick/vid509_32.npy	3
+Flick/vid323_5.npy	3
+Down The Wicket/vid65_50.npy	2
+Lofted Offside/vid130_2.npy	7
+Lofted Legside/vid158_30.npy	6
+Late Cut/vid517_1.npy	5
+Lofted Offside/vid45_38.npy	7
+Defensive/vid293_0.npy	1
+Straight Drive/vid116_2.npy	12
+Defensive/vid213_8.npy	1
+Lofted Legside/vid261_6.npy	6
+Down The Wicket/vid464_32.npy	2
+Pull/vid384_61.npy	8
+Sweep/vid253_6.npy	13
+Lofted Legside/vid108_12.npy	6
+Lofted Offside/vid357_37.npy	7
+Flick/vid106_13.npy	3
+Square Cut/vid358_57.npy	11
+Straight Drive/vid135_6.npy	12
+Square Cut/vid393_50.npy	11
+Defensive/vid239_7.npy	1
+Square Cut/vid249_24.npy	11
+Hook/vid77_18.npy	4
+Pull/vid528_27.npy	8
+Scoop/vid393_49.npy	10
+Hook/vid481_42.npy	4
+Down The Wicket/vid437_13.npy	2
+Flick/vid366_20.npy	3
+Cover Drive/vid321_15.npy	0
+Square Cut/vid536_34.npy	11
+Lofted Legside/vid488_51.npy	6
+Defensive/vid239_9.npy	1
+Pull/vid429_11.npy	8
+Square Cut/vid388_30.npy	11
+Down The Wicket/vid73_21.npy	2
+Square Cut/vid367_55.npy	11
+Lofted Legside/vid518_40.npy	6
+Lofted Offside/vid82_11.npy	7
+Lofted Legside/vid2_40.npy	6
+Straight Drive/vid286_1.npy	12
+Scoop/vid430_26.npy	10
+Sweep/vid524_18.npy	13
+Flick/vid333_22.npy	3
+Lofted Legside/vid444_53.npy	6
+Down The Wicket/vid437_17.npy	2
+Reverse Sweep/vid116_10.npy	9
+Sweep/vid454_29.npy	13
+Hook/vid239_27.npy	4
+Square Cut/vid92_38.npy	11
+Square Cut/vid186_0.npy	11
+Lofted Legside/vid437_8.npy	6
+Lofted Offside/vid514_63.npy	7
+Square Cut/vid366_42.npy	11
+Hook/vid497_24.npy	4
+Defensive/vid296_11.npy	1
+Straight Drive/vid36_8.npy	12
+Cover Drive/vid439_31.npy	0
+Pull/vid138_16.npy	8
+Upper Cut/vid495_31.npy	14
+Lofted Offside/vid533_23.npy	7
+Lofted Offside/vid532_8.npy	7
+Pull/vid507_21.npy	8
+Late Cut/vid390_8.npy	5
+Lofted Offside/vid377_35.npy	7
+Flick/vid499_28.npy	3
+Reverse Sweep/vid254_5.npy	9
+Lofted Legside/vid391_7.npy	6
+Cover Drive/vid492_9.npy	0
+Lofted Offside/vid367_7.npy	7
+Down The Wicket/vid459_3.npy	2
+Cover Drive/vid360_57.npy	0
+Flick/vid95_19.npy	3
+Hook/vid384_41.npy	4
+Lofted Offside/vid324_41.npy	7
+Square Cut/vid63_0.npy	11
+Square Cut/vid215_35.npy	11
+Lofted Offside/vid2_41.npy	7
+Sweep/vid445_58.npy	13
+Pull/vid434_65.npy	8
+Hook/vid209_33.npy	4
+Pull/vid28_61.npy	8
+Reverse Sweep/vid92_6.npy	9
+Down The Wicket/vid436_58.npy	2
+Sweep/vid174_25.npy	13
+Square Cut/vid489_51.npy	11
+Square Cut/vid38_65.npy	11
+Lofted Legside/vid529_14.npy	6
+Hook/vid326_12.npy	4
+Flick/vid484_17.npy	3
+Down The Wicket/vid73_18.npy	2
+Flick/vid305_3.npy	3
+Lofted Legside/vid465_26.npy	6
+Defensive/vid155_12.npy	1
+Upper Cut/vid101_29.npy	14
+Lofted Offside/vid2_11.npy	7
+Lofted Legside/vid468_11.npy	6
+Pull/vid435_23.npy	8
+Down The Wicket/vid186_8.npy	2
+Defensive/vid159_15.npy	1
+Down The Wicket/vid70_21.npy	2
+Lofted Legside/vid388_52.npy	6
+Lofted Legside/vid482_66.npy	6
+Late Cut/vid215_14.npy	5
+Down The Wicket/vid30_14.npy	2
+Cover Drive/vid315_27.npy	0
+Lofted Offside/vid56_49.npy	7
+Lofted Legside/vid434_18.npy	6
+Cover Drive/vid239_29.npy	0
+Lofted Offside/vid184_1.npy	7
+Defensive/vid223_9.npy	1
+Lofted Offside/vid384_11.npy	7
+Square Cut/vid155_13.npy	11
+Sweep/vid524_45.npy	13
+Sweep/vid51_9.npy	13
+Flick/vid438_3.npy	3
+Hook/vid10_41.npy	4
+Lofted Legside/vid118_23.npy	6
+Defensive/vid312_19.npy	1
+Flick/vid345_2.npy	3
+Down The Wicket/vid355_36.npy	2
+Cover Drive/vid390_28.npy	0
+Lofted Offside/vid362_8.npy	7
+Sweep/vid483_26.npy	13
+Square Cut/vid522_34.npy	11
+Cover Drive/vid366_61.npy	0
+Down The Wicket/vid463_39.npy	2
+Pull/vid75_24.npy	8
+Square Cut/vid220_18.npy	11
+Defensive/vid248_24.npy	1
+Down The Wicket/vid470_29.npy	2
+Defensive/vid229_35.npy	1
+Hook/vid464_44.npy	4
+Square Cut/vid320_14.npy	11
+Lofted Offside/vid482_31.npy	7
+Pull/vid384_59.npy	8
+Late Cut/vid240_57.npy	5
+Defensive/vid25_2.npy	1
+Lofted Offside/vid216_44.npy	7
+Down The Wicket/vid271_5.npy	2
+Lofted Legside/vid369_48.npy	6
+Pull/vid394_19.npy	8
+Cover Drive/vid518_34.npy	0
+Lofted Legside/vid21_31.npy	6
+Flick/vid252_6.npy	3
+Lofted Legside/vid224_47.npy	6
+Lofted Legside/vid42_26.npy	6
+Pull/vid14_51.npy	8
+Reverse Sweep/vid20_0.npy	9
+Upper Cut/vid232_23.npy	14
+Scoop/vid92_45.npy	10
+Pull/vid472_46.npy	8
+Late Cut/vid3_10.npy	5
+Down The Wicket/vid49_52.npy	2
+Down The Wicket/vid110_33.npy	2
+Cover Drive/vid388_19.npy	0
+Pull/vid93_3.npy	8
+Cover Drive/vid129_8.npy	0
+Sweep/vid278_1.npy	13
+Late Cut/vid23_19.npy	5
+Sweep/vid175_7.npy	13
+Pull/vid450_40.npy	8
+Square Cut/vid507_28.npy	11
+Sweep/vid70_3.npy	13
+Sweep/vid68_9.npy	13
+Lofted Legside/vid527_5.npy	6
+Straight Drive/vid137_7.npy	12
+Square Cut/vid375_4.npy	11
+Lofted Legside/vid486_9.npy	6
+Lofted Legside/vid172_13.npy	6
+Flick/vid517_47.npy	3
+Sweep/vid80_7.npy	13
+Lofted Legside/vid394_1.npy	6
+Square Cut/vid245_21.npy	11
+Lofted Offside/vid40_69.npy	7
+Cover Drive/vid361_51.npy	0
+Straight Drive/vid488_2.npy	12
+Hook/vid298_28.npy	4
+Down The Wicket/vid165_12.npy	2
+Pull/vid430_34.npy	8
+Down The Wicket/vid130_33.npy	2
+Lofted Legside/vid185_7.npy	6
+Cover Drive/vid442_2.npy	0
+Pull/vid80_33.npy	8
+Lofted Offside/vid358_56.npy	7
+Lofted Legside/vid384_38.npy	6
+Flick/vid521_22.npy	3
+Lofted Legside/vid356_47.npy	6
+Square Cut/vid210_5.npy	11
+Sweep/vid340_15.npy	13
+Lofted Legside/vid524_39.npy	6
+Down The Wicket/vid23_17.npy	2
+Hook/vid335_23.npy	4
+Defensive/vid209_37.npy	1
+Late Cut/vid88_28.npy	5
+Lofted Offside/vid357_20.npy	7
+Square Cut/vid387_9.npy	11
+Lofted Offside/vid329_18.npy	7
+Straight Drive/vid308_3.npy	12
+Pull/vid441_51.npy	8
+Sweep/vid279_13.npy	13
+Pull/vid86_11.npy	8
+Lofted Offside/vid482_60.npy	7
+Flick/vid432_32.npy	3
+Lofted Offside/vid439_35.npy	7
+Flick/vid504_0.npy	3
+Straight Drive/vid499_19.npy	12
+Square Cut/vid524_35.npy	11
+Flick/vid470_6.npy	3
+Flick/vid42_35.npy	3
+Lofted Legside/vid503_36.npy	6
+Down The Wicket/vid23_27.npy	2
+Straight Drive/vid179_2.npy	12
+Lofted Offside/vid215_18.npy	7
+Square Cut/vid297_35.npy	11
+Lofted Offside/vid385_46.npy	7
+Cover Drive/vid223_19.npy	0
+Square Cut/vid78_27.npy	11
+Straight Drive/vid426_38.npy	12
+Pull/vid220_24.npy	8
+Lofted Legside/vid8_16.npy	6
+Lofted Legside/vid34_34.npy	6
+Sweep/vid526_8.npy	13
+Lofted Legside/vid482_30.npy	6
+Hook/vid100_40.npy	4
+Hook/vid356_43.npy	4
+Sweep/vid421_8.npy	13
+Upper Cut/vid253_44.npy	14
+Flick/vid379_39.npy	3
+Pull/vid381_5.npy	8
+Straight Drive/vid510_5.npy	12
+Square Cut/vid502_10.npy	11
+Straight Drive/vid442_37.npy	12
+Down The Wicket/vid95_3.npy	2
+Reverse Sweep/vid391_31.npy	9
+Square Cut/vid506_11.npy	11
+Down The Wicket/vid473_31.npy	2
+Hook/vid512_20.npy	4
+Square Cut/vid248_49.npy	11
+Sweep/vid2_36.npy	13
+Straight Drive/vid496_4.npy	12
+Hook/vid105_22.npy	4
+Flick/vid314_9.npy	3
+Upper Cut/vid50_53.npy	14
+Square Cut/vid436_33.npy	11
+Flick/vid110_34.npy	3
+Late Cut/vid9_32.npy	5
+Flick/vid510_20.npy	3
+Pull/vid462_23.npy	8
+Cover Drive/vid221_18.npy	0
+Lofted Legside/vid447_22.npy	6
+Defensive/vid18_0.npy	1
+Down The Wicket/vid354_5.npy	2
+Defensive/vid495_25.npy	1
+Flick/vid133_13.npy	3
+Hook/vid391_34.npy	4
+Sweep/vid324_18.npy	13
+Defensive/vid218_22.npy	1
+Square Cut/vid91_1.npy	11
+Pull/vid379_42.npy	8
+Lofted Offside/vid454_16.npy	7
+Lofted Offside/vid505_31.npy	7
+Hook/vid363_21.npy	4
+Defensive/vid299_5.npy	1
+Lofted Legside/vid389_67.npy	6
+Defensive/vid316_4.npy	1
+Square Cut/vid294_26.npy	11
+Flick/vid226_24.npy	3
+Flick/vid368_21.npy	3
+Lofted Offside/vid366_53.npy	7
+Down The Wicket/vid71_5.npy	2
+Cover Drive/vid438_28.npy	0
+Lofted Legside/vid2_46.npy	6
+Upper Cut/vid536_45.npy	14
+Hook/vid488_31.npy	4
+Lofted Offside/vid100_30.npy	7
+Lofted Legside/vid527_74.npy	6
+Lofted Legside/vid377_11.npy	6
+Upper Cut/vid107_29.npy	14
+Lofted Offside/vid511_30.npy	7
+Lofted Offside/vid160_29.npy	7
+Lofted Legside/vid37_34.npy	6
+Late Cut/vid464_14.npy	5
+Scoop/vid381_0.npy	10
+Lofted Offside/vid388_9.npy	7
+Lofted Offside/vid398_15.npy	7
+Cover Drive/vid128_1.npy	0
+Sweep/vid93_58.npy	13
+Flick/vid516_71.npy	3
+Lofted Legside/vid51_3.npy	6
+Sweep/vid113_24.npy	13
+Upper Cut/vid276_10.npy	14
+Hook/vid257_8.npy	4
+Defensive/vid146_7.npy	1
+Straight Drive/vid485_36.npy	12
+Down The Wicket/vid454_28.npy	2
+Defensive/vid304_16.npy	1
+Pull/vid102_37.npy	8
+Flick/vid378_5.npy	3
+Lofted Legside/vid358_59.npy	6
+Down The Wicket/vid115_27.npy	2
+Pull/vid107_23.npy	8
+Lofted Legside/vid127_24.npy	6
+Lofted Legside/vid357_26.npy	6
+Hook/vid364_25.npy	4
+Flick/vid244_21.npy	3
+Lofted Legside/vid330_13.npy	6
+Flick/vid177_26.npy	3
+Lofted Offside/vid503_41.npy	7
+Flick/vid33_18.npy	3
+Flick/vid532_32.npy	3
+Flick/vid463_14.npy	3
+Cover Drive/vid512_57.npy	0
+Square Cut/vid4_0.npy	11
+Pull/vid377_36.npy	8
+Sweep/vid120_7.npy	13
+Square Cut/vid122_25.npy	11
+Lofted Legside/vid505_16.npy	6
+Pull/vid445_27.npy	8
+Flick/vid238_15.npy	3
+Lofted Offside/vid360_20.npy	7
+Lofted Offside/vid356_24.npy	7
+Square Cut/vid331_20.npy	11
+Lofted Offside/vid426_47.npy	7
+Square Cut/vid100_4.npy	11
+Lofted Offside/vid494_27.npy	7
+Lofted Legside/vid424_29.npy	6
+Square Cut/vid211_0.npy	11
+Late Cut/vid486_62.npy	5
+Down The Wicket/vid467_33.npy	2
+Lofted Offside/vid160_25.npy	7
+Lofted Offside/vid249_31.npy	7
+Lofted Offside/vid370_50.npy	7
+Upper Cut/vid210_15.npy	14
+Lofted Offside/vid533_64.npy	7
+Straight Drive/vid102_5.npy	12
+Square Cut/vid330_6.npy	11
+Straight Drive/vid379_11.npy	12
+Lofted Legside/vid429_48.npy	6
+Lofted Offside/vid7_0.npy	7
+Down The Wicket/vid181_4.npy	2
+Cover Drive/vid299_8.npy	0
+Scoop/vid17_14.npy	10
+Square Cut/vid369_27.npy	11
+Sweep/vid400_19.npy	13
+Lofted Offside/vid485_21.npy	7
+Sweep/vid99_36.npy	13
+Defensive/vid526_2.npy	1
+Straight Drive/vid359_3.npy	12
+Flick/vid105_28.npy	3
+Upper Cut/vid146_4.npy	14
+Pull/vid260_33.npy	8
+Lofted Offside/vid74_18.npy	7
+Down The Wicket/vid132_4.npy	2
+Hook/vid519_24.npy	4
+Sweep/vid451_21.npy	13
+Scoop/vid516_58.npy	10
+Cover Drive/vid306_19.npy	0
+Sweep/vid531_38.npy	13
+Late Cut/vid367_9.npy	5
+Down The Wicket/vid457_5.npy	2
+Sweep/vid110_8.npy	13
+Hook/vid78_1.npy	4
+Pull/vid388_51.npy	8
+Down The Wicket/vid9_30.npy	2
+Pull/vid116_28.npy	8
+Scoop/vid475_33.npy	10
+Sweep/vid391_12.npy	13
+Cover Drive/vid295_10.npy	0
+Flick/vid313_29.npy	3
+Scoop/vid520_58.npy	10
+Lofted Legside/vid268_20.npy	6
+Sweep/vid57_14.npy	13
+Hook/vid142_32.npy	4
+Lofted Legside/vid290_10.npy	6
+Square Cut/vid411_21.npy	11
+Lofted Legside/vid216_42.npy	6
+Pull/vid227_14.npy	8
+Down The Wicket/vid99_41.npy	2
+Down The Wicket/vid98_37.npy	2
+Sweep/vid507_8.npy	13
+Down The Wicket/vid439_51.npy	2
+Down The Wicket/vid355_48.npy	2
+Down The Wicket/vid209_7.npy	2
+Upper Cut/vid178_4.npy	14
+Square Cut/vid81_10.npy	11
+Lofted Legside/vid377_37.npy	6
+Scoop/vid448_38.npy	10
+Sweep/vid456_14.npy	13
+Lofted Offside/vid186_12.npy	7
+Down The Wicket/vid67_25.npy	2
+Square Cut/vid156_9.npy	11
+Lofted Legside/vid375_26.npy	6
+Sweep/vid535_12.npy	13
+Lofted Legside/vid83_30.npy	6
+Flick/vid214_0.npy	3
+Lofted Offside/vid528_26.npy	7
+Hook/vid124_10.npy	4
+Flick/vid384_14.npy	3
+Late Cut/vid312_10.npy	5
+Defensive/vid381_1.npy	1
+Sweep/vid57_18.npy	13
+Square Cut/vid203_59.npy	11
+Lofted Legside/vid390_47.npy	6
+Down The Wicket/vid368_47.npy	2
+Square Cut/vid207_54.npy	11
+Cover Drive/vid180_9.npy	0
+Defensive/vid160_39.npy	1
+Flick/vid217_55.npy	3
+Down The Wicket/vid216_30.npy	2
+Cover Drive/vid430_47.npy	0
+Flick/vid125_21.npy	3
+Down The Wicket/vid330_22.npy	2
+Upper Cut/vid133_4.npy	14
+Pull/vid362_47.npy	8
+Late Cut/vid131_20.npy	5
+Down The Wicket/vid515_22.npy	2
+Square Cut/vid49_28.npy	11
+Flick/vid51_8.npy	3
+Flick/vid413_1.npy	3
+Down The Wicket/vid106_23.npy	2
+Hook/vid100_5.npy	4
+Flick/vid469_27.npy	3
+Flick/vid357_47.npy	3
+Cover Drive/vid6_18.npy	0
+Cover Drive/vid235_14.npy	0
+Lofted Legside/vid375_51.npy	6
+Sweep/vid100_21.npy	13
+Pull/vid432_26.npy	8
+Scoop/vid508_35.npy	10
+Flick/vid388_38.npy	3
+Lofted Legside/vid363_18.npy	6
+Hook/vid146_10.npy	4
+Down The Wicket/vid312_33.npy	2
+Defensive/vid146_37.npy	1
+Pull/vid482_62.npy	8
+Cover Drive/vid175_0.npy	0
+Upper Cut/vid80_18.npy	14
+Defensive/vid305_4.npy	1
+Cover Drive/vid118_22.npy	0
+Lofted Legside/vid33_25.npy	6
+Cover Drive/vid315_14.npy	0
+Down The Wicket/vid153_21.npy	2
+Lofted Legside/vid128_9.npy	6
+Flick/vid252_37.npy	3
+Lofted Legside/vid122_13.npy	6
+Straight Drive/vid136_14.npy	12
+Sweep/vid323_28.npy	13
+Late Cut/vid374_38.npy	5
+Sweep/vid471_42.npy	13
+Sweep/vid532_28.npy	13
+Straight Drive/vid247_19.npy	12
+Lofted Offside/vid412_8.npy	7
+Flick/vid441_8.npy	3
+Flick/vid483_20.npy	3
+Sweep/vid260_30.npy	13
+Lofted Offside/vid6_11.npy	7
+Flick/vid44_35.npy	3
+Square Cut/vid208_16.npy	11
+Flick/vid155_11.npy	3
+Square Cut/vid178_32.npy	11
+Cover Drive/vid255_33.npy	0
+Flick/vid296_5.npy	3
+Lofted Offside/vid434_27.npy	7
+Cover Drive/vid486_3.npy	0
+Sweep/vid31_34.npy	13
+Lofted Offside/vid398_23.npy	7
+Defensive/vid310_14.npy	1
+Down The Wicket/vid447_45.npy	2
+Late Cut/vid437_51.npy	5
+Lofted Legside/vid65_39.npy	6
+Hook/vid385_17.npy	4
+Scoop/vid234_40.npy	10
+Late Cut/vid511_2.npy	5
+Pull/vid506_30.npy	8
+Pull/vid76_27.npy	8
+Late Cut/vid429_34.npy	5
+Square Cut/vid123_0.npy	11
+Reverse Sweep/vid434_16.npy	9
+Lofted Offside/vid522_74.npy	7
+Upper Cut/vid119_3.npy	14
+Square Cut/vid23_36.npy	11
+Lofted Offside/vid449_4.npy	7
+Square Cut/vid253_49.npy	11
+Down The Wicket/vid13_43.npy	2
+Late Cut/vid360_66.npy	5
+Defensive/vid63_12.npy	1
+Sweep/vid476_27.npy	13
+Flick/vid422_15.npy	3
+Square Cut/vid212_11.npy	11
+Flick/vid130_1.npy	3
+Flick/vid529_25.npy	3
+Late Cut/vid158_8.npy	5
+Lofted Legside/vid517_30.npy	6
+Cover Drive/vid287_13.npy	0
+Pull/vid363_2.npy	8
+Sweep/vid485_41.npy	13
+Lofted Offside/vid515_7.npy	7
+Flick/vid155_22.npy	3
+Cover Drive/vid487_38.npy	0
+Down The Wicket/vid444_11.npy	2
+Square Cut/vid300_32.npy	11
+Square Cut/vid67_6.npy	11
+Pull/vid358_42.npy	8
+Lofted Offside/vid357_11.npy	7
+Cover Drive/vid531_57.npy	0
+Lofted Legside/vid489_26.npy	6
+Hook/vid83_15.npy	4
+Late Cut/vid3_24.npy	5
+Reverse Sweep/vid359_24.npy	9
+Hook/vid495_10.npy	4
+Lofted Offside/vid4_34.npy	7
+Down The Wicket/vid23_28.npy	2
+Down The Wicket/vid273_13.npy	2
+Sweep/vid118_24.npy	13
+Pull/vid507_40.npy	8
+Pull/vid150_2.npy	8
+Hook/vid509_7.npy	4
+Lofted Legside/vid25_18.npy	6
+Straight Drive/vid531_63.npy	12
+Square Cut/vid99_28.npy	11
+Lofted Offside/vid415_35.npy	7
+Lofted Legside/vid390_15.npy	6
+Pull/vid116_21.npy	8
+Hook/vid456_34.npy	4
+Down The Wicket/vid457_42.npy	2
+Cover Drive/vid238_10.npy	0
+Cover Drive/vid236_13.npy	0
+Sweep/vid422_38.npy	13
+Down The Wicket/vid333_38.npy	2
+Flick/vid334_5.npy	3
+Down The Wicket/vid343_5.npy	2
+Lofted Offside/vid320_28.npy	7
+Scoop/vid342_7.npy	10
+Square Cut/vid128_0.npy	11
+Lofted Offside/vid337_49.npy	7
+Lofted Legside/vid447_19.npy	6
+Lofted Legside/vid34_37.npy	6
+Flick/vid480_31.npy	3
+Lofted Offside/vid435_39.npy	7
+Scoop/vid529_74.npy	10
+Down The Wicket/vid460_6.npy	2
+Pull/vid533_70.npy	8
+Flick/vid436_4.npy	3
+Sweep/vid88_30.npy	13
+Reverse Sweep/vid469_47.npy	9
+Defensive/vid67_39.npy	1
+Square Cut/vid198_4.npy	11
+Reverse Sweep/vid29_4.npy	9
+Cover Drive/vid156_22.npy	0
+Defensive/vid150_29.npy	1
+Defensive/vid134_10.npy	1
+Down The Wicket/vid521_5.npy	2
+Pull/vid464_48.npy	8
+Late Cut/vid515_11.npy	5
+Upper Cut/vid494_30.npy	14
+Lofted Offside/vid118_13.npy	7
+Cover Drive/vid238_61.npy	0
+Sweep/vid362_42.npy	13
+Square Cut/vid168_34.npy	11
+Square Cut/vid353_6.npy	11
+Late Cut/vid376_29.npy	5
+Defensive/vid471_14.npy	1
+Scoop/vid462_25.npy	10
+Scoop/vid478_15.npy	10
+Lofted Legside/vid174_27.npy	6
+Sweep/vid361_62.npy	13
+Lofted Offside/vid262_42.npy	7
+Lofted Legside/vid87_31.npy	6
+Lofted Offside/vid140_22.npy	7
+Cover Drive/vid457_0.npy	0
+Scoop/vid468_21.npy	10
+Square Cut/vid387_42.npy	11
+Sweep/vid529_10.npy	13
+Upper Cut/vid279_1.npy	14
+Flick/vid150_20.npy	3
+Lofted Legside/vid228_29.npy	6
+Straight Drive/vid515_23.npy	12
+Scoop/vid535_38.npy	10
+Defensive/vid169_43.npy	1
+Lofted Legside/vid393_52.npy	6
+Lofted Legside/vid43_71.npy	6
+Hook/vid34_35.npy	4
+Cover Drive/vid66_16.npy	0
+Pull/vid445_41.npy	8
+Cover Drive/vid299_33.npy	0
+Square Cut/vid300_8.npy	11
+Defensive/vid236_20.npy	1
+Cover Drive/vid457_45.npy	0
+Lofted Legside/vid513_46.npy	6
+Scoop/vid370_51.npy	10
+Reverse Sweep/vid220_32.npy	9
+Hook/vid140_10.npy	4
+Cover Drive/vid111_4.npy	0
+Lofted Offside/vid65_36.npy	7
+Sweep/vid69_14.npy	13
+Cover Drive/vid360_0.npy	0
+Down The Wicket/vid445_12.npy	2
+Sweep/vid51_68.npy	13
+Upper Cut/vid419_6.npy	14
+Square Cut/vid214_33.npy	11
+Hook/vid360_45.npy	4
+Lofted Legside/vid391_6.npy	6
+Cover Drive/vid362_22.npy	0
+Cover Drive/vid322_13.npy	0
+Defensive/vid238_37.npy	1
+Upper Cut/vid382_8.npy	14
+Pull/vid434_12.npy	8
+Lofted Offside/vid442_58.npy	7
+Upper Cut/vid25_39.npy	14
+Defensive/vid199_18.npy	1
+Sweep/vid356_18.npy	13
+Lofted Legside/vid452_44.npy	6
+Scoop/vid1_13.npy	10
+Reverse Sweep/vid127_9.npy	9
+Sweep/vid522_13.npy	13
+Defensive/vid215_19.npy	1
+Flick/vid459_20.npy	3
+Sweep/vid485_39.npy	13
+Lofted Offside/vid440_7.npy	7
+Late Cut/vid299_18.npy	5
+Sweep/vid474_7.npy	13
+Cover Drive/vid524_28.npy	0
+Sweep/vid531_59.npy	13
+Late Cut/vid234_29.npy	5
+Flick/vid241_25.npy	3
+Lofted Offside/vid465_15.npy	7
+Defensive/vid209_0.npy	1
+Flick/vid498_1.npy	3
+Flick/vid215_33.npy	3
+Late Cut/vid432_39.npy	5
+Scoop/vid208_23.npy	10
+Sweep/vid116_31.npy	13
+Reverse Sweep/vid435_8.npy	9
+Cover Drive/vid23_44.npy	0
+Sweep/vid441_5.npy	13
+Lofted Legside/vid474_14.npy	6
+Lofted Offside/vid352_4.npy	7
+Cover Drive/vid214_14.npy	0
+Defensive/vid240_3.npy	1
+Scoop/vid499_23.npy	10
+Scoop/vid511_18.npy	10
+Cover Drive/vid75_2.npy	0
+Hook/vid46_65.npy	4
+Late Cut/vid457_8.npy	5
+Down The Wicket/vid356_10.npy	2
+Flick/vid366_1.npy	3
+Flick/vid148_8.npy	3
+Defensive/vid274_7.npy	1
+Lofted Legside/vid324_10.npy	6
+Square Cut/vid38_64.npy	11
+Flick/vid100_64.npy	3
+Straight Drive/vid126_4.npy	12
+Cover Drive/vid167_22.npy	0
+Sweep/vid394_5.npy	13
+Pull/vid137_36.npy	8
+Defensive/vid314_27.npy	1
+Late Cut/vid434_46.npy	5
+Flick/vid528_2.npy	3
+Lofted Legside/vid51_2.npy	6
+Cover Drive/vid236_15.npy	0
+Hook/vid42_32.npy	4
+Lofted Offside/vid455_5.npy	7
+Pull/vid470_35.npy	8
+Lofted Legside/vid388_2.npy	6
+Hook/vid10_7.npy	4
+Cover Drive/vid262_34.npy	0
+Flick/vid355_0.npy	3
+Square Cut/vid489_52.npy	11
+Cover Drive/vid514_3.npy	0
+Straight Drive/vid507_25.npy	12
+Lofted Offside/vid392_58.npy	7
+Lofted Legside/vid475_7.npy	6
+Lofted Offside/vid117_16.npy	7
+Lofted Offside/vid68_26.npy	7
+Lofted Offside/vid515_30.npy	7
+Square Cut/vid162_16.npy	11
+Down The Wicket/vid100_73.npy	2
+Hook/vid216_9.npy	4
+Lofted Legside/vid417_10.npy	6
+Upper Cut/vid341_42.npy	14
+Lofted Legside/vid436_46.npy	6
+Late Cut/vid279_4.npy	5
+Cover Drive/vid11_18.npy	0
+Square Cut/vid106_22.npy	11
+Square Cut/vid503_0.npy	11
+Square Cut/vid105_8.npy	11
+Lofted Legside/vid439_24.npy	6
+Upper Cut/vid38_16.npy	14
+Lofted Offside/vid447_48.npy	7
+Pull/vid387_31.npy	8
+Square Cut/vid392_4.npy	11
+Flick/vid252_20.npy	3
+Scoop/vid443_19.npy	10
+Pull/vid160_44.npy	8
+Square Cut/vid223_21.npy	11
+Square Cut/vid31_10.npy	11
+Cover Drive/vid125_14.npy	0
+Square Cut/vid84_8.npy	11
+Down The Wicket/vid46_10.npy	2
+Hook/vid179_14.npy	4
+Sweep/vid256_37.npy	13
+Straight Drive/vid228_12.npy	12
+Lofted Offside/vid487_12.npy	7
+Flick/vid235_12.npy	3
+Pull/vid511_12.npy	8
+Flick/vid213_29.npy	3
+Down The Wicket/vid478_20.npy	2
+Cover Drive/vid339_0.npy	0
+Straight Drive/vid145_3.npy	12
+Down The Wicket/vid445_37.npy	2
+Pull/vid6_13.npy	8
+Cover Drive/vid129_6.npy	0
+Down The Wicket/vid497_8.npy	2
+Pull/vid10_5.npy	8
+Reverse Sweep/vid361_21.npy	9
+Square Cut/vid380_17.npy	11
+Square Cut/vid445_44.npy	11
+Pull/vid438_0.npy	8
+Straight Drive/vid461_28.npy	12
+Square Cut/vid32_17.npy	11
+Flick/vid464_33.npy	3
+Pull/vid469_33.npy	8
+Down The Wicket/vid43_55.npy	2
+Lofted Offside/vid360_70.npy	7
+Lofted Offside/vid416_10.npy	7
+Pull/vid214_10.npy	8
+Hook/vid215_7.npy	4
+Defensive/vid204_1.npy	1
+Lofted Legside/vid130_16.npy	6
+Square Cut/vid154_30.npy	11
+Sweep/vid531_54.npy	13
+Flick/vid482_18.npy	3
+Cover Drive/vid223_8.npy	0
+Flick/vid36_18.npy	3
+Reverse Sweep/vid417_4.npy	9
+Square Cut/vid50_33.npy	11
+Square Cut/vid77_13.npy	11
+Lofted Offside/vid43_8.npy	7
+Hook/vid362_5.npy	4
+Cover Drive/vid482_29.npy	0
+Lofted Legside/vid490_9.npy	6
+Lofted Offside/vid398_14.npy	7
+Flick/vid477_6.npy	3
+Flick/vid124_2.npy	3
+Square Cut/vid340_21.npy	11
+Sweep/vid487_7.npy	13
+Hook/vid231_12.npy	4
+Scoop/vid374_23.npy	10
+Reverse Sweep/vid337_13.npy	9
+Sweep/vid309_0.npy	13
+Defensive/vid238_54.npy	1
+Down The Wicket/vid219_7.npy	2
+Lofted Legside/vid312_39.npy	6
+Square Cut/vid213_17.npy	11
+Square Cut/vid432_30.npy	11
+Hook/vid535_34.npy	4
+Straight Drive/vid353_24.npy	12
+Cover Drive/vid461_35.npy	0
+Straight Drive/vid242_22.npy	12
+Flick/vid535_52.npy	3
+Cover Drive/vid513_12.npy	0
+Lofted Offside/vid80_23.npy	7
+Down The Wicket/vid13_46.npy	2
+Lofted Legside/vid175_25.npy	6
+Lofted Offside/vid37_40.npy	7
+Down The Wicket/vid119_35.npy	2
+Cover Drive/vid50_2.npy	0
+Square Cut/vid456_0.npy	11
+Sweep/vid129_30.npy	13
+Sweep/vid113_28.npy	13
+Upper Cut/vid234_17.npy	14
+Down The Wicket/vid340_23.npy	2
+Lofted Legside/vid522_69.npy	6
+Lofted Legside/vid344_27.npy	6
+Reverse Sweep/vid151_41.npy	9
+Sweep/vid99_18.npy	13
+Lofted Legside/vid80_20.npy	6
+Sweep/vid43_11.npy	13
+Lofted Legside/vid291_17.npy	6
+Down The Wicket/vid355_49.npy	2
+Square Cut/vid488_40.npy	11
+Lofted Offside/vid75_21.npy	7
+Square Cut/vid518_44.npy	11
+Sweep/vid134_8.npy	13
+Sweep/vid69_38.npy	13
+Cover Drive/vid523_24.npy	0
+Pull/vid428_50.npy	8
+Defensive/vid250_37.npy	1
+Square Cut/vid39_6.npy	11
+Square Cut/vid58_9.npy	11
+Sweep/vid448_22.npy	13
+Defensive/vid152_0.npy	1
+Pull/vid455_13.npy	8
+Lofted Legside/vid262_37.npy	6
+Sweep/vid453_24.npy	13
+Lofted Offside/vid214_35.npy	7
+Square Cut/vid390_50.npy	11
+Square Cut/vid295_4.npy	11
+Pull/vid356_13.npy	8
+Lofted Legside/vid465_16.npy	6
+Down The Wicket/vid217_8.npy	2
+Square Cut/vid48_0.npy	11
+Cover Drive/vid227_27.npy	0
+Cover Drive/vid226_8.npy	0
+Lofted Offside/vid177_16.npy	7
+Reverse Sweep/vid512_23.npy	9
+Cover Drive/vid482_42.npy	0
+Square Cut/vid300_26.npy	11
+Down The Wicket/vid55_10.npy	2
+Square Cut/vid238_23.npy	11
+Cover Drive/vid518_12.npy	0
+Late Cut/vid444_42.npy	5
+Reverse Sweep/vid94_49.npy	9
+Lofted Offside/vid353_26.npy	7
+Flick/vid41_1.npy	3
+Late Cut/vid531_42.npy	5
+Late Cut/vid312_20.npy	5
+Square Cut/vid173_19.npy	11
+Flick/vid388_36.npy	3
+Flick/vid494_21.npy	3
+Lofted Offside/vid481_30.npy	7
+Square Cut/vid295_36.npy	11
+Straight Drive/vid485_11.npy	12
+Flick/vid471_39.npy	3
+Scoop/vid389_27.npy	10

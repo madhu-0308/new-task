@@ -1,0 +1,94 @@
+# Cricket shot taxonomy — 15 distinct classes.
+# Folder names under data/clips/ must match `name` exactly (with underscores replacing spaces).
+# Each class represents a distinct cricket shot type.
+
+classes:
+  - id: 0
+    name: Cover Drive
+    description: Front-foot drive played through the covers.
+    variants: []
+
+  - id: 1
+    name: Defensive
+    description: Vertical bat block with minimal follow-through.
+    variants: []
+
+  - id: 2
+    name: Down The Wicket
+    description: Forward aggressive movement down the wicket to shorten the length.
+    variants: []
+
+  - id: 3
+    name: Flick
+    description: Wristy shot off the pads played to leg side.
+    variants: []
+
+  - id: 4
+    name: Hook
+    description: Back-foot horizontal bat shot to a short ball played to leg side.
+    variants: []
+
+  - id: 5
+    name: Late Cut
+    description: Back-foot cut played late, steering ball toward third man.
+    variants: []
+
+  - id: 6
+    name: Lofted Legside
+    description: Lofted shot played to the leg side.
+    variants: []
+
+  - id: 7
+    name: Lofted Offside
+    description: Lofted shot played to the off side.
+    variants: []
+
+  - id: 8
+    name: Pull
+    description: Back-foot horizontal bat shot to short ball played to leg side.
+    variants: []
+
+  - id: 9
+    name: Reverse Sweep
+    description: Reverse sweep played with bat reversed, opposite to standard sweep.
+    variants: []
+
+  - id: 10
+    name: Scoop
+    description: Modern unorthodox shot lifting ball over the keeper/bowler.
+    variants: []
+
+  - id: 11
+    name: Square Cut
+    description: Back-foot cut shot played square to the wicket toward point.
+    variants: []
+
+  - id: 12
+    name: Straight Drive
+    description: Front-foot drive played straight down the wicket.
+    variants: []
+
+  - id: 13
+    name: Sweep
+    description: Front knee on ground, horizontal bat, played to leg side.
+    variants: []
+
+  - id: 14
+    name: Upper Cut
+    description: Back-foot horizontal cut played uppishly toward the slips.
+    variants: []
+
+
+# Labeling rules
+clip_spec:
+  duration_seconds: 2.0           # total clip length at training time
+  pre_contact_seconds: 1.2        # time before bat-ball contact
+  post_contact_seconds: 0.8       # time after contact
+  fps: 25                          # resample target
+  min_visible_fraction: 0.4       # batsman must be visible for >=40% of the clip
+
+# Camera view preferences
+camera_view:
+  preferred: straight              # behind-the-bowler camera
+  acceptable: [side_on]
+  reject: [close_up, replay_slow_mo, crowd, scoreboard]

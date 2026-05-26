@@ -1,0 +1,242 @@
+{
+  "video_seconds": 16.97,
+  "balls_detected": 7,
+  "balls": [
+    {
+      "index": 0,
+      "peak_sec": 1.5,
+      "start_sec": 0.5,
+      "end_sec": 2.5,
+      "shot": "defensive",
+      "confidence": 0.653,
+      "topk": [
+        {
+          "class": "defensive",
+          "confidence": 0.653
+        },
+        {
+          "class": "innovative",
+          "confidence": 0.207
+        },
+        {
+          "class": "sweep",
+          "confidence": 0.054
+        }
+      ],
+      "signals": {
+        "bat_path_straightness": 0.95,
+        "head_stillness": 0.745,
+        "foot_commitment": 1.0
+      },
+      "grade": 9.4,
+      "notes": [
+        "bat path straight"
+      ]
+    },
+    {
+      "index": 1,
+      "peak_sec": 3.2,
+      "start_sec": 2.2,
+      "end_sec": 4.2,
+      "shot": "cut",
+      "confidence": 0.48,
+      "topk": [
+        {
+          "class": "cut",
+          "confidence": 0.48
+        },
+        {
+          "class": "pull_hook",
+          "confidence": 0.23
+        },
+        {
+          "class": "drive",
+          "confidence": 0.13
+        }
+      ],
+      "signals": {
+        "bat_path_straightness": null,
+        "head_stillness": 0.0,
+        "foot_commitment": 1.0
+      },
+      "grade": 7.0,
+      "notes": [
+        "clean stroke"
+      ]
+    },
+    {
+      "index": 2,
+      "peak_sec": 5.57,
+      "start_sec": 4.57,
+      "end_sec": 6.57,
+      "shot": "cut",
+      "confidence": 0.436,
+      "topk": [
+        {
+          "class": "cut",
+          "confidence": 0.436
+        },
+        {
+          "class": "sweep",
+          "confidence": 0.162
+        },
+        {
+          "class": "innovative",
+          "confidence": 0.157
+        }
+      ],
+      "signals": {
+        "bat_path_straightness": 0.812,
+        "head_stillness": 0.0,
+        "foot_commitment": 1.0
+      },
+      "grade": 8.9,
+      "notes": [
+        "bat path straight"
+      ]
+    },
+    {
+      "index": 3,
+      "peak_sec": 7.1,
+      "start_sec": 6.1,
+      "end_sec": 8.1,
+      "shot": "innovative",
+      "confidence": 0.461,
+      "topk": [
+        {
+          "class": "innovative",
+          "confidence": 0.461
+        },
+        {
+          "class": "sweep",
+          "confidence": 0.237
+        },
+        {
+          "class": "cut",
+          "confidence": 0.18
+        }
+      ],
+      "signals": {
+        "bat_path_straightness": 0.826,
+        "head_stillness": 0.0,
+        "foot_commitment": 1.0
+      },
+      "grade": 9.0,
+      "notes": [
+        "bat path straight"
+      ]
+    },
+    {
+      "index": 4,
+      "peak_sec": 9.63,
+      "start_sec": 8.63,
+      "end_sec": 10.63,
+      "shot": "innovative",
+      "confidence": 0.517,
+      "topk": [
+        {
+          "class": "innovative",
+          "confidence": 0.517
+        },
+        {
+          "class": "cut",
+          "confidence": 0.242
+        },
+        {
+          "class": "drive",
+          "confidence": 0.142
+        }
+      ],
+      "signals": {
+        "bat_path_straightness": 0.952,
+        "head_stillness": 0.839,
+        "foot_commitment": 0.002
+      },
+      "grade": 8.4,
+      "notes": [
+        "bat path straight",
+        "feet didn't commit"
+      ]
+    },
+    {
+      "index": 5,
+      "peak_sec": 12.7,
+      "start_sec": 11.7,
+      "end_sec": 13.7,
+      "shot": "sweep",
+      "confidence": 0.324,
+      "topk": [
+        {
+          "class": "sweep",
+          "confidence": 0.324
+        },
+        {
+          "class": "pull_hook",
+          "confidence": 0.299
+        },
+        {
+          "class": "drive",
+          "confidence": 0.151
+        }
+      ],
+      "signals": {
+        "bat_path_straightness": 0.706,
+        "head_stillness": 0.0,
+        "foot_commitment": 1.0
+      },
+      "grade": 8.2,
+      "notes": [
+        "clean stroke"
+      ]
+    },
+    {
+      "index": 6,
+      "peak_sec": 15.9,
+      "start_sec": 14.9,
+      "end_sec": 16.9,
+      "shot": "cut",
+      "confidence": 0.355,
+      "topk": [
+        {
+          "class": "cut",
+          "confidence": 0.355
+        },
+        {
+          "class": "pull_hook",
+          "confidence": 0.29
+        },
+        {
+          "class": "drive",
+          "confidence": 0.224
+        }
+      ],
+      "signals": {
+        "bat_path_straightness": 0.999,
+        "head_stillness": 0.0,
+        "foot_commitment": 1.0
+      },
+      "grade": 10.0,
+      "notes": [
+        "bat path straight"
+      ]
+    }
+  ],
+  "summary": {
+    "shot_counts": {
+      "defensive": 1,
+      "cut": 3,
+      "innovative": 2,
+      "sweep": 1
+    },
+    "per_class_avg_grade": {
+      "defensive": 9.4,
+      "cut": 8.6,
+      "innovative": 8.7,
+      "sweep": 8.2
+    },
+    "weakest_shot": "sweep",
+    "weakness_reason": "consistently lower-quality across the session",
+    "session_grade": 8.7
+  },
+  "elapsed_seconds": 19.9
+}

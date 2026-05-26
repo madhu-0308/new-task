@@ -1,0 +1,8 @@
+# Additional dependencies for personalization system
+# Install: pip install -r requirements.txt -r requirements_personalization.txt
+
+# Already in requirements.txt but required for API:
+# Flask>=2.2.0
+# flask-cors>=3.0.10
+
+# No extra packages required — uses stdlib sqlite3

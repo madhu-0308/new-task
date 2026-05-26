@@ -1,0 +1,32 @@
+{
+  "predictions": [
+    {
+      "name": "Cover Drive",
+      "prob": 0.6867927312850952
+    },
+    {
+      "name": "Sweep",
+      "prob": 0.24138277769088745
+    },
+    {
+      "name": "Down The Wicket",
+      "prob": 0.011795112863183022
+    }
+  ],
+  "feedback": {
+    "coach": "Coach: personalized",
+    "shot": "Cover Drive",
+    "shot_confidence": 0.6867927312850952,
+    "issue": "Shot prediction is not confident.",
+    "notes": "The model is unsure of the exact shot type. Drill: practice front-foot step-and-pause drives focusing on head stability.",
+    "advice": "Keep your head steady during the shot. Keep your torso aligned and balanced over your base. Commit your front foot and maintain a stable base. Front-foot weight transfer and head-over-ball.",
+    "corrections": "Head: reduce lateral movement; keep eyes on the ball. Torso: avoid excessive lean; balance over your base. Feet: stabilize your base; commit the front foot.",
+    "summary": "Shot detected: Cover Drive. Confidence 0.69. Shot prediction is not confident.",
+    "visible_ratio": 1.0,
+    "avg_confidence": 0.6757233738899231,
+    "head_stillness": 6.037203311920166,
+    "wrist_motion": 3.192761182785034,
+    "ankle_motion": 3.741482734680176,
+    "torso_tilt": 0.5950107574462891
+  }
+}

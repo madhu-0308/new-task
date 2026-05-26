@@ -1,0 +1,17 @@
+{
+  "Cover Drive": 0,
+  "Defensive": 1,
+  "Down The Wicket": 2,
+  "Flick": 3,
+  "Hook": 4,
+  "Late Cut": 5,
+  "Lofted Legside": 6,
+  "Lofted Offside": 7,
+  "Pull": 8,
+  "Reverse Sweep": 9,
+  "Scoop": 10,
+  "Square Cut": 11,
+  "Straight Drive": 12,
+  "Sweep": 13,
+  "Upper Cut": 14
+}
