@@ -1,0 +1,29 @@
+# Cricket CV Detection System — Python Dependencies
+# Install with:  pip install -r requirements.txt
+
+# --- Core ML / CV ---
+ultralytics>=8.3.0          # YOLOv8 detection + pose
+torch>=2.4.0                # PyTorch backend
+torchvision>=0.19.0         # Vision utilities
+opencv-python>=4.10.0       # Frame processing + drawing
+
+# --- Tracking ---
+filterpy>=1.4.5             # Kalman filter for SORT tracker
+scipy>=1.13.0               # Hungarian algorithm (linear_sum_assignment)
+
+# --- Pose estimation ---
+mediapipe>=0.10.14          # Front-foot & wrist keypoints
+
+# --- Numerical ---
+numpy>=1.26.0
+
+# --- API server ---
+Flask>=3.0.0
+flask-cors>=4.0.0
+
+# --- Dataset download ---
+roboflow>=1.1.0             # Download Roboflow datasets for training
+
+# --- Utilities ---
+tqdm>=4.66.0                # Progress bars during training
+pyyaml>=6.0                 # YAML config parsing

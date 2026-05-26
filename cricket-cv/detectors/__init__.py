@@ -1,0 +1,1 @@
+"""Cricket CV detector modules."""
