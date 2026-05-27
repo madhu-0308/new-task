@@ -78,12 +78,18 @@ export default function CricketProductPage() {
                 LSTM-powered shot recognition breaks down your cover drive and pull shot frame by frame —
                 with biomechanical feedback once exclusive to professional academies.
               </p>
-              <div className="flex flex-col sm:flex-row gap-3">
+              <div className="flex flex-col sm:flex-row gap-3 flex-wrap">
                 <Link
                   href="/products/cricket/coach"
                   className="px-6 py-3.5 bg-[var(--color-cricket)] text-[#001d10] font-bold rounded text-sm flex items-center justify-center gap-2 hover:opacity-90 transition-opacity"
                 >
                   Start Batting <ArrowRight size={16} />
+                </Link>
+                <Link
+                  href="/products/cricket/analyze"
+                  className="px-6 py-3.5 bg-[var(--color-bg-3)] border border-[var(--color-cricket)]/40 text-[var(--color-cricket)] font-bold rounded text-sm flex items-center justify-center gap-2 hover:bg-[var(--color-cricket)]/10 transition-colors"
+                >
+                  🎬 Delivery Analyzer
                 </Link>
                 <Link
                   href="/contact"
