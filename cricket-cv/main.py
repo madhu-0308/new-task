@@ -276,29 +276,57 @@ def _draw_status_bar(
     fps: float,
     ball_r: Dict, bat_r: Dict, wide_r: Dict, noball_r: Dict,
 ) -> None:
-    """Render a small HUD status bar at the top-left corner."""
+    """
+    Render a comprehensive HUD:
+      - Top-left: frame counter + ball/bat/contact status
+      - Bottom-centre: ball trajectory info (track ID + trail length)
+    """
     h, w = frame.shape[:2]
-    overlay = frame.copy()
-    cv2.rectangle(overlay, (0, 0), (340, 130), (0, 0, 0), -1)
-    cv2.addWeighted(overlay, 0.45, frame, 0.55, 0, frame)
 
-    def put(text: str, row: int, color=(220, 220, 220)) -> None:
-        cv2.putText(frame, text, (8, 20 + row * 22),
-                    cv2.FONT_HERSHEY_SIMPLEX, 0.55, color, 1, cv2.LINE_AA)
+    # ── Top-left info panel ───────────────────────────────────────────────────
+    panel_w, panel_h = 230, 112
+    overlay = frame.copy()
+    cv2.rectangle(overlay, (0, 0), (panel_w, panel_h), (10, 10, 10), -1)
+    cv2.addWeighted(overlay, 0.55, frame, 0.45, 0, frame)
+    cv2.rectangle(frame, (0, 0), (panel_w, panel_h), (80, 80, 80), 1)
+
+    def put(text: str, row: int, color=(200, 200, 200)) -> None:
+        cv2.putText(frame, text, (6, 16 + row * 19),
+                    cv2.FONT_HERSHEY_SIMPLEX, 0.44, color, 1, cv2.LINE_AA)
 
     pct = int(frame_idx / total * 100) if total > 0 else 0
-    put(f"Frame {frame_idx}/{total}  ({pct}%)", 0)
-    put(f"Ball: {'YES' if ball_r['detected'] else 'NO '}  "
-        f"Bat: {'YES' if bat_r['detected'] else 'NO '}", 1)
-    put(f"Contact: {'YES' if bat_r['contact'] else 'NO'}", 2)
+    put(f"Frame {frame_idx}/{total}  [{pct}%]", 0, (180, 180, 180))
 
-    wide_txt = wide_r["decision"]
-    wide_color = (0, 100, 255) if wide_txt == "WIDE" else (150, 255, 150)
-    put(f"Wide: {wide_txt}  ({wide_r['confidence']:.0%})", 3, wide_color)
+    ball_color = (80, 255, 80) if ball_r["detected"] else (100, 100, 100)
+    put(f"Ball: {'TRACKED #' + str(ball_r.get('track_id','?')) if ball_r['detected'] else 'NOT DETECTED'}",
+        1, ball_color)
 
-    nb_txt = noball_r["decision"]
-    nb_color = (0, 100, 255) if nb_txt == "NO BALL" else (150, 255, 150)
-    put(f"No-ball: {nb_txt}  ({noball_r['confidence']:.0%})", 4, nb_color)
+    trail = ball_r.get("trail", [])
+    put(f"Trail: {len(trail)} pts  Conf: {ball_r.get('conf', 0):.0%}", 2, (150, 220, 150))
+
+    bat_color = (255, 160, 60) if bat_r["detected"] else (100, 100, 100)
+    put(f"Bat: {'DETECTED' if bat_r['detected'] else 'NOT DETECTED'}", 3, bat_color)
+
+    contact_color = (0, 80, 255) if bat_r["contact"] else (150, 150, 150)
+    put(f"Contact: {'⚡ HIT!' if bat_r['contact'] else 'none'}", 4, contact_color)
+
+    wide_txt   = wide_r["decision"]
+    wide_color = (60, 60, 255) if wide_txt == "WIDE" else \
+                 (60, 200, 60) if wide_txt == "LEGAL" else (160, 160, 160)
+    put(f"Wide: {wide_txt}  {wide_r['confidence']:.0%}", 5, wide_color)
+
+    # ── Ball trajectory legend (bottom-centre) ────────────────────────────────
+    if ball_r["detected"] and ball_r.get("center"):
+        bx, by = ball_r["center"]
+        legend = f"Ball @ ({bx:.0f}, {by:.0f})"
+        (tw, _), _ = cv2.getTextSize(legend, cv2.FONT_HERSHEY_SIMPLEX, 0.42, 1)
+        lx = w // 2 - tw // 2
+        overlay2 = frame.copy()
+        cv2.rectangle(overlay2, (lx - 4, h - 22), (lx + tw + 4, h - 4),
+                      (0, 0, 0), -1)
+        cv2.addWeighted(overlay2, 0.5, frame, 0.5, 0, frame)
+        cv2.putText(frame, legend, (lx, h - 8),
+                    cv2.FONT_HERSHEY_SIMPLEX, 0.42, (80, 255, 80), 1, cv2.LINE_AA)
 
 
 # ---------------------------------------------------------------------------

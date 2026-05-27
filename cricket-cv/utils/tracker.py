@@ -52,6 +52,7 @@ def iou_batch(bb_test: np.ndarray, bb_gt: np.ndarray) -> np.ndarray:
 
 def _bbox_to_z(bbox: np.ndarray) -> np.ndarray:
     """Convert [x1, y1, x2, y2] → [cx, cy, area, aspect_ratio] (column vector)."""
+    bbox = np.asarray(bbox).flatten()
     w = bbox[2] - bbox[0]
     h = bbox[3] - bbox[1]
     x = bbox[0] + w / 2.0
@@ -63,6 +64,8 @@ def _bbox_to_z(bbox: np.ndarray) -> np.ndarray:
 
 def _x_to_bbox(x: np.ndarray) -> np.ndarray:
     """Convert Kalman state [cx, cy, area, r, ...] → [x1, y1, x2, y2]."""
+    # kf.x has shape (7, 1) — flatten to (7,) for safe scalar indexing
+    x = np.asarray(x).flatten()
     s = float(x[2])
     r = float(x[3])
     if s <= 0:

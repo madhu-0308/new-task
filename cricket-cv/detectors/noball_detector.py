@@ -42,6 +42,50 @@ except ImportError:
 
 logger = logging.getLogger(__name__)
 
+
+# ── Shared drawing helpers ────────────────────────────────────────────────────
+
+def _draw_dashed_hline(img, y, x0, x1, color, thickness=1, dash=10):
+    """Draw a horizontal dashed line."""
+    on = True
+    x = x0
+    while x < x1:
+        xe = min(x + dash, x1)
+        if on:
+            cv2.line(img, (x, y), (xe, y), color, thickness)
+        x = xe
+        on = not on
+
+
+def _draw_banner(img, text, pos, color, scale=1.0, thickness=2):
+    (tw, th), _ = cv2.getTextSize(text, cv2.FONT_HERSHEY_DUPLEX, scale, thickness)
+    x, y = pos
+    pad = 6
+    overlay = img.copy()
+    cv2.rectangle(overlay, (x - pad, y - th - pad), (x + tw + pad, y + pad),
+                  (0, 0, 0), -1)
+    cv2.addWeighted(overlay, 0.55, img, 0.45, 0, img)
+    cv2.putText(img, text, (x, y), cv2.FONT_HERSHEY_DUPLEX, scale, color,
+                thickness, cv2.LINE_AA)
+
+
+def _draw_reason_panel(img, title: str, lines: List[str], x: int, y: int,
+                       color=(0, 255, 255)):
+    line_h = 18
+    panel_h = len(lines) * line_h + 26
+    panel_w = 220
+    overlay = img.copy()
+    cv2.rectangle(overlay, (x, y), (x + panel_w, y + panel_h), (20, 20, 20), -1)
+    cv2.addWeighted(overlay, 0.65, img, 0.35, 0, img)
+    cv2.rectangle(img, (x, y), (x + panel_w, y + panel_h), color, 1)
+    cv2.putText(img, title, (x + 4, y + 14),
+                cv2.FONT_HERSHEY_SIMPLEX, 0.45, color, 1, cv2.LINE_AA)
+    cv2.line(img, (x, y + 18), (x + panel_w, y + 18), color, 1)
+    for i, line in enumerate(lines):
+        cv2.putText(img, line, (x + 4, y + 18 + (i + 1) * line_h),
+                    cv2.FONT_HERSHEY_SIMPLEX, 0.38, (220, 220, 220), 1, cv2.LINE_AA)
+
+
 # Overlay colours
 NOBALL_COLOR = (0, 0, 255)    # red
 LEGAL_COLOR  = (0, 200, 0)    # green
@@ -196,33 +240,114 @@ class NoBallDetector:
         return {**null_result, "crease_y": crease_y}
 
     def draw(self, frame: np.ndarray, result: Dict[str, Any]) -> np.ndarray:
-        """Overlay no-ball / legal decision and foot markers onto frame."""
-        decision = result["decision"]
-        conf     = result["confidence"]
-        crease_y = result.get("crease_y")
-        h, w = frame.shape[:2]
+        """
+        Draw rich no-ball overlay:
+          - Popping crease line (dashed yellow) with safe/danger zones
+          - Foot keypoints with violation arrows
+          - Reason panel explaining WHY it is no-ball or legal
+          - Method used (pose / pixel subtraction)
+        """
+        decision  = result["decision"]
+        conf      = result["confidence"]
+        method    = result.get("method", "none")
+        crease_y  = result.get("crease_y")
+        foot_pts  = result.get("foot_pts", [])
+        h, w      = frame.shape[:2]
 
-        # Draw popping crease line
-        if crease_y is not None:
-            cv2.line(frame, (0, crease_y), (w, crease_y), CREASE_COLOR, 2)
-            cv2.putText(frame, "Popping crease", (10, crease_y - 8),
-                        cv2.FONT_HERSHEY_SIMPLEX, 0.5, CREASE_COLOR, 1)
+        if crease_y is None:
+            crease_y = int(h * _CREASE_Y_FRAC)
 
-        # Draw foot keypoints
-        for pt in result.get("foot_pts", []):
-            cv2.circle(frame, (int(pt[0]), int(pt[1])), 6, NOBALL_COLOR, -1)
+        # ── 1. Shade danger zone (below crease = bowler side) ────────────────
+        overlay = frame.copy()
+        # Green above crease = safe (behind crease)
+        cv2.rectangle(overlay, (0, 0), (w, crease_y), (0, 120, 0), -1)
+        # Red below crease = danger zone
+        cv2.rectangle(overlay, (0, crease_y), (w, min(h, crease_y + 60)),
+                      (0, 0, 150), -1)
+        cv2.addWeighted(overlay, 0.15, frame, 0.85, 0, frame)
 
-        # Decision overlay (right side of frame)
+        # ── 2. Popping crease line (dashed yellow) ────────────────────────────
+        _draw_dashed_hline(frame, crease_y, 0, w, CREASE_COLOR, thickness=2, dash=16)
+        # Label
+        cv2.putText(frame, "POPPING CREASE", (w // 2 - 70, crease_y - 5),
+                    cv2.FONT_HERSHEY_SIMPLEX, 0.42, CREASE_COLOR, 1, cv2.LINE_AA)
+        cv2.putText(frame, "SAFE (behind)", (4, crease_y - 5),
+                    cv2.FONT_HERSHEY_SIMPLEX, 0.38, (100, 255, 100), 1, cv2.LINE_AA)
+        cv2.putText(frame, "DANGER (overstepped)", (4, crease_y + 14),
+                    cv2.FONT_HERSHEY_SIMPLEX, 0.38, NOBALL_COLOR, 1, cv2.LINE_AA)
+
+        # ── 3. Foot keypoints + violation arrows ──────────────────────────────
+        reason_lines: List[str] = []
+        max_violation_px = 0.0
+        method_label = {"pose": "MediaPipe Pose", "pixel": "Pixel Subtraction",
+                        "none": "—"}.get(method, method)
+
+        if foot_pts:
+            for pt in foot_pts:
+                px, py = int(pt[0]), int(pt[1])
+                violation = py - crease_y
+                if violation > 0:
+                    # Foot past crease → red circle + downward arrow to show depth
+                    cv2.circle(frame, (px, py), 9, NOBALL_COLOR, -1)
+                    cv2.circle(frame, (px, py), 11, (255, 255, 255), 1)
+                    # Arrow from crease down to foot
+                    cv2.arrowedLine(frame, (px, crease_y), (px, py),
+                                    NOBALL_COLOR, 2, tipLength=0.25)
+                    cv2.putText(frame, f"+{violation:.0f}px",
+                                (px + 5, (crease_y + py) // 2),
+                                cv2.FONT_HERSHEY_SIMPLEX, 0.38, NOBALL_COLOR, 1, cv2.LINE_AA)
+                    max_violation_px = max(max_violation_px, violation)
+                else:
+                    # Foot behind crease → green circle
+                    cv2.circle(frame, (px, py), 7, (0, 220, 0), -1)
+
+            if max_violation_px > 0:
+                reason_lines = [
+                    f"Foot crossed crease",
+                    f"Overstep: {max_violation_px:.0f}px",
+                    f"Method: {method_label}",
+                    f"Conf: {conf:.0%}",
+                ]
+            else:
+                reason_lines = [
+                    "Foot behind crease",
+                    f"Method: {method_label}",
+                    f"Conf: {conf:.0%}",
+                ]
+        else:
+            if decision == "NO BALL":
+                reason_lines = [
+                    "Motion in crease ROI",
+                    f"Method: {method_label}",
+                    f"Blob area > threshold",
+                    f"Conf: {conf:.0%}",
+                ]
+            elif decision == "LEGAL":
+                reason_lines = [
+                    "No foot overstepping",
+                    f"Method: {method_label}",
+                    f"Conf: {conf:.0%}",
+                ]
+
+        # ── 4. Decision banner ────────────────────────────────────────────────
         if decision == "NO BALL":
-            cv2.putText(frame, f"NO BALL  {conf:.0%}", (w - 350, 80),
-                        cv2.FONT_HERSHEY_DUPLEX, 1.2, NOBALL_COLOR, 3)
-            # Red bar along crease
-            if crease_y is not None:
-                cv2.rectangle(frame, (0, crease_y - 4), (w, crease_y + 4),
-                              NOBALL_COLOR, -1)
+            # Red flashing bar along crease
+            cv2.rectangle(frame, (0, crease_y - 3), (w, crease_y + 3),
+                          NOBALL_COLOR, -1)
+            _draw_banner(frame, f"NO BALL  {conf:.0%}",
+                         (w // 2 - 80, crease_y - 14),
+                         NOBALL_COLOR, scale=0.85, thickness=2)
         elif decision == "LEGAL":
-            cv2.putText(frame, f"LEGAL  {conf:.0%}", (w - 280, 80),
-                        cv2.FONT_HERSHEY_DUPLEX, 0.9, LEGAL_COLOR, 2)
+            _draw_banner(frame, f"✓ LEGAL  {conf:.0%}",
+                         (w // 2 - 70, crease_y - 14),
+                         LEGAL_COLOR, scale=0.72, thickness=1)
+
+        # ── 5. Reason panel (top-right) ───────────────────────────────────────
+        if reason_lines:
+            panel_color = NOBALL_COLOR if decision == "NO BALL" else (
+                LEGAL_COLOR if decision == "LEGAL" else CREASE_COLOR)
+            _draw_reason_panel(frame, "NO-BALL ANALYSIS", reason_lines,
+                               x=w - 224, y=4, color=panel_color)
 
         return frame
 
