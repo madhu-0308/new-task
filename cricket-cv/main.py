@@ -150,9 +150,12 @@ def process_video(
     total  = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     logger.info("Video: %s  %dx%d  %.1f fps  %d frames", video_path, width, height, fps, total)
 
-    # Video writer
-    fourcc = cv2.VideoWriter_fourcc(*"mp4v")
+    # Video writer — prefer H.264 (browser-playable); fall back to mp4v
+    fourcc = cv2.VideoWriter_fourcc(*"avc1")
     writer = cv2.VideoWriter(output_path, fourcc, fps, (width, height))
+    if not writer.isOpened():
+        fourcc = cv2.VideoWriter_fourcc(*"mp4v")
+        writer = cv2.VideoWriter(output_path, fourcc, fps, (width, height))
 
     # Initialise modules
     homography   = PitchHomography()

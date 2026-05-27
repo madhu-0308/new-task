@@ -75,7 +75,7 @@ import uuid
 from pathlib import Path
 from typing import Any, Dict
 
-from flask import Flask, jsonify, request, send_from_directory
+from flask import Flask, Response, jsonify, request, send_from_directory
 from flask_cors import CORS
 
 # Ensure project root is importable
@@ -224,12 +224,53 @@ def analyze() -> Any:
 
 @app.route("/download/<filename>", methods=["GET"])
 def download(filename: str) -> Any:
-    """Serve a processed output video for download."""
+    """Stream a processed output video with range-request support for browser playback."""
     safe_name = Path(filename).name   # prevent path traversal
     fp = OUTPUT_DIR / safe_name
     if not fp.exists():
         return jsonify({"error": "File not found."}), 404
-    return send_from_directory(str(OUTPUT_DIR), safe_name, as_attachment=True)
+
+    file_size = fp.stat().st_size
+    range_header = request.headers.get("Range")
+
+    if range_header:
+        # Parse "bytes=start-end"
+        byte_range = range_header.replace("bytes=", "").split("-")
+        start = int(byte_range[0]) if byte_range[0] else 0
+        end   = int(byte_range[1]) if byte_range[1] else file_size - 1
+        end   = min(end, file_size - 1)
+        length = end - start + 1
+
+        def stream_chunk():
+            with open(fp, "rb") as f:
+                f.seek(start)
+                remaining = length
+                chunk_size = 64 * 1024
+                while remaining > 0:
+                    data = f.read(min(chunk_size, remaining))
+                    if not data:
+                        break
+                    remaining -= len(data)
+                    yield data
+
+        resp = Response(
+            stream_chunk(),
+            status=206,
+            mimetype="video/mp4",
+            direct_passthrough=True,
+        )
+        resp.headers["Content-Range"]  = f"bytes {start}-{end}/{file_size}"
+        resp.headers["Accept-Ranges"]  = "bytes"
+        resp.headers["Content-Length"] = str(length)
+        resp.headers["Access-Control-Allow-Origin"] = "*"
+        return resp
+
+    # Full file
+    resp = send_from_directory(str(OUTPUT_DIR), safe_name,
+                               mimetype="video/mp4", as_attachment=False)
+    resp.headers["Accept-Ranges"] = "bytes"
+    resp.headers["Access-Control-Allow-Origin"] = "*"
+    return resp
 
 
 @app.route("/", methods=["GET"])

@@ -45,38 +45,44 @@ const CV_API = process.env.NEXT_PUBLIC_CV_API_URL ?? "http://localhost:5001";
 // Helpers
 // ─────────────────────────────────────────────────────────────────────────────
 
-function StatCard({
+function VerdictCard({
   label,
-  value,
-  color,
-  sub,
+  verdict,
+  yes,
+  detail,
 }: {
   label: string;
-  value: string | number;
-  color: string;
-  sub?: string;
+  verdict: boolean;
+  yes: string;   // text when verdict is true  e.g. "WIDE"
+  detail?: string;
 }) {
   return (
-    <div className="bg-[var(--color-bg-3)] border border-[var(--color-bd)] rounded-xl p-4 flex flex-col gap-1">
-      <div className="text-xs text-[var(--color-muted)] uppercase tracking-wider">{label}</div>
-      <div className={`text-3xl font-black ${color}`}>{value}</div>
-      {sub && <div className="text-xs text-[var(--color-muted)]">{sub}</div>}
+    <div
+      className={`rounded-2xl p-6 flex flex-col items-center justify-center gap-2 border-2 transition-all
+        ${verdict
+          ? "border-red-500/60 bg-red-500/10"
+          : "border-emerald-500/40 bg-emerald-500/8"
+        }`}
+    >
+      <div className="text-xs text-[var(--color-muted)] uppercase tracking-widest font-semibold">{label}</div>
+      <div className={`text-4xl font-black tracking-tight ${verdict ? "text-red-400" : "text-emerald-400"}`}>
+        {verdict ? yes : "✓ LEGAL"}
+      </div>
+      {detail && <div className="text-xs text-[var(--color-muted)] mt-1">{detail}</div>}
     </div>
   );
 }
 
 function FrameTimeline({ frames, total }: { frames: FrameResult[]; total: number }) {
   if (!frames.length) return null;
-  const events = frames.filter(
-    (f) => f.is_wide || f.is_noball || f.contact || f.ball_pos !== null
-  );
+  const hasEvents = frames.some((f) => f.is_wide || f.is_noball || f.contact);
+  if (!hasEvents) return null;
 
   return (
-    <div className="mt-6">
+    <div className="mt-4">
       <h3 className="text-sm font-semibold text-[var(--color-muted)] uppercase tracking-wider mb-2">
         Frame Timeline
       </h3>
-      {/* progress-bar style timeline */}
       <div className="relative h-8 bg-white/5 rounded-full overflow-hidden w-full">
         {frames.map((f) => {
           const pct = ((f.frame - 1) / Math.max(total - 1, 1)) * 100;
@@ -84,13 +90,12 @@ function FrameTimeline({ frames, total }: { frames: FrameResult[]; total: number
           if (f.is_wide) color = "bg-red-500";
           else if (f.is_noball) color = "bg-orange-400";
           else if (f.contact) color = "bg-yellow-400";
-          else if (f.ball_pos) color = "bg-[var(--color-cricket)]";
           if (!color) return null;
           return (
             <div
               key={f.frame}
-              title={`Frame ${f.frame}: ${f.is_wide ? "WIDE" : f.is_noball ? "NO BALL" : f.contact ? "CONTACT" : "Ball"}`}
-              className={`absolute top-0 h-full w-1 ${color} opacity-80`}
+              title={`Frame ${f.frame}: ${f.is_wide ? "WIDE" : f.is_noball ? "NO BALL" : "CONTACT"}`}
+              className={`absolute top-0 h-full w-1 ${color} opacity-90`}
               style={{ left: `${pct}%` }}
             />
           );
@@ -100,7 +105,6 @@ function FrameTimeline({ frames, total }: { frames: FrameResult[]; total: number
         <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full bg-red-500 inline-block" /> Wide</span>
         <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full bg-orange-400 inline-block" /> No-Ball</span>
         <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full bg-yellow-400 inline-block" /> Contact</span>
-        <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full bg-[var(--color-cricket)] inline-block" /> Ball</span>
       </div>
     </div>
   );
@@ -465,31 +469,23 @@ export default function CricketAnalyzePage() {
                   </div>
                 )}
 
-                {/* Summary stats */}
-                <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
-                  <StatCard
-                    label="Ball Detected"
-                    value={result.summary.ball_detected_frames}
-                    color="text-[var(--color-cricket)]"
-                    sub={`of ${result.total_frames} frames`}
+                {/* Delivery verdicts */}
+                <div className="grid grid-cols-2 gap-4">
+                  <VerdictCard
+                    label="Wide Ball"
+                    verdict={result.summary.wide_count > 0}
+                    yes="◀ WIDE ▶"
+                    detail={result.summary.wide_count > 0
+                      ? `${result.summary.wide_count} wide frame${result.summary.wide_count > 1 ? "s" : ""} detected`
+                      : "Ball within legal boundary"}
                   />
-                  <StatCard
-                    label="Contact Events"
-                    value={result.summary.contact_count}
-                    color="text-yellow-400"
-                    sub="bat-ball hits"
-                  />
-                  <StatCard
-                    label="Wides"
-                    value={result.summary.wide_count}
-                    color={result.summary.wide_count > 0 ? "text-red-400" : "text-[var(--color-muted)]"}
-                    sub="wide balls"
-                  />
-                  <StatCard
-                    label="No Balls"
-                    value={result.summary.noball_count}
-                    color={result.summary.noball_count > 0 ? "text-orange-400" : "text-[var(--color-muted)]"}
-                    sub="foot faults"
+                  <VerdictCard
+                    label="No Ball"
+                    verdict={result.summary.noball_count > 0}
+                    yes="NO BALL"
+                    detail={result.summary.noball_count > 0
+                      ? `${result.summary.noball_count} foot-fault frame${result.summary.noball_count > 1 ? "s" : ""} detected`
+                      : "Front foot behind crease"}
                   />
                 </div>
 
