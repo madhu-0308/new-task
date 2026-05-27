@@ -489,10 +489,6 @@ export default function CricketAnalyzePage() {
                   />
                 </div>
 
-                {/* Key events */}
-                <div className="bg-[var(--color-bg-2)] border border-[var(--color-bd)] rounded-xl p-4">
-                  <EventTable frames={result.frames} />
-                </div>
 
               </div>
             )}
