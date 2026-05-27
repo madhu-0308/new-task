@@ -489,9 +489,8 @@ export default function CricketAnalyzePage() {
                   />
                 </div>
 
-                {/* Frame timeline */}
+                {/* Key events */}
                 <div className="bg-[var(--color-bg-2)] border border-[var(--color-bd)] rounded-xl p-4">
-                  <FrameTimeline frames={result.frames} total={result.total_frames} />
                   <EventTable frames={result.frames} />
                 </div>
 
